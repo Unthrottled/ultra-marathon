@@ -387,14 +387,6 @@ export const baseStyles = css`
     color: #001934;
   }
 
-  .greenCircle {
-    width: 8px;
-    height: 8px;
-    background-color: #1cd3c6;
-    border-radius: 50%;
-    margin: 0 12px;
-  }
-
   .headerNav {
     font-family: 'Roboto';
     padding: 0px 24px;

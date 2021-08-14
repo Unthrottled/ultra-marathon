@@ -47,7 +47,7 @@ Write markdown files in `content` folder.
 
 Open `config.js` for templating variables. Broadly configuration is available for `gatsby`, `header`, `sidebar` and `siteMetadata`.
 
-- `gatsby` config for global configuration like 
+- `gatsby` config for global configuration like
     - `pathPrefix` - Gatsby Path Prefix
     - `siteUrl` - Gatsby Site URL
     - `gaTrackingId` - Google Analytics Tracking ID
@@ -70,7 +70,6 @@ Open `config.js` for templating variables. Broadly configuration is available fo
     - `title` - Title of the website
     - `description` - Description of the website
     - `ogImage` - Social Media share og:image tag
-    - `docsLocation` - The Github URL for Edit on Github
 
 - For sub nesting in left sidebar, create a folder with the same name as the top level `.md` filename and the sub navigation is auto-generated. The sub navigation is alphabetically ordered.
 

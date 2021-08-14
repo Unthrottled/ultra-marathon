@@ -3,10 +3,10 @@ import Helmet from 'react-helmet';
 import { graphql } from 'gatsby';
 import MDXRenderer from 'gatsby-plugin-mdx/mdx-renderer';
 
-import { Layout, Link } from '$components';
+import { Layout } from '$components';
 import NextPrevious from '../components/NextPrevious';
 import config from '../../config';
-import { Edit, StyledHeading, StyledMainWrapper } from '../components/styles/Docs';
+import { StyledHeading, StyledMainWrapper } from '../components/styles/Docs';
 
 const forcedNavOrder = config.sidebar.forcedNavOrder;
 
@@ -20,12 +20,8 @@ export default class MDXRuntimeTest extends Component {
     const {
       allMdx,
       mdx,
-      site: {
-        siteMetadata: { docsLocation, title },
-      },
     } = data;
 
-    const githubIcon = require('../components/images/github.svg').default;
     const navItems = allMdx.edges
       .map(({ node }) => node.fields.slug)
       .filter(slug => slug !== '/')
@@ -91,13 +87,6 @@ export default class MDXRuntimeTest extends Component {
         </Helmet>
         <div className={'titleWrapper'}>
           <StyledHeading>{mdx.fields.title}</StyledHeading>
-          <Edit className={'mobileView'}>
-            {docsLocation && (
-              <Link className={'gitBtn'} to={`${docsLocation}/${mdx.parent.relativePath}`}>
-                <img src={githubIcon} alt={'Github logo'} /> Edit on GitHub
-              </Link>
-            )}
-          </Edit>
         </div>
         <StyledMainWrapper>
           <MDXRenderer>{mdx.body}</MDXRenderer>
@@ -112,12 +101,6 @@ export default class MDXRuntimeTest extends Component {
 
 export const pageQuery = graphql`
   query($id: String!) {
-    site {
-      siteMetadata {
-        title
-        docsLocation
-      }
-    }
     mdx(fields: { id: { eq: $id } }) {
       fields {
         id
