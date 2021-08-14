@@ -1,15 +1,14 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://unthrottled.io',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
-    logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
-    logoLink: 'https://hasura.io/learn/',
-    title:
-      "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
+    logo: 'https://unthrottled.io/brand.svg',
+    logoLink: 'https://unthrottled.io/',
+    title: "",
     githubUrl: '',
     helpUrl: '',
     tweetText: '',
@@ -40,7 +39,7 @@ const config = {
     title: 'Ultramarathon',
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    favicon: 'https://unthrottled.io/brand.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
