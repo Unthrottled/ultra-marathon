@@ -4,31 +4,18 @@ metaTitle: "I did this."
 metaDescription: "This is the meta description"
 ---
 
-Back in  2014, I started searching for something.
-My expectations on what I would find where unclear.
-Meaning that I really would not know once I found it.
+Back when I unknowingly started my _ultramarathon_, I did not have any clear set goals or things that I wanted to accomplish.
+If I did, then it was not important enough of an event for me to remember.
 
-# Heading H1
-Heading 1 text
+However, as time passed, think I realized that I could dedicate my effort accomplishing something specific.
+What I was searching for was a way to fill a specific skill weakness or desire.
 
-## Heading H2
-Heading 2 text
+A ton of my time has been invested into completing tasks that worked me towards my main goals.
+It makes me pretty happy that over the last 4 years, I've only got 3 major accomplishments.
+I never explicitly planned out what I wanted to work on, goals happen to appear as time moved on.
+Serendipity may come to mind, or even happy accidents.
+In reality, I feel like I just stumble on something and decide to roll with it.
 
-### Heading H3
-Heading 3 text
 
-#### Heading H4
-Heading 4 text
-
-##### Heading H5
-Heading 5 text
-
-###### Heading H6
-Heading 6 text
-
-## Lists
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+This effort of self-reflection showed that I stayed on a simple but difficult path.
+I do not want many things is life, but I _do_ want the things that I own to have great meaning.
