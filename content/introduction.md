@@ -26,11 +26,15 @@ That being said, I knew university was the _real deal_.
 Felt the weight of not getting any scholarships or being a model student, even more. This was the big leagues, not just the extended high-school program the 2 year college felt like. I entered university with my newly forming work ethic though, on the back of my parent's dime.
 
 Needless to say, university was a brand new experience.
-I was responsible for myself, I was alone for the first time, _and_ I could not mess up my grades. There is a saying: "Good Grades, Sleep, and a Social Life, pick two." Well, I chose the first two, not that I had a blooming social life to start off with. So my first two semesters, I did really well in all of my courses.
+I was responsible for myself, I was alone for the first time, _and_ I could not mess up my grades. There is a saying: "Good Grades, Sleep, and a Social Life, pick two." Well, I chose the first two, not that I had a blooming social life to start off with. So my first two semesters, I did really well in all of my courses. The cherry on top was I enjoyed the major I was given.
 
-Since this was university, I did not have summer classes like I did back in college. It was my 3rd year of higher education, and I had the late realization of, "I should get an internship."
+Since this was university, I did not have summer classes like I did back in college. It was my 3rd year of higher education, and I had the late realization of, "I should get an internship." The technical folks at Dad's workplace were nice enough to take me in for the summer, I even got paid!
 
+Though I did not know it at the time, that summer was the very beginning of my current chapter in life. The realization of the shear amount of things I did not know, dawned on me. I spent the entire summer picking up new concepts I had never even heard of before. I would like to think that I also did a good job in the process, because they let me come back over winter break and the next summer.
 
+By this time, I already sub-consiously knew that I needed to change who I was if I wanted to make up for my unremarkable past life. Therefore, I guess past me thought that part of that was loosing 140lbs (63kilos). There really was not a specific day or reason where I decided to make the change, but it happened. So over the course of a year I just barely ate enough food to get by. I learned that you can loose weight without exercising. I also gained a very unhealthy relationship with food, which took me a solid 5 years to overcome. I went from eating until I was more than full, to not eating anything, to overly high-strung food prepper, to not caring because I know my body now. This is a story for another day, and I will leave it as such. Important point is that fall 2013 was is the unknowing beginning of my high-octane life chapter.
+
+Now that I was a skinny-fat 160lb (73kg), I felt like I could actually work out now. So fall 2014, my last semester of university (the fifth one if you are counting), I started to work out. I had a goal, I wanted to be able to do one-pull up. Being an obese growing up, it was something I was never able to do.
 
 # Finding my purpose
 
