@@ -23,7 +23,7 @@ Being given material goods and attention was a pleasant experience that I wanted
 However, my purpose for getting good grades had changed when I entered my 2 years at university. I had already decided that I wanted to do something computer related, so my mother did all the leg work into getting me into university. Further postponing the my ownership of adult responsibilities.
 
 That being said, I knew university was the _real deal_.
-Felt the weight of not getting any scholarships or being a model student, even more. This was the big leagues, not just the extended high-school program the 2 year college felt like. I entered university with my newly forming work ethic though, on the back of my parent's dime.
+Felt the weight of not getting any scholarships or being a model student, even more. This was the big leagues, not just the extended high-school program the 2 year college felt like. I entered university with my newly forming work ethic though, on the back of my parent's dime. I was no longer working hard for material things, but to make my parent's more proud of me.
 
 Needless to say, university was a brand new experience.
 I was responsible for myself, I was alone for the first time, _and_ I could not mess up my grades. There is a saying: "Good Grades, Sleep, and a Social Life, pick two." Well, I chose the first two, not that I had a blooming social life to start off with. So my first two semesters, I did really well in all of my courses. The cherry on top was I enjoyed the major I was given.
@@ -34,33 +34,18 @@ Though I did not know it at the time, that summer was the very beginning of my c
 
 By this time, I already sub-consiously knew that I needed to change who I was if I wanted to make up for my unremarkable past life. Therefore, I guess past me thought that part of that was loosing 140lbs (63kilos). There really was not a specific day or reason where I decided to make the change, but it happened. So over the course of a year I just barely ate enough food to get by. I learned that you can loose weight without exercising. I also gained a very unhealthy relationship with food, which took me a solid 5 years to overcome. I went from eating until I was more than full, to not eating anything, to overly high-strung food prepper, to not caring because I know my body now. This is a story for another day, and I will leave it as such. Important point is that fall 2013 was is the unknowing beginning of my high-octane life chapter.
 
-Now that I was a skinny-fat 160lb (73kg), I felt like I could actually work out now. So fall 2014, my last semester of university (the fifth one if you are counting), I started to work out. I had a goal, I wanted to be able to do one-pull up. Being an obese growing up, it was something I was never able to do.
+Now that I was a skinny-fat 160lb (73kg), I felt like I could actually work out now. So fall 2014, my last semester of university (the fifth one if you are counting), I started to work out. I had a goal, I wanted to be able to do one chin-up. A chin-up is the variant of the pull down exercise where the palms of the hand are facing in-wards and elbows are away from the body. It is the bicep-centric version of the king  bodyweight pull exercise. The pull-up is the variant where the palms face outwards and the elbows travel into the sides of the body. Being obese growing up, it was something I was never able to do.
+I distinctly remember thinking to myself when I first started working out, "I wish I started sooner, that way everthing, right now, would not be as difficult."
+Curling any weight more than 12lbs was a struggle. Somehow, I expected to be able to hold onto and pull down 80lbs (36kg) with each hand. It took a solid 5 months of working out for me to be able to perform one chin-up.
 
-# Finding my purpose
+It was at the end of the fall semester 2014 that cemented the current projection of how I wanted to live my life. I was able to complete university with my head held high. In fact, I remember feeling super confident about my last test that I ever took at university. Not having to cram at the last minute like others, because I already spent the time and knew the material. That feeling of being in control and knowing I aced my last exam is a savory memory. In addition, working out was amazing, being able to accomplish things I never thought possible. Plus, not feeling like garbage everyday when waking up was a humongous plus.
 
-# Long Duration != Good
+Life satisfaction is amazing and I wanted more of that. The feeling of accomplishment and knowing I can have a purpose, really solidified the validation of work in the past 3 years of my life. I was hooked, and I knew what I wanted to spend the next significate portion of my life doing. I needed to see what I am fully capable of accomplishing. An attempt to make up for the 7 years I never really tried at anything important.
 
-# Heading H1
-Heading 1 text
+> Note, I do not count time when I was in 6th grade or younger. Nobody expects anything amazing from an 12 year old.
 
-## Heading H2
-Heading 2 text
+I want to see where my full potential lies. I would run myself into the ground to get it but, I would pick myself back up and ask for more. Purposely seeking out difficult challenges to see how I measure up. I have spent a lot of time by myself, because of that. I tend to be where nobody else is, because it is really uncomfortable. I will save this story for another article though.
 
-### Heading H3
-Heading 3 text
+At the time of this writing, it has been over 9 years since I realized that I can apply myself and succeed. While it has been 7 years since becoming a hyper-focused, self-improvement zealot, and about 4 of those I have dedicated to my _ultramarathon_.
 
-#### Heading H4
-Heading 4 text
-
-##### Heading H5
-Heading 5 text
-
-###### Heading H6
-Heading 6 text
-
-## Lists
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+Join me as I share lessons learned by trying really hard to find self actualization and seeing what I can handle.
