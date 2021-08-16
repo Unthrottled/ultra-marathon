@@ -7,7 +7,7 @@ const config = {
   },
   header: {
     logo: 'https://unthrottled.io/brand.svg',
-    logoLink: 'https://unthrottled.io/',
+    logoLink: '/',
     title: "",
     githubUrl: '',
     helpUrl: '',
@@ -24,7 +24,11 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
+      '/butwhy',
+      '/accomplishments',
+      '/thestrugglebus',
+      '/reflections',
+      '/nextchapter',
       '/codeblock',
     ],
     collapsedNav: [
