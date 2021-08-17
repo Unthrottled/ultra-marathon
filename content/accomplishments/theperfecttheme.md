@@ -91,6 +91,20 @@ At the time of writing this, I have curated 61 unique color themes, paired with 
 
 # Seriously?
 
-For serious.
+For serious. I credit _Anime Girls_ as the reason my current skill level is as sharp as it is.
+College was a great experience for me, however, the 2.5 years I spent studying Computer Science pales to the shear amount of exposure of "put _Anime Girls_ on every piece of software" 3 years has given me.
+In addition, a large portion of my professional career has greatly benefited from past problems solved building out the Doki Theme across platforms.
+
+Join me friend, as I reflect on all the problems and solutions building tooling to support _anime girls_ on all the important pieces of software.
+
+### Hide-n-Seek Boss
+
+### Globally Distributed Cache
+
+### Composable Build Structure
+
+### JVM Wizardry
+
+### Polyglot Problems
 
 # The Perfect Theme
