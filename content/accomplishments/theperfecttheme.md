@@ -12,7 +12,7 @@ No, I want to look them dead in the eyes and honestly answer:
 
 ![One of life's greatest treasures: Anime Girls](../images/one_of_lifes_greatest_treasures.jpg)
 
-Anything else would just be covering up this fact. I attribute most of my technical prowess, because of _anime girls_.
+Anything else would just be covering up this fact. I attribute most of my technical prowess to _anime girls_.
 
 For starters, I am not the kind of person that always has the "next hot idea". I have difficulty creating from a blank
 slate. I am more of a give me a problem, I will find a way to bridge the gap. Needless to say, when I came up with the
@@ -42,11 +42,52 @@ This is a can of worms that I do not feel like opening, so I will leave it here.
 Time has taught me that the mind is a muscle.
 It needs blood to function, it runs on sugar, it has the ability respond to stimulus, it needs a break, and it gets stronger after recovery.
 I found this out real quick when I started to do more _creative_ work in programming.
+In this leg of my journey, I had already had a few years of hyper-focused career study and plenty of work experience on programming problems. Meaning that I was fairly good at spending many short and focused time intervals solving these "left-brained" problems.
+It was not until I started expecting myself to perform with the same focus patterns and durations on "right-brained" problems, that I found out there is a difference.
 
+Reflecting, it might just because I have gotten to the point where I did not have to think as hard to accomplish programming problems as I did to make art. At the time, it just felt like I could only work artistic challenges for shorter durations of times. In addition to needing a longer hiatus before starting the next artistic epic.
 
-![Gray, before & after](../images/doki/gray_before_after.png)
+One of my favorite things is art vectorization, which is just a fancy term for, "Alex trace art good."
+Vectorization is the most time-consuming and artistically challenging part of building my themes.
+There is a fair amount that goes into the process:
 
-![Shima Rin, before & after](../images/doki/rin_before_after.png)
+- Decomposing the subject into layers that stack to the final product.
+- Interpolating shape outlines using Bézier curves in each stack.
+- Filling in gaps while maintaining perspective.
+- Choosing the right colors that contrast just well enough to detect outlines.
+
+Just converting one subject required a tremendous amount of effort.
+Something I learned when staring at other peoples art at a micro-level detail, is that nobody is perfect.
+I have learned that nobody draws in perfect Bezier curves, and getting perspective right is also hard for other artists. They just do a better job at hiding the inconsistencies.
+
+<details>
+<summary>Vectorization Progression (click to expand)</summary>
+
+I've ordered all art vectorized by me from oldest at the top to newest at the bottom.
+Girls are grouped by the themed release they appear in.
+I thought it might be interesting to see the progression of my style over time.
+
+![v7_girl.png](../images/doki/v7_girl.png)
+![v8_girls.png](../images/doki/v8_girls.png)
+![v9_girl.png](../images/doki/v9_girl.png)
+![v10_girl.png](../images/doki/v10_girl.png)
+![v11_girls.png](../images/doki/v11_girls.png)
+![v12_girls.png](../images/doki/v12_girls.png)
+![v13_girls.png](../images/doki/v13_girls.png)
+![v14_girls.png](../images/doki/v14_girls.png)
+![v15_girls.png](../images/doki/v15_girls.png)
+![v16_girls.png](../images/doki/v16_girls.png)
+![v17_girls.png](../images/doki/v17_girls.png)
+![v18_girls.png](../images/doki/v18_girls.png)
+
+</details>
+
+My skills have gotten to the point where creating the art pieces needed for each theme no longer tax me as much.
+Producing each caricature also takes less time than before, probably because I avoid complicated and highly detailed art.
+It has gotten to the point, where I think I could produce a new batch of themes one after another.
+Unfortunately, I have to weigh that with the scalability of maintaining another theme while keeping the existing themes special.
+At the time of writing this, I have curated 61 unique color themes, paired with assets of the character they are modeled after. Which is a nice segue into the next section where I talk about the technical hurdles need to be overcome for such a ridiculous number of themes.
+
 
 # Seriously?
 
