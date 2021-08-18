@@ -58,7 +58,7 @@ There is a fair amount that goes into the process:
 
 Just converting one subject required a tremendous amount of effort.
 Something I learned when staring at other peoples art at a micro-level detail, is that nobody is perfect.
-I have learned that nobody draws in perfect Bezier curves, and getting perspective right is also hard for other artists. They just do a better job at hiding the inconsistencies.
+I have learned that nobody draws in perfect Bézier curves, and getting perspective right is also hard for other artists. They just do a better job at hiding the inconsistencies.
 
 <details>
 <summary>Vectorization Progression (click to expand)</summary>
@@ -115,21 +115,84 @@ I have picked up various methods of where to start looking for an object of inte
 
 If I could recommend anything to bring your skills up, as a developer, this would be it.
 Reading other peoples code and not being afraid to dive into foreign code. I would also highly recommend finding a massive codebase to work along-side. Such as: [IntelliJ](https://github.com/JetBrains/intellij-community), [VSCode](https://github.com/microsoft/vscode), [Hyper.js](https://github.com/vercel/hyper), and [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/extensibility/visual-studio-sdk?view=vs-2019).
-While those are all unique to my `plugin developer` path, there are other large opensource projects that are waiting to be explored. The real challenge is, what is the reason you are needing to read and work with this codebase? I already have mine.
+While those codebases are unique to my _plugin developer_ path, there are other large opensource projects that are waiting to be explored. The real challenge is, what is the reason you are needing to read and work with this codebase? I already have mine.
 
 
-### JVM Wizardry
+### The JVM & Black Magic
 
-At this point in time, I feel like I know a bit too much about how the Java Virtual Machine (JVM) works.
+At this point in time, I feel like I know a bit too much about how Java Virtual Machine (JVM) based applications work. The large majority of this experience was derived from working along side the very large JVM based application, _IntelliJ_. Yet again, building a [JetBrains IDE plugin](https://github.com/doki-theme/doki-theme-jetbrains) has given me valuable experience.
 
-As I have been developing my themes, I have been trying to find unique color palettes that make pleasant themes.
-Essentially pushing the boundaries of what should and should not be tolerable.
-This in turn has presented a big challenge because, what I want to do is not generally what the IDE developers anticipated.
+As I have been developing my themes, I have been trying to find unique color palettes that make pleasant themes. Essentially pushing the boundaries of what should and should not be tolerable.
+Which presents its own unique set of challenges. Mainly, what I want to make the IDE do is not what the IDE developers anticipated when building out there look and feel. The platform belongs to them, and they can do what they like. However, hard coding colorings and not letting things be customizable is _frustrating_.
+
 One of the things that bothers me a bunch is inconsistencies in styling.
+I want my themes to be a buttery smooth experience, and I will not let that one gray border in the obscure window in the settings, ruin that. So I have a couple options available to me.
+
+- Be a good steward of opensource code, and submit a patch that allows me to customize the platform.
+- Re-Write the platform's compiled code at runtime.
+
+The latter does not require the changes to be reviewed by a maintainer, merged into the codebase, and eventually put into a release. Using [Javassist](https://www.javassist.org/) is probably the most _lazy_ solution to a problem, but it is the quickest! So, that is how I learned that one can literally re-write a libraries code to fix problems. Instead of properly submitting a patch upstream.
+
+Asides the joys of working with IntelliJ, there is another adventure I partook in that gave me more JVM knowledge. However, I am less excited to tell this tail, because I also had to develop an [Eclipse plugin](https://github.com/doki-theme/doki-theme-eclipse). The experience, as compared to JetBrains, was much more dis-heartening. None of the documentation was current, up to date, or easy to find. Tutorials or examples where ancient and not helpful. In addition, I also got to learn about [OSGi](https://en.wikipedia.org/wiki/OSGi) and other various classloading problem of Eclipse builds. I got to learn that it is very important where complied classes go within a Java Archive (jar), and the significance of the [_jar_ manifest file](https://docs.oracle.com/javase/tutorial/deployment/jar/downman.html). Yay, classpath issues!
 
 ### Globally Distributed Cache
 
+There was a problem that I discovered in my early hoarding phase of anime girls.
+That problem was, I will eventually mess up a tiny detail in one of the assets.
+Once I have noticed this inconsistency, it will be the only thing that I can see when looking at the asset. The process of fixing the issue would be:
+
+- Correct the asset.
+- Update the codebase with corrected asset.
+- Re-Build Plugin.
+- Submit plugin to marketplace.
+- Wait 2 days for administrative approval.
+- User downloads update and has to restart IDE.
+
+Updating the asset and re-building the plugin was fine for me.
+However, I did not like the user experience of having to restart on every update.
+Also, there was another thing that was lingering in my mind as a potential problem.
+At the time, I was using assets that I found on the internet.
+One of the things that I wanted to avoid was a long time between somebody asking me to revoke the usage of an asset and when all users are no longer using the version that uses said asset.
+
+The solution that I wanted should be able to:
+
+- Take new updates without the user knowing.
+- Be able to push new updates and have them take effect quickly.
+
+What I settled for was Amazon's [CloudFront](https://aws.amazon.com/cloudfront/) to globally host all the assets at https://doki.assets.unthrottled.io/. Once the plugin is downloaded and a theme is set, assets will be downloaded from the CDN. Once the assets have been downloaded, the next phase of asset management begins. To detect if the asset changes, once a day, the plugin will calculate the [MD5](https://en.wikipedia.org/wiki/MD5) of the asset locally, and compare it to the pre-calculated MD5 hash available on the CDN. This way users are only downloading 32 bytes of information, instead of the much large asset. That fact is important, because bandwidth it cost money, so fewer data set means lower costs. I am currently providing my themes as a free product, so I would like to keep my expenses to a minimum! If the locally computed hash is different from the remote hash, then the new asset is downloaded and replaced on the users machine. That way they can still use the plugin offline.
+
+Here is an example of an asset and checksum combination
+
+| Asset | Checksum |
+| --- | --- |
+| <img src="https://doki.assets.unthrottled.io/stickers/jetbrains/v2/nekoPara/cinnamon/dark/cinnamon_dark.png" style="min-height: 250px; min-width: 164px;"/> | https://doki.assets.unthrottled.io/stickers/jetbrains/v2/nekoPara/cinnamon/dark/cinnamon_dark.png.checksum.txt |
+
+Essentially, almost all the plugins that use any assets follow the aforementioned process of managing assets.
+Looking at you, [GitHub themes](https://github.com/doki-theme/doki-theme-github), you non-conformist plugin and your "user security pre-cautions".
+
+I think it is really neat that there are almost 1,000 nodes of my cache that are distributed around the world and that self-managing themselves. Providing a seamless and pleasant user experience. While giving me the peace of mind that I can change assets if need be. Thankfully, as time has gone on, I have gotten better at building assets and most of the assets are created by me.
+
 ### Composable Build Structure
+
+Another nice problem that revealed itself in the beginning stages of my collection was, _maintaining themes is difficult_. As platform evolve, so do the themes. New elements get added, removed, deprecated, and the such.
+Handling these issues was not really a problem when I first started off with 4 themes.
+Then 4 Grew into 8, then into 14. By the time I had reached 14, it was immediately apparent that this was not a scalable operation. It was really difficult to make updates and keep track of all the things.
+There were a couple of options that I had available to me:
+
+- Get rid of themes and only keep the important ones.
+- Make it easier to maintain a large number of themes.
+
+One is heresy and the other is a lot of work. I am up to **61** themes now, that number might be _64_ if I decide I need a break from writing my memoir, you can hazard a guess which option I took.
+
+So how does one make maintaining a large amount of themes easy?
+
+- Create a centralized [theme definition file](https://github.com/doki-theme/doki-master-theme/blob/master/definitions/franxx/zeroTwo/dark/zero.two.dark.master.definition.json) which includes thing such as: a unique ID, various naming metadata, grouping information, available asset metadata, and color codings.
+- Create a [composable & extendable](https://github.com/doki-theme/doki-theme-vscode/blob/master/buildSrc/assets/templates/dark.base.laf.template.json) template interface that can be evaluated and values provided for each theme.
+- Maintain [application specific definitions](https://github.com/doki-theme/doki-theme-vscode/blob/master/buildSrc/assets/themes/franxx/zeroTwo/dark/zero.two.dark.vsCode.definition.json) that allow you to fix small one-off issues across platforms.
+- Centralize [the theme build process](https://github.com/doki-theme/doki-build-source).
+- Automate, Automate, Automate.
+
+
 
 ### Polyglot Problems
 
