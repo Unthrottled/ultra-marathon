@@ -92,18 +92,44 @@ At the time of writing this, I have curated 61 unique color themes, paired with 
 # Seriously?
 
 For serious. I credit _Anime Girls_ as the reason my current skill level is as sharp as it is.
-College was a great experience for me, however, the 2.5 years I spent studying Computer Science pales to the shear amount of exposure of "put _Anime Girls_ on every piece of software" 3 years has given me.
-In addition, a large portion of my professional career has greatly benefited from past problems solved building out the Doki Theme across platforms.
+College was a great experience for me, however, the time I spent studying Computer Science pales to the shear amount of exposure of "put _Anime Girls_ on every piece of software" has given me.
+In addition, a large portion of my professional career has greatly benefited from past problems solved building out the Doki Theme across various platforms.
 
 Join me friend, as I reflect on all the problems and solutions building tooling to support _anime girls_ on all the important pieces of software.
 
 ### Hide-n-Seek Boss
 
+My journey began developing the Doki Theme as a [JetBrains product plugin](https://github.com/doki-theme/doki-theme-jetbrains). Therefore, this project holds a special place in my heart.
+For the first year or so, when I was building out my themes, I had no idea how to figure out things where styled.
+I also did not know that there was [documentation on how to build a theme](https://plugins.jetbrains.com/docs/intellij/themes.html). Looking back, that probably did not exist when I first started. I also missed out, early on, on the game changing [UI Inspector](https://plugins.jetbrains.com/docs/intellij/internal-ui-inspector.html#enabling-the-ui-inspector). On top of that, I do not (and still do not) understand how Java Swing works fully.
+
+Hindsight is 20-20, though I could have used those tools at the time, not having them gave me one of my best skills: Being able to find functionality in other people's code.
+If this whole programming thing does not work out, being a detective might be an amazing alternative.
+
+[IntelliJ Idea's opensource codebase](https://github.com/JetBrains/intellij-community) is where I leveled up my skill set in: being able to find something, reading other peoples code, and guessing how things work.
+The code base currently consists of **361,181** of files.
+If you are not aware, this presents many challenges. Most problems boil down to, "Holy Cow! There is a lot of stuff and things are slow." Thankfully, JetBrains has there stuff together, and made an amazing tool.
+Meaning that I could use IntelliJ to browse IntelliJ's code, without wanting to die.
+
+I have picked up various methods of where to start looking for an object of interest. Most of which are unique to my experiences and will not probably be useful for others. That being said, it does translate well when to find a bug in code. Bugs in code are just unknown or unexpected behaviour that potentially lives inside a codebase. The bugs that exist outside the code are more difficult to find, but there are other tools to find those.
+
+If I could recommend anything to bring your skills up, as a developer, this would be it.
+Reading other peoples code and not being afraid to dive into foreign code. I would also highly recommend finding a massive codebase to work along-side. Such as: [IntelliJ](https://github.com/JetBrains/intellij-community), [VSCode](https://github.com/microsoft/vscode), [Hyper.js](https://github.com/vercel/hyper), and [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/extensibility/visual-studio-sdk?view=vs-2019).
+While those are all unique to my `plugin developer` path, there are other large opensource projects that are waiting to be explored. The real challenge is, what is the reason you are needing to read and work with this codebase? I already have mine.
+
+
+### JVM Wizardry
+
+At this point in time, I feel like I know a bit too much about how the Java Virtual Machine (JVM) works.
+
+As I have been developing my themes, I have been trying to find unique color palettes that make pleasant themes.
+Essentially pushing the boundaries of what should and should not be tolerable.
+This in turn has presented a big challenge because, what I want to do is not generally what the IDE developers anticipated.
+One of the things that bothers me a bunch is inconsistencies in styling.
+
 ### Globally Distributed Cache
 
 ### Composable Build Structure
-
-### JVM Wizardry
 
 ### Polyglot Problems
 
