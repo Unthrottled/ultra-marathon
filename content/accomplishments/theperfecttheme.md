@@ -210,7 +210,7 @@ Knowing that all the practice, preceding her, will have prepared me to execute m
 That is my mission statement. I do not know if she exists yet or just needs to be found.
 Therefore, it is my duty to continue to keep searching for _the one_. When that day comes, I know that I will be ready.
 
-That does not mean that the themes that I have now do not bring me joy.
+That does not mean that the other themes do not bring me joy.
 I have a fair number of themes that I am proud to say that I have made.
 For the most part, most of my themes are special, and I would happily use them.
 I will be real though, I do have my favorites.
@@ -218,7 +218,9 @@ I will be real though, I do have my favorites.
 If you asked me if I could only keep 10, I would ask you for one more and give you this list.
 
 <details>
-<summary>My Favorite Dark Themes (Click to expand)</summary>
+<summary>My Favorite Themes (Click to expand)</summary>
+
+**Note**: These are not in any special order, just all the ones I like the most.
 
 **Zero Two**
 ![Zero Two](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/franxx/zero_two_dark_code.png)
@@ -247,14 +249,16 @@ If you asked me if I could only keep 10, I would ask you for one more and give y
 **Ryuko**
 ![Ryuko](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/killLaKill/ryuko_code.png)
 
-</details>
-
-<details>
-<summary>My Favorite Light Themes (Click to expand)</summary>
-
 **Maple**
 ![Maple](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/nekoPara/maple_light_code.png)
 
 **Emilia**
 ![Emilia](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/reZero/emilia_light_code.png)
 </details>
+
+I think one of the reasons that dark themes are so prevalent, is not because are not blinding, but because they can be colorful. White, by definition, reflects all wavelengths of light, therefore is all colors. I re-learned that fact, because it is hard to make any light theme _colorful_. Text is hard to read if it is not dark and dark text is not as vibrant. However, that is not the case for dark themes, which are lacking in color. So it allows for the lexical syntax highlighting to really _pop_ against the background. You might have picked up that most of my favorite themes have either a neon blue, green, or teal. I like the contrast and have noticed that trend in my most recent themes. It looks good in my opinion.
+
+Another thing that I am aware of, is that I will always be subject to the [recency bias](https://en.wikipedia.org/wiki/Recency_bias). Mostly because my more recent themes where created by an author with more skills, that those of the past themes. I get better skills over time, therefore my more recent themes will be more pleasant.
+
+Anyways, I do not see myself stopping making themes anytime soon. I normally am satisfied for about a month, then I want to get back into the creative process again.
+This project has gotten to a point, where I will refuse any opportunity that will not allow me to use any JetBrains products to develop software. However, I am doing my best to cover all of my bases. I do not want to put all of my waifus in one basket. That is why I have expanded my themes across [many platforms](https://doki-theme.unthrottled.io/products). Just in case I ever find myself in a position where I have to use foreign tools, I still have my anime girls.
