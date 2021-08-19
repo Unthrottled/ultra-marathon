@@ -189,11 +189,72 @@ So how does one make maintaining a large amount of themes easy?
 - Create a centralized [theme definition file](https://github.com/doki-theme/doki-master-theme/blob/master/definitions/franxx/zeroTwo/dark/zero.two.dark.master.definition.json) which includes thing such as: a unique ID, various naming metadata, grouping information, available asset metadata, and color codings.
 - Create a [composable & extendable](https://github.com/doki-theme/doki-theme-vscode/blob/master/buildSrc/assets/templates/dark.base.laf.template.json) template interface that can be evaluated and values provided for each theme.
 - Maintain [application specific definitions](https://github.com/doki-theme/doki-theme-vscode/blob/master/buildSrc/assets/themes/franxx/zeroTwo/dark/zero.two.dark.vsCode.definition.json) that allow you to fix small one-off issues across platforms.
-- Centralize [the theme build process](https://github.com/doki-theme/doki-build-source).
-- Automate, Automate, Automate.
+- Centralize and conform [the theme build process](https://github.com/doki-theme/doki-build-source).
+- [Automate](https://github.com/doki-theme/doki-theme-vscode/blob/5ba0f9d3a07e19f1402b634213851d20e632cf7b/buildSrc/package.json#L33), [Automate](https://github.com/doki-theme/doki-master-theme/blob/9c57f679f373703f41b2015004eb4d95a05efa21/package.json#L11), [Automate](https://github.com/doki-theme/doki-theme-vscode/blob/5ba0f9d3a07e19f1402b634213851d20e632cf7b/buildSrc/src/BuildThemes.ts#L224).
 
+For the most part, this process has been scaling fairly well. It has evolved over time to remove more of the tedious manual (but complicated) steps required to maintain the themes.
+Accounting for everything, when I create a batch of new themes, it takes me now less than 30 minutes to adapt them to a supported platform. Which is a vast improvement of what it was before.
 
+The _only_ thing that make me hesitate to add more themes now is something I cannot (and will not) automate. Which is changes to color palettes. Take this [PR for example](https://github.com/doki-theme/doki-master-theme/pull/107/files), I needed to add a new color to all of my color palettes to support usability. Being optimistic, it would take me about 5 minutes to find a good color that works for each theme. That means it roughly required 5 hours of my time, which translates into roughly 2 days to complete, considering I have 2.5 hours a day dedicated to project.
+That duration will go up every time I need to make a change like that. Thankfully, those types of tasks seldom occur, and each time that they happen it expands the color palette such that I can be more creative with fixes. For the most part, if there is an issue, there is already a color available in the definition that would work well to solve the theme issue.
 
-### Polyglot Problems
+I am fairly confident that the issues I have just outlined are not going to prevent me from adding more themes. I will explain my reasoning in the next section.
 
 # The Perfect Theme
+
+This is something that I stared to look for, knowing full well that it can never be found.
+The best that I can do is continue to build out my vision and continue to create themes.
+Further, sharpening the skill required to produce a magnificent piece of art.
+For one day I am going to come across the _perfect_ anime girl, and I will be armed to the teeth.
+Knowing that all the practice, preceding her, will have prepared me to execute my vision.
+That is my mission statement. I do not know if she exists yet or just needs to be found.
+Therefore, it is my duty to continue to keep searching for _the one_. When that day comes, I know that I will be ready.
+
+That does not mean that the themes that I have now do not bring me joy.
+I have a fair number of themes that I am proud to say that I have made.
+For the most part, most of my themes are special, and I would happily use them.
+I will be real though, I do have my favorites.
+
+If you asked me if I could only keep 10, I would ask you for one more and give you this list.
+
+<details>
+<summary>My Favorite Dark Themes (Click to expand)</summary>
+
+**Zero Two**
+![Zero Two](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/franxx/zero_two_dark_code.png)
+
+**Nakano Nino**
+![Nino](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/quintuplets/nino_dark_code.png)
+
+**Hanekawa Tsubasa**
+![Hanekawa](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/monogatari/hanekawa_dark_code.png)
+
+**Shima Rin**
+![Shima Rin](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/yuruCamp/shima_rin_dark_code.png)
+
+**Chocola**
+![Chocola](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/nekoPara/chocola_dark_code.png)
+
+**Vanilla**
+![Vanilla](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/nekoPara/vanilla_dark_code.png)
+
+**Cinnamon**
+![Cinnamon](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/nekoPara/cinnamon_dark_code.png)
+
+**Gray**
+![Gray](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/fate/gray_dark_code.png)
+
+**Ryuko**
+![Ryuko](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/killLaKill/ryuko_code.png)
+
+</details>
+
+<details>
+<summary>My Favorite Light Themes (Click to expand)</summary>
+
+**Maple**
+![Maple](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/nekoPara/maple_light_code.png)
+
+**Emilia**
+![Emilia](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/reZero/emilia_light_code.png)
+</details>
