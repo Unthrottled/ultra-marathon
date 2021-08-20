@@ -4,9 +4,10 @@ metaTitle: "Can word good"
 metaDescription: "This is the meta description"
 ---
 
-Very early into my professional career and just before my ultramarathon, I realized there was that I had a gap in a very specific skill. That skill
-was being able to express my thoughts in a coherent matter to others. Not being able to convey that something is not
-right about a design, requirement, or code. This fact was almost immediately apparent to me.
+Very early into my professional software development career and just before my ultramarathon, I realized there was that
+I had a gap in a very specific skill. That skill was being able to express my thoughts in a coherent matter to others.
+Not being able to convey that something is not right about a design, requirement, or code. This fact was almost
+immediately apparent to me.
 
 This was something that I had not learned about in school, nor did I expect this. I would be able to look at something,
 have a feeling that it is not correct, but was not able to pin-point the issue. Which would then in turn make it almost
@@ -18,9 +19,46 @@ programming journey. Everything was shiny and new, and I wanted to do everything
 
 # Accidentally Breaking The Communication Barrier
 
+At the time, I know that I wanted to make myself better at my career, however I had no idea what to do. What I was
+missing was the _next big idea_ to work on. Some project that I could spend my time totally focused on that would build
+my skills.
+
+In the end, I did come up with an idea. Which was, "I am going to consume as much information as I possibly can."
+When the topics are interesting, learning is just a positive side effect. I vividly remember when I started to listen
+to [Software Engineering Radio](https://www.se-radio.net/), the feeling of, _I do not know anything, and the amount of
+information out there to consume is humongous_.
+
+I took that as a hint, and should double down on my ability to consume information. I made it a point to become better
+at reading and listening to what other people have to say. Having only a limited amount of free time between commitments
+such as: work, sleep, exercise, and eating. Means that I had to learn how to densely pack in education, and still be
+able to retain it. Thankfully, we live in a world with technology, and people who like to speak words about interesting
+stuff.
+
+This means that most of my knowledge has been consumed in the form of audio, ranging from videos lectures, audiobooks,
+and podcasts. The shear weight of knowing that I would probably be spending years to get to where I want to be, was
+heavy. So the revelation of _consume faster_ was my goal. Consuming information was all I had at the time, so why not be
+really good at that? Since most of the information I wanted was on the audio medium, most player have a speed-up
+function.
+
+Something that I picked up during my video game phase, was how to acclimate to higher sensitivity. Most video games
+allow you to control the mouse or joystick sensitivity. If you have a high sensitivity, you have the ability to react
+quicker. In my case, it was point and shoot. Nothing like snapping 180 degrees and destroying the person behind you.
+Well, in order for me to get to the point where my movements where quick because I had high sensitivity, I had to
+incrementally work up. I would start a day, and I would bump up the mouse sensitivity to a step where, it was higher
+than I was used to and a bit uncomfortable. I would spend matches getting used to not overdoing my movements. Once I
+felt like I was starting to get the hang of it, I would then bump up the sensitivity and repeat the process. I would
+keep going until I either maxed out the sensitivity scale, or did not see any improvement overtime.
+
+Turns out that same process works for speeding up audio. Start by bumping up the playback speed of the audio. This new
+speed requires more focus on what is being said and comprehending the topic at hand. Which limits the amount of things
+you can do at a time. I would repeat the process of, once things got comfortable, bump it up a little. This process
+repeated until I found where if it was set any faster, then listening is the only thing I could do. The playback speed
+of x2.35 is where my limit is. Anything faster and I have to sit down and just listen to comprehend the subject at hand.
+Which means I cannot do other things require less focus: going on really long walks, washing my car, and driving.
+
+
 
 <details>
-
 <summary>Book Recommendations (Click to Open)</summary>
 
 ## Skills for performance
@@ -40,7 +78,6 @@ programming journey. Everything was shiny and new, and I wanted to do everything
 - [The Dichotomy of Leadership](https://www.audible.com/pd/The-Dichotomy-of-Leadership-Audiobook/B07BN2GNQQ)
 - [Managing Humans](https://www.audible.com/pd/Managing-Humans-Audiobook/B08966SX9M)
 - [The Manager's Path](https://www.audible.com/pd/The-Managers-Path-Audiobook/1452652171)
-
 
 ## Software Development Skills
 
