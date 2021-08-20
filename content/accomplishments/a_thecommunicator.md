@@ -54,8 +54,25 @@ speed requires more focus on what is being said and comprehending the topic at h
 you can do at a time. I would repeat the process of, once things got comfortable, bump it up a little. This process
 repeated until I found where if it was set any faster, then listening is the only thing I could do. The playback speed
 of x2.35 is where my limit is. Anything faster and I have to sit down and just listen to comprehend the subject at hand.
-Which means I cannot do other things require less focus: going on really long walks, washing my car, and driving.
+Which means I cannot do other things require less focus such as: going on really long walks, washing my car, and
+driving. Another thing that I have noticed, playing back audio faster requires the volume to be increased. I have also
+noticed that my focus on any noise increases the louder the sound becomes. As it becomes the only thing I can hear, it
+also becomes the only thing I can focus on.
 
+There was a brief period of time when I would consume analog books. The biggest problem with books, is the sitting down
+in one place and not doing anything. Programming has me stationary in front of a computer for the most of my time.
+Sitting down in one place and consuming is book is difficult to do, because I need to move. I would take advantage of
+times when I should be sitting down and not expected to be doing anything. Such as, when laundry is being done. However,
+audiobooks are superior because I can do low impact things while consuming knowledge.
+
+Some time in the past, I felt bad about all of my knowledge being unoriginal and borrowed from others. It was like all
+of my thought where unoriginal, and I should not be sharing them. As life continued, I realized that it is the
+combination of everything that I consume gives me a unique perspective of the world. Borrowing the thoughts of others
+hand-picked by the luck of the draw, forms a picture of the world that only I have. Until we reach singularity, and
+anyone can know anything at any time, I still have something to contribute.
+
+If you are curious, and want to take a slice of the same thoughts I have taken from others, feel free to browse my book
+collection.
 
 
 <details>
@@ -113,11 +130,57 @@ Which means I cannot do other things require less focus: going on really long wa
 
 </details>
 
+Now I did not originally forget the topic of the section, _accidentally breaking the communication barrier_. The stage
+has been set though, because here is how it happened. The piece of the puzzle that I did not know I was missing was,
+other people's perspectives. As I consumed more and more of others' opinions and teachings of the world, the more my own
+thoughts became clear. Enabling me to start to speak comprehensibly about a topic because, somebody els had the same
+feelings but was able to communicate it better. This in turn created a positive feedback loop. The more I consumed, the
+better I became at communicating with others.
+
 # Exercises in Communication
 
-https://blog.unthrottled.io/
+However, as time passed, I began to feel something was missing from what I was doing. I was hoarding knowledge others so
+kindly spent the time giving out, and was not giving that back to anybody else. Which eventually lead me to the very
+beginning of my GitHub contribution streak, or the _ultramarathon_ as I call it.
 
-https://learn-functional.unthrottled.io/
+### Starting a blog
+
+This is the very thing that got me started with getting hooked on doing something every day. Previously, I had tried to
+get myself into a habit of betting my skills as a software developer, but those faded out. Mostly because, I had no
+ideas on interesting problems to solve.
+
+It took copious amounts of knowledge consumption for me to discover that I could write about my own technical
+experiences. Problems that I have had to solve, and the Google machine could not help me with it.
+Thus, https://blog.unthrottled.io was born, and I started something that would consume a large portion of my attention
+and require discipline. All without having any exit plan thought out or knowing when I should be done with this chapter
+of my self-improvement journey.
+
+Writing a blog was a positive experience. It increased my ability to write more coherent emails, and convey my feelings
+in the written medium, better. However, I stopped contributing to it after I figured out that building things with new
+technology was cooler. A couple of months after starting, I had stopped writing blog posts, and started writing new
+applications. Fairly confident this was when I found [Software Engineering Radio](https://www.se-radio.net/), because
+that podcast showed me a new world of neat things. I wanted hands-on experience with the cutting edge tools that the
+cool kids where using. I had to do this on my free time as well, because at the time I was working for the government,
+and we were still writing SOAP services.
+
+This new trend of self-improvement would continue into early 2018, and shortly change when I started my next career.
+Around this time, I was searching for new things to learn, because the technical stack I was working with was different.
+New technology, new challenges, and more things to learn. It was also around this time I
+discovered [Anime Girls](c_theperfecttheme) and that I [should get better at math](b_machinelearning). Needless, to say
+my direct dedication to getting better at communicating took a backseat. It was still important and still gets
+attention, but it was not the main goal to accomplish.
+
+Although that was the end of this journey, I still was able and willing to share things that I have learned overtime and
+before-hand. Take for instance, I spent a fair amount of time diving
+into [reactive programming](https://en.wikipedia.org/wiki/Reactive_programming) and adopted the
+non-blocking [Spring webflux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)
+before starting my new chapter. I had a fair amount of understanding on how these new and strange programming paradigms
+worked. Also, explaining the new concepts these paradigms introduce, where difficult using only words. I remembered that
+I can build things with computers to explain stuff, so https://learn-functional.unthrottled.io/ was born!
+The primary reason I wanted it, was to explain the
+concepts [using animations](https://learn-functional.unthrottled.io/reactive/concepts/reactor/visualisations/intermediate/zipWith)
+. It also helped solidify my understanding of the topics as well, because I used the same paradigms to implement the
+animations!
 
 https://github.com/Unthrottled/jetbrains-tips
 
