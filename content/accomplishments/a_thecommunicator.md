@@ -182,8 +182,23 @@ concepts [using animations](https://learn-functional.unthrottled.io/reactive/con
 . It also helped solidify my understanding of the topics as well, because I used the same paradigms to implement the
 animations!
 
-https://github.com/Unthrottled/jetbrains-tips
+Part of the new tech stack that I switched over to in my move, was using [Amazon Web Services](https://aws.amazon.com/).
+Doing anything, at the time, in AWS was scary and there were walls of documentation. In this case, quantity did not
+equal quality. To AWS's credit, they have been doing a better job on their documentation. I was curious about how to
+host my own things, I already knew about containers and the cloud. Thus, I started to dive into the world of AWS. After
+picking up some handy tips that I had not known before, I felt the need to create https://frugal-aws.unthrottled.io/
+Which documents my process of how I supported my very own production.
 
-https://frugal-aws.unthrottled.io/
-
+There was also a time, where I wanted to escape from my ultramarathon, and I thought I knew how to do it. I was
+confident that the answer was tracking my time in some other way, other than writing code and pushing it to GitHub.
+[SOGoS](https://github.com/Unthrottled/SOGoS-ui) was born, and became a pet project. Destined to pull myself out of the
+hole I dug my self into, long story short, that did not work. Anyways, I did learn new things that where difficult to
+figure out by myself. Like using the really cheap, but really
+confusing [Amazon Cognito](https://aws.amazon.com/cognito/). So I created some slides and gave a presentation to all who
+where interested. You can find the slides of the talk, here:
 https://unthrottled.github.io/cognito-an-oauth-story/#/
+
+Restating an important point, for emphasis. While my direct journey where improving my communication with others has
+left the direct spotlight. I am always looking for ways to hone that skill. Take this memoir for instance, it's a bunch
+of words, that is difficult to write, and I am conveying my life story. If that is not communication, then I guess I
+need a reality check.
