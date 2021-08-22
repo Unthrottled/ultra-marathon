@@ -94,7 +94,136 @@ might help, but in the end, I am the one that has to put up with my hardships. Y
 one that has to pull myself out of the hole.
 
 Overtime, I have learned that it is the actions that we take when we feel the worst, that defines what we are capable of
-accomplishing. I cannot be the best version of myself by lying, because lies do not help when you feel like crap and
-want to give up. What I am trying to get as is, I do not want to lie to myself.
+accomplishing. I cannot achieve self actualization by building on un-truths, because lies do not help when you feel like
+crap and want to give up. What I am trying to get as is, I do not want to lie to myself.
 
-# Breaking the Habit
+# Breaking the Habits
+
+The wave of realization that washed over me when I realized that the lie I had been telling myself, was just a slightly
+mis-worded statement. Instead of, "I am strong-willed, therefore I have habits, and because my habits are hurting me, I
+can change my habits." What it actually was "I am strong-willed, because I have habits. My current habits are hurting
+me, I can use my habits to change myself." I only realized this when I went through a spout of an existential crisis.
+The fact nothing really mattered, and there was no real point in doing anything started to feel really heavy. My current
+life philosophy, is that there is no point in life, so that means there is no reason to not make the most out of it. The
+only meaning in life is what you give it. Therefore, when things start to feel pointless, I can just dig into the things
+that I gave meaning before and just wade through hollowness. It is because I have such strong habits, that I am able to
+be resilient. I have normally exited the bouts stronger than before and knowing myself better.
+
+By this time in my life, I have acquired many habits, and I have broken many habits. However, nothing that I was doing
+was working on helping me sleep a bit better. Everything become _super_ interesting right around the time I should be
+going to sleep. The most common thing that I would tell myself is, "I bust my behind all day, I deserve 20 extra minutes
+or another episode." However, that would keep happening, and I would find myself putting the phone down at 21:30.
+
+So the first thing that I would attempt to do, is set an alarm that tells me to put down the phone and start to get
+ready for bed. An important factor that I learned was I needed to respect this alarm to go to sleep like I do the waking
+up alarm. I have never had a problem waking up, fact I am almost always ready to go the moment the alarm goes off. Which
+is another habit that needed to be broken. However, I did not get the shutdown alarm the same respect, therefore I
+started to ignore it and slipped back into the habit.
+
+Nothing that I was doing at the time would get me to respect the alarm, because I needed more time to relax. I kept
+thinking to myself, "I have an entire hour to wind down and get to sleep, I can get this to work."
+As time passed, it was clear that I needed to do something that I _really_ did not want to do. I had to sacrifice my
+precious time, devoted to work, to getting to sleep. Before I implemented my drastic change, I used to have 20 hours of
+dedicated focus time to accomplishing tasks during the weekday. This was the time between, sleeping, working out,
+overhead activities, and my day job. I held onto those hours because that was the time I would be building myself up.
+Those 2 hours before and after work is where my goals where being achieved. Changing that to 17.5 hours felt like a
+betrayal to my goals. The part of me that is driving my goal to becoming amazing, was strongly against that. It also
+just so happens that part of me is also very loud and holds the majority of control.
+
+However, the part of me that realizes I am short-changing all of my current efforts, by not getting enough sleep
+eventually won over. Instead of stopping the presses at 19:00, the new closing time is now 18:30. Starting this felt
+like it went against everything I had been doing all these years. I have even been spending my money on outsourcing
+work, like getting groceries, so I could have more time to advance my goals. I acknowledge all the negative thoughts
+that came up, and moved on with my life. Since I could not overcome this by shear will-power, I needed to sacrifice the
+very thing that was causing me degrade.
+
+This gave me the respect I needed for my shutdown alarm. What was the point of giving up my precious time, so that I
+could sleep more, if I was not taking the action to get to sleep sooner? Having overcome that habit that lead to a poor
+sleep cycle, it was time to tackle the next habits.
+
+**The smartphone** is amazing an amazing tool to ruin any good night of sleep. I would browse the phone in bed and leave
+it charging right next to me overnight. Every book that I had read about getting to sleep, stated that they put the
+phone on the other side of the room or in another room. I heard the words they were saying, but I did not listen. I
+thought I was different, I am strong-willed, therefore I should be able to ignore my phone or put it down when
+necessary.
+
+You can probably guess, that that did not happen, and I would cling to my phone. Why does everything have to be so darn
+interesting before going to sleep? Another awful habit that I had been I needed to constantly check email. If I woke up
+from a sleep cycle, I would reach for my phone and check my email.
+
+I think the epiphany that I had was right after I got done working out on a day that I was tired from a bad night sleep.
+I distinctly remember thinking, "Why do I need to check my email overnight or on my phone at all? I am not going to do
+anything about the knowledge I got, or respond. So why do I keep doing it?" I did not have a good answer to that
+question. That was the night that the phone got put on the far end of the room. The physical distance was enough for me
+to quickly put myself back into bounds. It only took me a really long time to put my ego aside and listen.
+
+Now that my nocturnal email checking habit was starting to break, I had one last problem I needed to break. Waking up at
+04:00 and expecting to perform difficult tasks less than 10 minutes of waking up, can create big sleeping issues. For
+me, it was I wanted to be ready to go as soon as possible, because I needed as much time to accomplish the mammoth goals
+I set for myself.
+
+I had it set in my head that everything should be timed by _sleep cycles_, which are about 2 hour intervals where your
+brain patterns change in sleeping. If you are woken up in the middle of one, you would feel like you would be in a fog
+for the rest of the day. That is what I had at least convinced myself into believing, so I tried really hard to not fall
+back asleep if I woke up less than an hour from my alarm clock.
+
+You might be aware, but our brain is built in with a _really_ good internal clock. It is so good in fact, that it is a
+bit scary. I adopted the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) a long time ago. My
+working sets are 27 minutes, and my resting intervals are 3 minutes. When my rest interval comes up, I get up and take a
+break, mostly looking out a window or something. Well, it's gotten to the point where I feel like I have had enough of a
+break and go to sit back down. By the time my rear hits the table, the bell to start the next working set rings. Almost
+as if I felt the passage of 2 minutes and 45 seconds without actually keeping track.
+
+Anyways, this also means that it applies to sleep durations as well. The amount of times that I have woken up 3-5,
+minutes before 04:00, gave even more merit to my internal clock. Couple waking up 5 minute before the alarm and not
+wanting to fall back asleep in fear of breaking a sleep cycle, will result in getting a restless night sleep.
+
+I was seriously convinced that I _needed_ to know what time it is, because I could be needed to wake up really soon.
+That would be enough for me to crawl to the other side of the room, to check my phone to see the time. It would also
+happen when I needed to take a leak overnight as well. This was often, because I drink almost a gallon of water a day.
+
+This proved to be the most difficult habit to break. Going to bed, and waking up not knowing the time difficult.
+Thankfully, I do not own any clocks other than my phone, so I did not need to get rid of anything. I just had to trust
+that my phone will go off when I told it to, and leave the rest to sleeping.
+
+When I would wake up from a sleep cycle, I had to resist the urge to check the phone to see the time. This was such a
+hard-wired habit too. Each time I woke up, I had to re-assure myself that knowing the time did not matter. Even if it is
+15 minutes to 04:00, if you get woken up you _will not_ feel like death. There was no easy solution to overcoming this
+habit, in fact it went along with another habit.
+
+When I would wake up to take care of business, my mind would kick into overdrive. Obviously, I had just woken up,
+therefore it means that I should start firing on all cylinders to today's task can start. By the time I would get back
+into bed, my mind would be racing.
+
+This would happen almost everytime I needed to get up. This was happening in tandem with weening myself off knowing the
+time. I had no good solution to this, because I would almost instantly start thinking about things as soon as I got up.
+I wish I had a better solution to this, but I do not. The way that I fixed this was, just hold it and take care of it
+when 04:00 rolls around. It could wait until the unknown time period is reached.
+
+Sleep is such a difficult task to work with. I cannot sleep on demand, the best I can do is set the conditions for
+sleeping. Then hope that it eventually works. I know that being high-strung was my issue, because when I relaxed I could
+sleep in. I dedicated Saturdays to be an active recovery day. I would not expect myself to accomplish feats of will on
+that day. Saturdays where dedicated to un-winding and avoiding stimulus. Which made the night between Saturday and
+Sunday, the only night that I could sleep more than seven hours.
+
+I knew what the problem was, its just I had to break all the habits, that when combined gave me a terrible night sleep.
+I had to look out for morning Alex, because he needs to be in top shape. However, night Alex wants to stay up and look
+at all the interesting things. Eventually, it took me completely detaching from my phone and all of my habits. What I
+lost in connectivity with the world, I gained in clear headspace. That reward is far more satisfying.
+
+I would like to say that I solved my sleeping problems, the best I can say is, I am moving in the right direction. I no
+longer have the desire to know the time at night. Even if I do get woken up by the alarm, my mind quickly gets to a
+clear and active state. I think the best thing that has come out of this is that I can actually sleep in on both nights
+of the weekend.
+
+I had changed something that I had no direct control over, by changing my habits that set my environment. While I cannot
+really tell you if my studies or performance have gotten better. I do not measure any of those at the moment, I can say
+that my quality of life has gone up. I no longer feel like I am at the whims of the sleep fairy, and I can get full
+nights rest. I still have to hold any bathroom activities until I wake up, but I am starting to notice that I can get up
+and return to sleep faster.
+
+The sheer amount of effort to fix my poor sleeping habits awards this as the greatest challenge I have faced so far. My
+biggest problem is, that I cannot relax or get comfortable. While it may be a side effect of neglect during my
+ultramarathon, it is something I _can_ fix. I just have to be ever vigilant to set the right conditions, and not slide
+down the slope of regression. Thankfully, I have the confidence in knowing that habits that I form, once set are almost
+there to stay.
