@@ -104,4 +104,27 @@ fast.ai. Which includes me building my own regression model from scratch.
 
 I eventually reach a point where I had consumed everything that was offered from this resource, and I hit a major
 milestone. I distinctly remember the feeling of "Now what?" once I had completed my goal of being able to work with
-machine learning.
+machine learning. Once I had read the crossroads in my journey I was faced with a decision on what to do next. Having
+fulfilled my purpose of being able to understand the inner workings of a complex and foreign topic, I needed to know
+what was next. Everything that I had been working on had be directed towards a goal, now that I was there I did not know
+what to do with myself.
+
+I had some options available to me, I could continue to learn more about various machine learning and data science
+topics. There were also data science related challenges and programs that I could participate in. However, time I had
+convinced myself, that I really did not care to get into the data science field. There were not any problems that I
+found fascinating enough to continue to keep my skills sharp. It might have been that I was not looking hard enough, but
+I did not have anything to work towards.
+
+Late 2019, I decided that it was time for me to move onto the next interesting challenge. Looking back at things now, I
+realised that probably did not have to complete all the work upfront to start to dabble in machine learning. However, I
+am grateful that I did, because I now have more confidence when approaching mathematics problems.
+
+![Filled Notebooks](../images/maffs.png)
+
+In the end, I did not just end up with 3 notebooks filled up with the notes of my learning. I gained the assurance of
+the fact that _I am_ capable of whatever I put my mind too. Even though the skills that I learn are perishable, the
+intuitions that I earned can easily be re-strengthened. Who knows, maybe one day I can find an interesting problem to
+work on that enables me to take advantage of these higher level maths.
+
+Until that day comes, I have my eyes open for any new opportunity that allows me to work on a fulfilling problem.
+Something that will not only benefit me, but the others that I share this world with.
