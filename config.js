@@ -4,9 +4,14 @@ const config = {
     siteUrl: 'https://unthrottled.io',
     gaTrackingId: null,
     trailingSlash: false,
+
+
+
+
+
   },
   header: {
-    logo: 'https://unthrottled.io/brand.svg',
+    logo: 'https://unthrottled.io/brand.svg', //lol changes
     logoLink: '/',
     title: "",
     githubUrl: '',
