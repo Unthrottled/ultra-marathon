@@ -7,7 +7,9 @@ const baseTheme = {
 const lightTheme = {
   ...baseTheme,
   colors: {
-    background: '#fff',
+    background: '#fffff00',
+    "baseBackground": "#fcfcfc",
+    "headerColor": "#f7f7f7",
     heading: '#000',
     text: '#3B454E',
     preFormattedText: 'rgb(245, 247, 249)',
@@ -18,11 +20,14 @@ const lightTheme = {
 const darkTheme = {
   ...baseTheme,
   colors: {
-    background: '#001933',
+    background: '#00193300',
+    baseBackgroundColor: '#2d2f43',
+    headerColor: '#292a3a',
+    'borderColor': '#383a50',
     heading: '#fff',
-    text: '#fff',
+    text: '#cdcdcd',
     preFormattedText: '#000',
-    link: '#1ED3C6',
+    link: '#9debff',
   },
 };
 

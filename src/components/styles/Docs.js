@@ -12,10 +12,10 @@ export const StyledHeading = styled('h1')`
   color: ${props => props.theme.colors.heading};
 `;
 
+
 export const StyledMainWrapper = styled.div`
   max-width: 750px;
   color: ${props => props.theme.colors.text};
-
   ul,
   ol {
     -webkit-padding-start: 40px;

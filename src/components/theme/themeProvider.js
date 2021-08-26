@@ -5,6 +5,7 @@ import { lightTheme, darkTheme } from './index';
 import Header from '../Header';
 import { baseStyles } from '../styles/GlobalStyles';
 import { styles } from '../../custom/styles/styles';
+import Background from '../Background';
 
 class ThemeProvider extends React.Component {
   state = {
@@ -36,6 +37,7 @@ class ThemeProvider extends React.Component {
 
     return (
       <div>
+        <Background theme={currentActiveTheme} />
         <Global styles={[baseStyles, ...styles]} />
         <Header
           location={location}
