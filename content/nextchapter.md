@@ -138,4 +138,27 @@ remain pleasant thoughts.
 
 # What's Next?
 
-I _need_ to start and see myself through this next chapter in my life. I have
+I need to _start_ and see myself through this next chapter I have planned for my life. While these next goals have
+ambiguous definitions of success, that does not prevent them commencing. Figuring out where I want to go is the
+difficult part. Knowing that the direction I am heading is the right one, is what drives the discipline to keep moving
+forward. Sure, there may be days when little to no progress is made, or even setbacks may occur. Having a goal is the
+beacon in the foggy night sky, guiding me to where I need to be.
+
+It may be a bit cliché, but it is not totally about the destination, but the journey to is also important. I have zero
+idea, what the path to my goals will look like. What I do know is what I want next. There are people who depend on me
+whether they know it or not. I owe it to them to take my next steps forward.
+
+As I look back now, the reason that I feel stuck, is a bit silly. The idea of giving up working on a process that I
+never activly advertised, until now. In attempts to establish a good first impression, that I will never present. Not
+wanting to quit, until I feel like I have reached a level I am satisfied with. Knowing full well that day will never
+come.
+
+What I have hoped to have gotten out of this exercise, is the piece of mind needed to let go and take the next steps. My
+focus needs to be directed towards the next challenge ahead, and not back to, what is now, comfortable.
+
+I also hope that you found some new nugget of information. Something that might be helpful for use later in life.
+If nothing else, you managed to kill sometime though!
+
+Here's to the future, cheers!
+
+-Alex

@@ -29,12 +29,11 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/butwhy',
+      '/introduction',
       '/accomplishments',
       '/thestrugglebus',
       '/reflections',
       '/nextchapter',
-      '/codeblock',
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above

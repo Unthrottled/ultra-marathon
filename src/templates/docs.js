@@ -44,7 +44,7 @@ export default class MDXRuntimeTest extends Component {
             return { ...acc, items: [...acc.items, cur] };
           }
         },
-        { items: [] }
+        { items: [] },
       );
 
     const nav = forcedNavOrder
@@ -75,15 +75,15 @@ export default class MDXRuntimeTest extends Component {
       <Layout {...this.props}>
         <Helmet>
           {metaTitle ? <title>{metaTitle}</title> : null}
-          {metaTitle ? <meta name="title" content={metaTitle} /> : null}
-          {metaDescription ? <meta name="description" content={metaDescription} /> : null}
-          {metaTitle ? <meta property="og:title" content={metaTitle} /> : null}
-          {metaDescription ? <meta property="og:description" content={metaDescription} /> : null}
-          {metaTitle ? <meta property="twitter:title" content={metaTitle} /> : null}
+          {metaTitle ? <meta name='title' content={metaTitle} /> : null}
+          {metaDescription ? <meta name='description' content={metaDescription} /> : null}
+          {metaTitle ? <meta property='og:title' content={metaTitle} /> : null}
+          {metaDescription ? <meta property='og:description' content={metaDescription} /> : null}
+          {metaTitle ? <meta property='twitter:title' content={metaTitle} /> : null}
           {metaDescription ? (
-            <meta property="twitter:description" content={metaDescription} />
+            <meta property='twitter:description' content={metaDescription} />
           ) : null}
-          <link rel="canonical" href={canonicalUrl} />
+          <link rel='canonical' href={canonicalUrl} />
         </Helmet>
         <div className={'titleWrapper'}>
           <StyledHeading>{mdx.fields.title}</StyledHeading>
