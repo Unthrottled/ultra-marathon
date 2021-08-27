@@ -14,6 +14,11 @@ class ThemeProvider extends React.Component {
 
   componentDidMount() {
     this.retrieveActiveTheme();
+    this.setTheme();
+  }
+
+  componentDidUpdate(prevProps, prevState, snapshot) {
+    this.setTheme();
   }
 
   retrieveActiveTheme = () => {
@@ -27,6 +32,12 @@ class ThemeProvider extends React.Component {
 
     const darkThemeActive = !this.state.isDarkThemeActive;
     window.localStorage.setItem('isDarkThemeActive', JSON.stringify(darkThemeActive));
+    this.setTheme();
+
+  };
+
+  setTheme = () => {
+    const darkThemeActive = this.state.isDarkThemeActive;
     const theme = this.getCurrentActiveTheme(darkThemeActive);
     document.documentElement.style.setProperty(
       "--info-foreground",
@@ -52,8 +63,24 @@ class ThemeProvider extends React.Component {
       "--border-color",
       theme.colors.borderColor,
     )
+    document.documentElement.style.setProperty(
+      "--base-background",
+      theme.colors.baseBackgroundColor,
+    )
+    document.documentElement.style.setProperty(
+      "--header-color",
+      theme.colors.headerColor,
+    )
+    document.documentElement.style.setProperty(
+      "--caret-row",
+      theme.colors.caretRow,
+    )
+    document.documentElement.style.setProperty(
+      "--comments",
+      theme.colors.comments,
+    )
+  }
 
-  };
 
   render() {
     const { children, location } = this.props;

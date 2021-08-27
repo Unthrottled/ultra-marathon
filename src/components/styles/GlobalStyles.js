@@ -3,12 +3,14 @@ import { css } from '@emotion/react';
 export const baseStyles = css`
   @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
   @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap');
+
   * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-display: swap;
   }
+
   ::-webkit-input-placeholder {
     /* Edge */
     color: #c2c2c2;
@@ -22,11 +24,16 @@ export const baseStyles = css`
   ::placeholder {
     color: #c2c2c2;
   }
+
+  html {
+    background-color: var(--base-background);
+  }
+
   html,
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Roboto Light', 'Oxygen',
-      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif,
-      'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
     font-size: 16px;
     scroll-behavior: smooth;
@@ -40,25 +47,32 @@ export const baseStyles = css`
   body {
     font-family: 'Roboto';
   }
+
   .visibleMobile {
     display: none;
   }
+
   .visibleMobileView {
     display: none !important;
   }
+
   .video-responsive {
     position: relative;
     padding-bottom: 56.2%;
   }
+
   a {
     text-decoration: none;
   }
+
   a:hover {
     text-decoration: none;
   }
+
   .displayInline {
     display: inline-block;
   }
+
   .navBarToggle {
     border: 0px solid #fff;
     border-radius: 4px;
@@ -69,6 +83,7 @@ export const baseStyles = css`
     padding: 8px 5px;
     display: none;
   }
+
   .navBarToggle .iconBar {
     display: block;
     width: 22px;
@@ -78,9 +93,11 @@ export const baseStyles = css`
     margin-top: 4px;
     background-color: #001934;
   }
+
   .navBarToggle .iconBar:first-child {
     margin-top: 0px;
   }
+
   .video-responsive iframe {
     position: absolute;
     width: 100%;
@@ -96,21 +113,25 @@ export const baseStyles = css`
     color: red;
     background-color: #ffcccc;
   }
+
   .navBarParent {
     width: 100%;
     float: left;
     display: flex;
     align-items: center;
   }
+
   .divider {
     height: 30px;
     margin: 0 15px;
     border-right: 1px solid rgba(255, 255, 255, 0.3);
   }
+
   .navBarULRight {
     /* position: absolute;
   right: 30px; */
   }
+
   .githubIcon {
     width: 15px;
     margin-right: 5px;
@@ -143,22 +164,26 @@ export const baseStyles = css`
     display: flex;
     align-items: center;
   }
+
   .formElement {
     background-color: transparent;
     padding: 4px;
     border-radius: 5px;
     position: relative;
   }
+
   .formElement:focus {
     outline: none;
     border: none;
   }
+
   .formElement svg path {
     fill: #2fd2c5;
   }
+
   .searchInput {
     width: 100%;
-    background-color: rgba(28,211,198,.12) !important;
+    background-color: rgba(28, 211, 198, .12) !important;
     border-width: 0 !important;
     color: #C2C2C2;
     padding: 10px;
@@ -168,6 +193,7 @@ export const baseStyles = css`
     padding-left: 38px;
     max-width: 600px;
   }
+
   .searchInput:focus,
   .searchInput:visited,
   .searchInput:hover,
@@ -175,15 +201,18 @@ export const baseStyles = css`
     outline: none;
     border: 0;
   }
+
   .searchWrapper {
     padding-left: 0px;
     padding-right: 20px;
     flex: 1;
     position: relative;
   }
+
   .searchWrapper a {
     font-weight: 500;
   }
+
   .hitWrapper {
     background-color: #fff;
     padding: 0.7em 1em 0.4em;
@@ -199,28 +228,34 @@ export const baseStyles = css`
     overflow: scroll;
     left: 0;
   }
+
   .hitWrapper ul li {
     margin-top: 0.7em;
     padding-top: 0.7em;
     border-top: 1px solid;
     list-style-type: none;
   }
+
   .hitWrapper ul li:first-child {
     border-top: 0px;
     margin-top: 0px;
     color: black !important;
     padding: 0px;
   }
+
   .showResults {
     display: block;
   }
+
   .hideResults {
     display: none;
   }
+
   .hitWrapper span {
     color: black;
     font-size: 14px;
   }
+
   .headerTitle {
     height: auto;
     font-size: 16px;
@@ -230,6 +265,7 @@ export const baseStyles = css`
     margin-top: 16px;
     text-transform: uppercase;
   }
+
   .headerTitle a {
     color: #fff;
   }
@@ -238,6 +274,7 @@ export const baseStyles = css`
     text-decoration: none;
     opacity: 0.8;
   }
+
   .logoWrapper {
     padding: 21px 0;
     padding-left: 20px;
@@ -253,32 +290,31 @@ export const baseStyles = css`
   }
 
   /* Header section starts here */
+
   .removePadd {
     padding: 0 !important;
   }
+
   .navBarDefault {
-    background-color: #001934;
+    background-color: var(--header-color);
     border-radius: 0;
-    border-top: 0;
     margin-bottom: 0;
-    border: 0;
+    border-width: 0;
     display: flex;
     align-items: center;
-    box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.4);
-    -webkit-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.4);
-    -moz-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.8);
-    -o-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.4);
     z-index: 1;
     padding: 15px;
     position: relative;
     height: 80px;
   }
+
   .navBarHeader {
     min-width: 335px;
     padding-right: 20px;
     display: flex;
     align-items: center;
   }
+
   .navBarBrand {
     padding: 0px 0px;
     display: flex;
@@ -290,12 +326,15 @@ export const baseStyles = css`
     margin-right: 6px;
     display: inline-block;
   }
+
   .navBarUL li {
     list-style-type: none;
   }
+
   .navBarUL {
     -webkit-overflow-scrolling: touch;
   }
+
   .navBarUL li a {
     font-family: 'Roboto';
     color: #fff !important;
@@ -305,39 +344,47 @@ export const baseStyles = css`
     opacity: 1;
     padding: 10px 15px;
   }
+
   .navBarNav {
     display: flex;
     align-items: center;
   }
+
   .navBarUL li a img,
   .navBarUL li a .shareIcon {
     width: 20px;
   }
+
   .navBarUL li a:hover {
     opacity: 0.7;
   }
+
   pre {
     border: 0 !important;
     background-color: rgb(245, 247, 249); /* !important; */
   }
 
   blockquote {
-    color: rgb(116, 129, 141);
+    color: var(--comments);
     margin: 0px 0px 24px;
     padding: 0px 0px 0px 12px;
-    border-left: 4px solid rgb(230, 236, 241);
-    border-color: rgb(230, 236, 241);
+    border-left: 4px solid var(--border-color);
+    border-color: var(--border-color);
   }
+
   .socialWrapper {
     display: flex;
     align-items: center;
   }
+
   .socialWrapper li {
     display: inline-block;
   }
+
   .socialWrapper li a {
     display: contents;
   }
+
   .discordBtn, .twitterBtn {
     border-radius: 4px;
     border: solid 1px #d1d2d3;
@@ -352,21 +399,27 @@ export const baseStyles = css`
     opacity: .8;
     cursor: pointer;
   }
+
   .twitterBtn img {
     width: 12px !important;
   }
+
   .discordBtn img {
     width: 10px !important;
   }
+
   .discordBtn:hover, .twitterBtn:hover {
     opacity: 1;
   }
+
   .discordBtn {
     img {
       width: 10px;
     }
   }
+
   /* Header section ends here */
+
   .sidebarTitle {
     background-color: var(--secondary-background);
     padding: 18px 16px;
@@ -418,7 +471,6 @@ export const baseStyles = css`
   }
 
   .sideBarUL li a {
-    /* color: #fff; */
     font-size: 14px;
     font-weight: 500;
     line-height: 1.5;
@@ -447,10 +499,11 @@ export const baseStyles = css`
     text-decoration: none;
   }
 
-  a:hover::after{
+  a:hover::after {
     transform: scale(1);
   }
-  a::after{
+
+  a::after {
     content: "";
     position: absolute;
     width: 98%;
@@ -467,9 +520,11 @@ export const baseStyles = css`
     background-color: var(--selection-background);
     color: var(--selection-foreground) !important;
   }
+
   .firstLevel ul li .collapser svg path {
     fill: #fff !important;
   }
+
   .active .collapser > svg > path {
     fill: #001933 !important;
   }
@@ -514,6 +569,7 @@ export const baseStyles = css`
     background: var(--selection-background);
     color: var(--selection-foreground);
   }
+
   ::selection {
     background: var(--selection-background);
     color: var(--selection-foreground);
@@ -521,13 +577,13 @@ export const baseStyles = css`
 
   .showFrontLine .item .item {
     border-left: 1px solid #e6ecf1;
-    border-left-color: rgb(230, 236, 241);
+    border-left-color: var(--border-color);
     padding: 0;
     width: calc(100% - 16px) !important;
   }
 
   .showFrontLine .item .active > a {
-    border-color: rgb(230, 236, 241) !important;
+    border-color: var(--border-color) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
     background-color: var(--selection-background) !important;
@@ -538,7 +594,7 @@ export const baseStyles = css`
     display: flex;
     align-items: center;
     padding-bottom: 40px;
-    border-bottom: 1px solid rgb(230, 236, 241);
+    border-bottom: 1px solid var(--border-color);
     margin-bottom: 32px;
   }
 
@@ -590,6 +646,7 @@ export const baseStyles = css`
   }
 
   /* tables.css */
+
   table {
     padding: 0;
   }
@@ -628,13 +685,17 @@ export const baseStyles = css`
   table tr td :last-child {
     margin-bottom: 0;
   }
+
   /* end - tables.css */
 
   /* Image styling */
+
   img {
     max-width: 100%;
   }
+
   /* end image */
+
   .githubBtn {
     display: flex;
     align-items: center;
@@ -643,6 +704,7 @@ export const baseStyles = css`
     padding-left: 15px;
     max-height: 40px;
   }
+
   .githubBtn span span {
     display: flex;
     align-items: center;
@@ -652,14 +714,17 @@ export const baseStyles = css`
     font-size: 24px;
     font-weight: 700;
   }
+
   .authorSection {
     padding: 20px 0;
   }
+
   .authorSection,
   .authorName {
     display: flex;
     align-items: center;
   }
+
   .authorImg img {
     width: 75px;
     height: 75px;
@@ -669,18 +734,22 @@ export const baseStyles = css`
     min-height: 75px;
     max-height: 75px;
   }
+
   .authorDetails {
     padding-left: 10px;
   }
+
   .authorDesc {
     padding-top: 5px;
     font-size: 14px;
   }
+
   .authorName img {
     margin-left: 10px;
     display: inline-block;
     width: 20px;
   }
+
   .authorName img:hover {
     opacity: 0.7;
   }
@@ -750,6 +819,7 @@ export const baseStyles = css`
     text-align: end;
     padding: 0;
   }
+
   .topnav {
     -webkit-transition: top 0.5s, bottom 0.5s;
   }
@@ -758,68 +828,86 @@ export const baseStyles = css`
     .formElement svg path {
       fill: #001934;
     }
+
     .visibleMobileView {
       display: block !important;
     }
+
     .searchInput {
       color: #001934;
     }
+
     .socialWrapper {
       position: absolute;
       right: 10px;
       top: 29px;
     }
+
     .responsive {
       margin-top: 15px;
       position: relative;
       padding-bottom: 20px;
       border-top: 1px solid #fff;
     }
+
     .headerTitle {
       padding-right: 50px;
       font-size: 16px;
     }
+
     .navBarBrand {
       min-height: 40px;
     }
+
     .navBarBrand img {
       margin-right: 8px;
     }
+
     .topnav.responsive .visibleMobile {
       display: block;
     }
+
     .topnav .navBarUL {
       display: none;
     }
+
     .topnav.responsive .navBarUL {
       display: block;
       text-align: left;
     }
+
     .hiddenMobile {
       display: none !important;
     }
+
     hr {
       margin-top: 0;
       margin-bottom: 0;
     }
+
     .navBarParent {
       display: block;
     }
+
     .separator {
       margin-top: 20px;
       margin-bottom: 20px;
     }
+
     .navBarULRight {
       position: static;
     }
+
     .navBarUL {
       display: flex;
       align-items: center;
       margin: 7.5px 0px;
     }
+
     .navBarUL li {
       height: 37px;
     }
+
     .navBarUL li a {
       font-size: 14px;
       padding: 10px 15px;
@@ -878,6 +966,7 @@ export const baseStyles = css`
       left: 40px;
       top: 8px;
     }
+
     .hitWrapper {
       width: 100%;
       right: 0;
@@ -891,26 +980,33 @@ export const baseStyles = css`
     .navBarDefault {
       padding: 10px;
     }
+
     .navBarBrand {
       font-size: 22px;
     }
+
     .navBarHeader {
       min-width: 240px;
       flex: initial;
     }
+
     .githubBtn {
       padding: 10px 10px;
     }
+
     .divider {
       margin: 0 5px;
       height: 20px;
     }
+
     .hitWrapper {
       max-width: 500px;
     }
+
     .navBarUL li a {
       padding: 10px 5px;
     }
+
     .searchWrapper {
       padding-left: 0px;
     }

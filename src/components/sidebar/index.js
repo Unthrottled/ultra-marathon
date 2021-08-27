@@ -56,11 +56,10 @@ const Sidebar = styled('aside')`
   position: sticky;
   top: 0;
   padding-right: 0;
-  -webkit-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.4);
+  border-right: 1px solid var(--border-color);
 
   @media only screen and (max-width: 1023px) {
     width: 100%;
-    /* position: relative; */
     height: 100vh;
   }
 
@@ -86,7 +85,7 @@ const Divider = styled(props => (
     margin: 0;
     padding: 0;
     border: 0;
-    border-bottom: 1px solid #ede7f3;
+    border-bottom: 1px solid var(--border-color);
   }
 `;
 

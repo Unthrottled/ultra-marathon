@@ -20,6 +20,8 @@ const lightTheme = {
     "selectionForeground": "#393d45",
     "accentColor": "#a61d0d",
     "borderColor": "#eeeeee",
+    "caretRow": "#f6f6f6",
+    "comments": "#6a737d",
   },
 };
 
@@ -39,6 +41,8 @@ const darkTheme = {
     "selectionForeground": "#fefefe",
     "accentColor": "#9debff",
     "borderColor": "#383a50",
+    "caretRow": "#333446",
+    "comments": "#686a80",
   },
 };
 

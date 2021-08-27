@@ -37,7 +37,7 @@ export const StyledMainWrapper = styled.div`
   }
 
   code {
-    border: 1px solid #ede7f3;
+    border: 1px solid var(--border-color);
     border-radius: 4px;
     padding: 2px 6px;
     font-size: 0.9375em;

@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 
 export const Sidebar = styled('aside')`
   width: 100%;
-  border-right: 1px solid #ede7f3;
+  border-right: 1px solid var(--border-color);
   height: 100vh;
   overflow: auto;
   position: fixed;
@@ -22,7 +22,7 @@ export const Sidebar = styled('aside')`
     letter-spacing: 1.2px;
     padding: 7px 24px 7px 16px;
     border-left: 1px solid #e6ecf1;
-    border-left-color: rgb(230, 236, 241);
+    border-left-color: var(--border-color);
 
     color: ${props => props.theme.colors.text};
   }
@@ -34,7 +34,7 @@ export const Sidebar = styled('aside')`
   .rightSideBarUL li {
     list-style-type: none;
     border-left: 1px solid #e6ecf1;
-    border-left-color: rgb(230, 236, 241);
+    border-left-color: var(--border-color);
   }
 
   .rightSideBarUL li a {
