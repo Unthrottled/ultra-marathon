@@ -252,13 +252,16 @@ export const baseStyles = css`
     font-size: 14px;
   }
 
+  #homeBoy {
+    color: var(--info-forground);
+  }
+
   .headerTitle {
     height: auto;
-    font-size: 16px;
+    font-size: 2rem;
     line-height: 1.5;
     font-weight: 300;
-    color: #fff !important;
-    margin-top: 16px;
+    color: var(--info-foreground) !important;
     text-transform: uppercase;
   }
 
@@ -318,8 +321,8 @@ export const baseStyles = css`
   }
 
   .navBarBrand img {
-    width: 120px;
-    margin-right: 6px;
+    width: 50px;
+    margin-right: 1.5rem;
     display: inline-block;
   }
 

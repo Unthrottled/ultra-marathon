@@ -4,6 +4,7 @@ const baseTheme = {
   },
 };
 
+// Zero Two Light
 const lightTheme = {
   ...baseTheme,
   colors: {
@@ -26,9 +27,11 @@ const lightTheme = {
     "baseIconColor": "#85838b",
     "buttonColor": "#f0f0f0",
     "buttonFont": "#252427",
+    "foregroundColor": "#252427",
   },
 };
 
+// Vanilla Dark
 const darkTheme = {
   ...baseTheme,
   colors: {
@@ -51,6 +54,7 @@ const darkTheme = {
     "baseIconColor": "#6c6f7d",
     "buttonColor": "#393c48",
     "buttonFont": "#b4afa2",
+    "foregroundColor": "#cdcdcd"
   },
 };
 

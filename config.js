@@ -4,16 +4,11 @@ const config = {
     siteUrl: 'https://unthrottled.io',
     gaTrackingId: null,
     trailingSlash: false,
-
-
-
-
-
   },
   header: {
-    logo: 'https://unthrottled.io/brand.svg', //lol changes
+    logo: 'https://unthrottled.io/brand.png',
     logoLink: '/',
-    title: "",
+    title: "Unthrottled",
     githubUrl: '',
     helpUrl: '',
     tweetText: '',
@@ -35,19 +30,17 @@ const config = {
       '/reflections',
       '/nextchapter',
     ],
-    collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
-    ],
+    collapsedNav: [],
     links: [{ text: 'Unthrottled', link: 'https://unthrottled.io' }],
     frontline: false,
     ignoreIndex: true,
-    title: "<span>ultramarathon</span>",
+    title: "<span><a id='homeBoy' href='/'>ultramarathon</a></span>",
   },
   siteMetadata: {
-    title: 'Ultramarathon',
-    description: 'Documentation built with mdx. Powering hasura.io/learn ',
+    title: 'The Ultramarathon',
+    description: 'Reflections on the search for greatness.',
     ogImage: null,
-    favicon: 'https://unthrottled.io/brand.svg',
+    favicon: 'https://unthrottled.io/unthrottled_v2.ico',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.

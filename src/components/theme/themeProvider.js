@@ -95,6 +95,10 @@ class ThemeProvider extends React.Component {
       "--button-font",
       theme.colors.buttonFont,
     )
+    document.documentElement.style.setProperty(
+      "--foreground-color",
+      theme.colors.foregroundColor,
+    )
   }
 
 
