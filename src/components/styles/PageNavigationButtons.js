@@ -15,6 +15,7 @@ export const StyledNextPrevious = styled('div')`
     -moz-box-direction: normal;
     -moz-box-orient: horizontal;
     margin: 0px;
+    background-color: var(--base-background);
     padding: 0px;
     position: relative;
     display: flex;
@@ -24,10 +25,8 @@ export const StyledNextPrevious = styled('div')`
     border-radius: 3px;
     border: 1px solid var(--border-color);
     transition: border 200ms ease 0s;
-    box-shadow: rgba(116, 129, 141, 0.1) 0px 3px 8px 0px;
+    box-shadow: var(--custom-hover) 0px 1px 3px 0px;
     text-decoration: none;
-
-    background-color: ${props => props.theme.colors.background};
     color: ${props => props.theme.colors.text};
   }
 
@@ -46,10 +45,10 @@ export const StyledNextPrevious = styled('div')`
     border-radius: 3px;
     border: 1px solid var(--border-color);
     transition: border 200ms ease 0s;
-    box-shadow: rgba(116, 129, 141, 0.1) 0px 3px 8px 0px;
+    box-shadow: var(--custom-hover) 0px 1px 3px 0px;
     text-decoration: none;
 
-    background-color: ${props => props.theme.colors.background};
+    background-color: var(--base-background);
     color: ${props => props.theme.colors.text};
   }
 

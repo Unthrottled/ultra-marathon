@@ -20,10 +20,8 @@ class Background extends Component {
 
   updateSize() {
     const mainCanvas = document.getElementById('main');
-    console.log('main canvas', mainCanvas);
     if (mainCanvas) {
       const boundingRect = mainCanvas.getBoundingClientRect();
-      console.log('rect', boundingRect);
       this.setState({
         width: boundingRect.width,
         height: boundingRect.height,

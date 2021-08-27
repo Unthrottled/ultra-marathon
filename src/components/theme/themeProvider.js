@@ -65,7 +65,7 @@ class ThemeProvider extends React.Component {
     )
     document.documentElement.style.setProperty(
       "--base-background",
-      theme.colors.baseBackgroundColor,
+      theme.colors.baseBackground,
     )
     document.documentElement.style.setProperty(
       "--header-color",
@@ -78,6 +78,14 @@ class ThemeProvider extends React.Component {
     document.documentElement.style.setProperty(
       "--comments",
       theme.colors.comments,
+    )
+    document.documentElement.style.setProperty(
+      "--custom-hover",
+      theme.colors.accentColorTransparent,
+    )
+    document.documentElement.style.setProperty(
+      "--base-icon-color",
+      theme.colors.baseIconColor,
     )
   }
 

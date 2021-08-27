@@ -22,6 +22,8 @@ const lightTheme = {
     "borderColor": "#eeeeee",
     "caretRow": "#f6f6f6",
     "comments": "#6a737d",
+    "accentColorTransparent": "#a61d0d5A",
+    "baseIconColor": "#85838b",
   },
 };
 
@@ -30,7 +32,7 @@ const darkTheme = {
   colors: {
     "infoForeground": "#b0a17f",
     background: '#00193300',
-    baseBackgroundColor: '#2d2f43',
+    baseBackground: '#2d2f43',
     headerColor: '#292a3a',
     "secondaryBackground": "#272935",
     heading: '#fff',
@@ -43,6 +45,8 @@ const darkTheme = {
     "borderColor": "#383a50",
     "caretRow": "#333446",
     "comments": "#686a80",
+    "accentColorTransparent": "#9debff5A",
+    "baseIconColor": "#6c6f7d",
   },
 };
 

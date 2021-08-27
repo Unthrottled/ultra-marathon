@@ -370,6 +370,11 @@ export const baseStyles = css`
     border-color: var(--border-color);
   }
 
+  details {
+    border-left: 4px solid var(--border-color);
+    padding-left: 1rem;
+  }
+
   .socialWrapper {
     display: flex;
     align-items: center;
@@ -625,8 +630,14 @@ export const baseStyles = css`
     display: block;
     margin: 0px;
     padding: 0px;
-    color: #6e6e6e;
+    color: var(--info-foreground);
   }
+
+  summary {
+    color: var(--info-foreground);
+  }
+
+
 
   .smallContent span {
     font-size: 12px;
