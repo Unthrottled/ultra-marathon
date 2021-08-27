@@ -74,7 +74,6 @@ export const baseStyles = css`
   }
 
   .navBarToggle {
-    border: 0px solid #fff;
     border-radius: 4px;
     width: 36px;
     height: 33px;
@@ -89,9 +88,8 @@ export const baseStyles = css`
     width: 22px;
     height: 2px;
     border-radius: 1px;
-    margin: 0 auto;
-    margin-top: 4px;
-    background-color: #001934;
+    margin: 4px auto 0;
+    background-color: var(--button-font);
   }
 
   .navBarToggle .iconBar:first-child {
@@ -482,7 +480,7 @@ export const baseStyles = css`
     padding-right: 25px;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    border-color: transparent currentcolor transparent transparent;
+    border-color: transparent var(--border-color) transparent transparent;
   }
 
   .hideFrontLine .collapser {
@@ -502,11 +500,11 @@ export const baseStyles = css`
     text-decoration: none;
   }
 
-  p > a:hover::after, li > a:hover::after {
+  p > a:hover::after, div > ul > li > a:hover::after {
     transform: scale(1);
   }
 
-  p > a::after, li > a::after {
+  p > a::after, div > ul > li > a::after {
     content: "";
     position: absolute;
     width: 98%;
@@ -525,7 +523,7 @@ export const baseStyles = css`
   }
 
   .firstLevel ul li .collapser svg path {
-    fill: #fff !important;
+    fill: var(--base-icon-color) !important;
   }
 
   .active .collapser > svg > path {
@@ -533,7 +531,7 @@ export const baseStyles = css`
   }
 
   .firstLevel ul .item ul .item {
-    border-left: 1px solid #e6ecf1;
+    border-left: 1px solid var(--border-color);
   }
 
   .sideBarUL .item {
@@ -579,7 +577,7 @@ export const baseStyles = css`
   }
 
   .showFrontLine .item .item {
-    border-left: 1px solid #e6ecf1;
+    border-left: 1px solid var(--border-color);
     border-left-color: var(--border-color);
     padding: 0;
     width: calc(100% - 16px) !important;
@@ -636,7 +634,6 @@ export const baseStyles = css`
   summary {
     color: var(--info-foreground);
   }
-
 
 
   .smallContent span {
@@ -856,7 +853,13 @@ export const baseStyles = css`
       margin-top: 15px;
       position: relative;
       padding-bottom: 20px;
-      border-top: 1px solid #fff;
+      border-top: 1px solid var(--border-color);
+    }
+
+    hr {
+      color: var(--border-color);
+      background-color: var(--border-color);
+      border-top: 1px solid var(--border-color);
     }
 
     .headerTitle {
@@ -933,7 +936,7 @@ export const baseStyles = css`
       position: absolute;
       left: 11px;
       top: 15px;
-      background: #fff;
+      background: var(--button-color);
     }
 
     .navBarHeader {

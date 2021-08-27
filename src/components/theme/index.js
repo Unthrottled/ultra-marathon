@@ -24,6 +24,8 @@ const lightTheme = {
     "comments": "#6a737d",
     "accentColorTransparent": "#a61d0d5A",
     "baseIconColor": "#85838b",
+    "buttonColor": "#f0f0f0",
+    "buttonFont": "#252427",
   },
 };
 
@@ -47,6 +49,8 @@ const darkTheme = {
     "comments": "#686a80",
     "accentColorTransparent": "#9debff5A",
     "baseIconColor": "#6c6f7d",
+    "buttonColor": "#393c48",
+    "buttonFont": "#b4afa2",
   },
 };
 

@@ -32,11 +32,10 @@ const ListItem = styled(({ className, active, level, ...props }) => {
     ${props =>
       props.active &&
       `
-      // color: #663399;
-      border-color: rgb(230,236,241) !important;
+      border-color: var(--border-color) !important;
       border-style: solid none solid solid;
       border-width: 1px 0px 1px 1px;
-      background-color: #fff;
+      background-color: red;
     `} // external link icon
     svg {
       float: right;

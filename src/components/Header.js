@@ -42,10 +42,9 @@ function myFunction() {
 
 const StyledBgDiv = styled('div')`
   height: 60px;
-  background-color: #f8f8f8;
   position: relative;
   display: none;
-  background: ${props => (props.isDarkThemeActive ? '#001932' : undefined)};
+  background: var(--header-color);
 
   @media (max-width: 767px) {
     display: block;
@@ -101,6 +100,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 dangerouslySetInnerHTML={{ __html: headerTitle }}
               />
             </div>
+            <div style={{flexGrow: 1}} />
             {isSearchEnabled ? (
               <div className={'searchWrapper hiddenMobile navBarUL'}>
                 <LoadableComponent collapse={true} indices={searchIndices} />

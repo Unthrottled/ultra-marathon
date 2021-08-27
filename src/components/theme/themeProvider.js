@@ -87,6 +87,14 @@ class ThemeProvider extends React.Component {
       "--base-icon-color",
       theme.colors.baseIconColor,
     )
+    document.documentElement.style.setProperty(
+      "--button-color",
+      theme.colors.buttonColor,
+    )
+    document.documentElement.style.setProperty(
+      "--button-font",
+      theme.colors.buttonFont,
+    )
   }
 
 
