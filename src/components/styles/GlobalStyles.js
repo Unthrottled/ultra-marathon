@@ -368,13 +368,12 @@ export const baseStyles = css`
   }
   /* Header section ends here */
   .sidebarTitle {
-    /* box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16); */
-    background-color: #f8f8f8;
+    background-color: var(--secondary-background);
     padding: 18px 16px;
     font-family: 'Poppins';
     font-size: 18px;
     font-weight: 600;
-    color: #001934;
+    color: var(--info-foreground);
     display: flex;
     align-items: center;
   }
@@ -441,9 +440,32 @@ export const baseStyles = css`
     cursor: pointer;
   }
 
+  a,
+  a:visited {
+    position: relative;
+    color: var(--accent-color);
+    text-decoration: none;
+  }
+
+  a:hover::after{
+    transform: scale(1);
+  }
+  a::after{
+    content: "";
+    position: absolute;
+    width: 98%;
+    height: 2px;
+    bottom: -5px;
+    left: 0px;
+    background: var(--accent-color);
+    transition: transform 0.3s ease 0s;
+    transform: scale(0);
+  }
+
+
   .hideFrontLine .active > a {
-    background-color: #1ed3c6;
-    color: #fff !important;
+    background-color: var(--selection-background);
+    color: var(--selection-foreground) !important;
   }
   .firstLevel ul li .collapser svg path {
     fill: #fff !important;
@@ -462,7 +484,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: var(--accent-color);
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -477,7 +499,6 @@ export const baseStyles = css`
   }
 
   .showFrontLine .active > a {
-    /* color: #fff; */
     background-color: #001933;
   }
 
@@ -487,6 +508,15 @@ export const baseStyles = css`
 
   .firstLevel > ul > .item {
     margin-left: 0 !important;
+  }
+
+  ::-moz-selection {
+    background: var(--selection-background);
+    color: var(--selection-foreground);
+  }
+  ::selection {
+    background: var(--selection-background);
+    color: var(--selection-foreground);
   }
 
   .showFrontLine .item .item {
@@ -500,8 +530,8 @@ export const baseStyles = css`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #1ed3c6 !important;
-    color: #fff;
+    background-color: var(--selection-background) !important;
+    color: var(--selection-foreground);
   }
 
   .titleWrapper {

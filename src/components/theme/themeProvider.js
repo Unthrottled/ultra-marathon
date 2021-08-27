@@ -25,7 +25,34 @@ class ThemeProvider extends React.Component {
   toggleActiveTheme = () => {
     this.setState(prevState => ({ isDarkThemeActive: !prevState.isDarkThemeActive }));
 
-    window.localStorage.setItem('isDarkThemeActive', JSON.stringify(!this.state.isDarkThemeActive));
+    const darkThemeActive = !this.state.isDarkThemeActive;
+    window.localStorage.setItem('isDarkThemeActive', JSON.stringify(darkThemeActive));
+    const theme = this.getCurrentActiveTheme(darkThemeActive);
+    document.documentElement.style.setProperty(
+      "--info-foreground",
+      theme.colors.infoForeground,
+    )
+    document.documentElement.style.setProperty(
+      "--secondary-background",
+      theme.colors.secondaryBackground,
+    )
+    document.documentElement.style.setProperty(
+      "--accent-color",
+      theme.colors.accentColor,
+    )
+    document.documentElement.style.setProperty(
+      "--selection-background",
+      theme.colors.selectionBackground,
+    )
+    document.documentElement.style.setProperty(
+      "--selection-foreground",
+      theme.colors.selectionForeground,
+    )
+    document.documentElement.style.setProperty(
+      "--border-color",
+      theme.colors.borderColor,
+    )
+
   };
 
   render() {
@@ -33,7 +60,7 @@ class ThemeProvider extends React.Component {
 
     const { isDarkThemeActive } = this.state;
 
-    const currentActiveTheme = isDarkThemeActive ? darkTheme : lightTheme;
+    const currentActiveTheme = this.getCurrentActiveTheme(isDarkThemeActive);
 
     return (
       <div>
@@ -47,6 +74,10 @@ class ThemeProvider extends React.Component {
         <EmotionThemeProvider theme={currentActiveTheme}>{children}</EmotionThemeProvider>
       </div>
     );
+  }
+
+  getCurrentActiveTheme(isDarkThemeActive) {
+    return isDarkThemeActive ? darkTheme : lightTheme;
   }
 }
 

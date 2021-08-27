@@ -7,27 +7,38 @@ const baseTheme = {
 const lightTheme = {
   ...baseTheme,
   colors: {
+    "infoForeground": "#5282a2",
     background: '#fffff00',
     "baseBackground": "#fcfcfc",
-    "headerColor": "#f7f7f7",
+    "headerColor": "#f5f5f5",
+    "secondaryBackground": "#fcfcfc",
     heading: '#000',
-    text: '#3B454E',
+    text: '#252427',
     preFormattedText: 'rgb(245, 247, 249)',
-    link: '#1000EE',
+    link: '#a61d0d',
+    "selectionBackground": "#e9b4b8",
+    "selectionForeground": "#393d45",
+    "accentColor": "#a61d0d",
+    "borderColor": "#eeeeee",
   },
 };
 
 const darkTheme = {
   ...baseTheme,
   colors: {
+    "infoForeground": "#b0a17f",
     background: '#00193300',
     baseBackgroundColor: '#2d2f43',
     headerColor: '#292a3a',
-    'borderColor': '#383a50',
+    "secondaryBackground": "#272935",
     heading: '#fff',
     text: '#cdcdcd',
     preFormattedText: '#000',
     link: '#9debff',
+    "selectionBackground": "#374872",
+    "selectionForeground": "#fefefe",
+    "accentColor": "#9debff",
+    "borderColor": "#383a50",
   },
 };
 
