@@ -128,8 +128,6 @@ export const baseStyles = css`
   }
 
   .navBarULRight {
-    /* position: absolute;
-  right: 30px; */
   }
 
   .githubIcon {
@@ -499,11 +497,11 @@ export const baseStyles = css`
     text-decoration: none;
   }
 
-  a:hover::after {
+  p > a:hover::after, li > a:hover::after {
     transform: scale(1);
   }
 
-  a::after {
+  p > a::after, li > a::after {
     content: "";
     position: absolute;
     width: 98%;
@@ -652,7 +650,7 @@ export const baseStyles = css`
   }
 
   table tr {
-    border-top: 1px solid #cccccc;
+    border-top: 1px solid var(--border-color);
     margin: 0;
     padding: 0;
   }
@@ -663,14 +661,14 @@ export const baseStyles = css`
 
   table tr th {
     font-weight: bold;
-    border: 1px solid #cccccc;
+    border: 1px solid var(--border-color);
     text-align: left;
     margin: 0;
     padding: 6px 13px;
   }
 
   table tr td {
-    border: 1px solid #cccccc;
+    border: 1px solid var(--border-color);
     text-align: left;
     margin: 0;
     padding: 6px 13px;

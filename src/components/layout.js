@@ -22,18 +22,6 @@ const Wrapper = styled('div')`
     color: var(--selection-foreground) !important;
   }
 
-  .sideBarUL .item > a:hover::after{
-  }
-  .sideBarUL .item > a::after{
-    content: "";
-    position: absolute;
-    width: 98%;
-    height: 2px;
-    bottom: -5px;
-    left: 0px;
-    background: none;
-  }
-
 
   @media only screen and (max-width: 767px) {
     display: block;
