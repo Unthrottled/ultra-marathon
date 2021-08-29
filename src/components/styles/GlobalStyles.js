@@ -503,11 +503,18 @@ export const baseStyles = css`
     text-decoration: none;
   }
 
-  p > a:hover::after, div > ul > li > a:hover::after {
+  p > a:hover::after,
+  div > ul > li > a:hover::after,
+ details > ul > li > a:hover::after
+
+  {
     transform: scale(1);
   }
 
-  p > a::after, div > ul > li > a::after {
+  p > a::after,
+  div > ul > li > a::after,
+  details > ul > li > a::after
+  {
     content: "";
     position: absolute;
     width: 98%;
