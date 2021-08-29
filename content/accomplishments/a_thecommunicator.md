@@ -4,18 +4,19 @@ metaTitle: "Can word good"
 metaDescription: "This is the meta description"
 ---
 
-Very early into my professional software development career and just before my ultramarathon, I realized there was that
-I had a gap in a very specific skill. That skill was being able to express my thoughts in a coherent matter to others.
-Not being able to convey that something is not right about a design, requirement, or code. This fact was almost
-immediately apparent to me.
+Very early into my professional software development career and just before my 1500+ days of dedicated work. There was a
+realization of a gap in a very specific skill. Which was being able to express my thoughts in a coherent matter to
+others. Lacking the ability to convey that something is not right about: a design, requirement, or code. This fact was
+almost immediately apparent to me once I started to work.
 
-This was something that I had not learned about in school, nor did I expect this. I would be able to look at something,
-have a feeling that it is not correct, but was not able to pin-point the issue. Which would then in turn make it almost
-impossible to convey this to another person. How could I express something to somebody else, if I myself do not full
-understand the issue.
+This was something that I had not learned about in school, nor did I expect this. Yes, learning how to speak in public
+and delivered an outlined speech was covered. However, being able to quickly convey meaning on the spot, was not. I
+would be able to look at something, have a feeling that it is not correct, but was not able to pin-point the issue.
+Which would then in turn make it almost impossible to communicate this to another person. How could I express something
+to somebody else, if I myself do not full understand the issue?
 
 Looking back at this initial problem, I think it might have been an artifact of me being at the very beginning of my
-programming journey. Everything was shiny and new, and I wanted to do everything right!
+programming journey. Everything was new and fascinating, and I wanted to do everything right!
 
 # Accidentally Breaking The Communication Barrier
 
