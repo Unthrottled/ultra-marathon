@@ -101,35 +101,34 @@ half of dedicated effort.
 
 Once we felt like we felt like we had our fill of difficult mathematics, the next phase of education entered the
 picture, machine learning. https://www.fast.ai/ is the free resource that we used as the entry point into this world of
-data science. This portion of my maths journey was much easier to work on. Solving the problems in this course actually
-yielded things that where interesting. Rather than ending up with just a notebook filled with notes, I actually had a
-program that did interest things.
+data science. This portion of my maths journey was much easier to work on. Solving the problems in these courses
+actually yielded things that were interesting. Rather than ending up with just a notebook filled with notes, I actually
+had a program that did interest things.
 
-What was even better was, I felt confident going into the courses and while taking them, because I understood the
-concepts at the core. In the end, I was able to go through the entirety of the material provided by the nice folks at
-fast.ai. Which included building a machine learning model from scratch.
+Even better was that I felt confident going into the courses and continued to feel that way as the courses progressed. I
+felt as though I understood the concepts at the core. In the end, I was able to completely go through all the material
+provided by the nice folks at fast.ai. Which included building a machine learning model from scratch.
 
-I eventually reach a point where I had consumed everything that was offered from this resource, and I hit a major
-milestone. I distinctly remember the feeling of "Now what?" once I had completed my goal of being able to work with
-machine learning. Once I had read the crossroads in my journey I was faced with a decision on what to do next. Having
-fulfilled my purpose of being able to understand the inner workings of a complex and foreign topic, I needed to know
-what was next. Everything that I had been working on had be directed towards a goal, now that I was there I did not know
-what to do with myself.
+Having consumed everything that was offered from this resource and hitting a major milestone, I distinctly remember the
+feeling of "Now what?" The goa,l to be able to work on machine learning problems, became actualized. I was at a
+crossroads in my journey I was faced with a decision on what to do next. Having fulfilled the purpose of being able to
+understand the inner workings of a complex and foreign topic, I needed to know what was next. Everything that I had been
+working on had be directed towards a goal, now that I was there I did not know what to do with myself.
 
-I had some options available to me, I could continue to learn more about various machine learning and data science
-topics. There were also data science related challenges and programs that I could participate in. However, time I had
-convinced myself, that I really did not care to get into the data science field. There were not any problems that I
-found fascinating enough to continue to keep my skills sharp. It might have been that I was not looking hard enough, but
-I did not have anything to work towards.
+There where some options available to, I could continue to learn more about various machine learning and data science
+topics. Various data science related challenges and programs existed, which I could participate in. However, by this
+time I had convinced myself that I really did not care to get into the data science field. There were not any problems
+that were fascinating enough to continue to keep my skills sharp. It might have been that I was not looking hard enough,
+but there was not anything worth working towards at this point.
 
 Late 2019, I decided that it was time for me to move onto the next interesting challenge. Looking back at things now, I
-realised that probably did not have to complete all the work upfront to start to dabble in machine learning. However, I
-am grateful that I did, because I now have more confidence when approaching mathematics problems.
+realised there was not a need to complete all the work upfront to start to dabble in machine learning. However, I am
+grateful that I did, because I now have more confidence when approaching mathematical problems.
 
 ![Filled Notebooks](../images/maffs.png)
 
-In the end, I did not just end up with 3 notebooks filled up with the notes of my learning. I gained the assurance of
-the fact that _I am_ capable of whatever I put my mind too. Even though the skills that I learn are perishable, the
+In the end, 3 notebooks filled up with the notes of my learning was not all that I was left with. I gained the assurance
+of the fact that _I am_ capable of whatever I put my mind too. Even though the skills that I learn are perishable, the
 intuitions that I earned can easily be re-strengthened. Who knows, maybe one day I can find an interesting problem to
 work on that enables me to take advantage of these higher level maths.
 
