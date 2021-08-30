@@ -1,47 +1,58 @@
 ---
-title: "Hardest Challenge"
+title: "Greatest Challenge"
 metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
 There are many long-running tasks that I have performed over my the entirety of my life, many of which during my
-ultramarathon. It could be from: [learning how to communicate well](../accomplishments/a_thecommunicator),
-to [re-learning mathematics](../accomplishments/b_machinelearning), or even my journey as an athlete.
+ultramarathon. They range from: [learning how to communicate well](../accomplishments/a_thecommunicator),
+to [re-learning mathematics](../accomplishments/b_machinelearning), or even my journey as high performing athlete.
 
 One task stands above them all as the most difficult to perform. It comes in the shape of breaking an existing habit. As
-you might have already been able to tell, I have _very_ strong routines, so my habits are strongly set.
+you might have already been able to tell, I have _very_ strong routines. Meaning my habits are strongly set.
 
 If you had asked me what my hardest challenge was, 7 years ago, I might have answered, giving up https://reddit.com.
-Reddit was engraved into my daily life, such that I would always be checking it if I had downtime. I needed constant
-stimulation and Reddit solved that for me. However, I did not like the headspace that it put me in, so I decided to quit
-cold turkey. I soon realized that I did not really use the internet for much other than using Reddit. So I had a bit of
-an empty pit that Reddit left behind. Breaking muscle memory of constantly checking to see if people said interesting
-things, is really tough, but not as tough as the thing that I struggled the most to accomplish.
+Reddit was engraved into my daily life, such that it would need to be checked at any moment of downtime. There was a
+need for constant stimulation, and Reddit solved that for me. However, I did not like the head-space that the constant
+need to be stimulated put me in. Therefore, quiting cold turkey seemed like a good choice. After that, I soon realized
+that was the only reason I browsed the internet, was to use Reddit. Meaning there was an empty pit that Reddit left
+behind. There has not been one specific replacement for Reddit, somehow life went on and I found better things to work
+on. Breaking the muscle memory of constantly checking to see if people said interesting things, was really tough. Not as
+tough as the thing that I struggled the most to accomplish.
 
-**Getting enough sleep** is the current hardest challenge I have had to overcome. The years of me trying to become the
-best version of myself required me to pick up a new mindset, outlook on life, and habits. This turned me into a tightly
-wound machine that was capable of accomplishing many things. Unfortunately, this can also lead to problems of another
-sort, not being able to wind down.
+**Getting enough sleep** is the current hardest challenge I have yet to overcome. The years of trying to become Alex
+2.0, required me to pick up a new mindset, outlook on life, and various habits. This turned me into a tightly wound
+machine that was capable of accomplishing many great things. Unfortunately, this can also lead to problems of not being
+able to wind down.
 
-Working out and busting my butt, honestly is the easiest part of the day. To this day, I still do not know where my
-endless internal drive is sourced. I do know that have no trouble running myself into the ground, getting back up and
-doing it again. I would fill my days to the brim with character building activities. Then would wonder why I am having
-such a hard time falling to sleep.
+Driving myself into the ground and asking for more is, honestly, the easiest part of the day. Even after countless
+reflections, I still do not know what is sourcing my endless internal drive forward. I would fill my days to the brim
+with character building activities, with very few chances to relax. Then would wonder, "why I am having such a hard time
+falling to sleep?"
 
 Well, I eventually figured out what my problem was, and it only took me up until the time of writing this to figure it
-out.
+out (and I am still working at it).
 
 # How it started
 
-In the very beginning of my athletic journey, I wanted to be good at road cycling. Well, the biggest problem about road
-cycling, is that you have to share the road with fast moving, instant death machines. To prolong my life, the safest
-workaround that I could think of was to perform the activity in the early hours of the morning. The idea was, it is hard
-to get hit by a car if everybody is still sleeping. This worked out well, for the most part, traffic was almost
-non-existent, however it was also dark. This meant that I had to be tricked out in lighting gear to see and to be seen.
-Another big problem is when it started to get colder. I learned early on, that I was not going to let the weather stop
-me from getting my ride in. As you might have guessed, the sun keep things warm, and when It's not up it gets _really_
-cold. It gets to the level of cold where you have to wrap your feet, that already have two socks, in aluminium foil to
-avoid loosing heat.
+In the very beginning of my athletic journey, I strove to be good at road cycling. Well, the biggest problem about road
+cycling, is that you have to share the road with fast moving, instant human-mutilating machines. To prolong my life, the
+safest workaround that was to perform the activity in the early hours of the morning. The idea was it is hard to get hit
+by a car if everybody driving a car is still sleeping. This worked out well for the most part, traffic was almost
+non-existent, however it was also dark. This meant that I had to be tricked out in lighting gear in order to see and to
+be seen.
+
+Another big problem about riding the dark is when autumn and winter roll around. I learned early on that most weather
+was not going to stop me from getting a ride in. If it was raining, then I got soaked. When the temperature dropped
+below freezing, then more gear got put on. As you might have guessed, the sun keep things warm, and when It's not up it
+gets _really_ cold. The level of cold gets to where there is a need to wrap your feet (that already have two socks) in
+aluminium foil to avoid loosing heat. The only thing that would bring a halt to cycling would be snow/ice or fog. Though
+you may not know it, fog is terrible. It shows up around this part of the states around mid-autumn. Where the ground is
+still warm from yesterday, but the are is significantly cooler. Not to mention, visibility non-existent (have you tried
+driving in fog at night?), but everything gets wet. At the time, I had a rim-braking bike, which would cause my stopping
+distance to drastically increase. Plus, I wear glasses so that makes it even worse. Anytime anybody says that Fall or
+Winter is their favorite season, automatically tells me their hobbies are not all-season, winter based, or they like
+staying warm indoors. _The cold season can spare me the pleasure of its company._ `/rant`
 
 Anyways, the point that I am trying to get at, is that I had to wake up early for this to happen. I would get up at 4:30
 and be out the door by 5:00 to hit the roads. I would continue to keep this habit well beyond when I switch athletic

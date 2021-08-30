@@ -99,6 +99,8 @@ point where we were able to take the final exam. I distinctly remember going int
 the real thing. The feeling of, "Yeah, I understand what is being asked here" probably made up for the past year and a
 half of dedicated effort.
 
+### Dabbling in A.I.
+
 Once we felt like we felt like we had our fill of difficult mathematics, the next phase of education entered the
 picture, machine learning. https://www.fast.ai/ is the free resource that we used as the entry point into this world of
 data science. This portion of my maths journey was much easier to work on. Solving the problems in these courses
