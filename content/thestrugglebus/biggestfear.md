@@ -1,62 +1,64 @@
 ---
-title: "My Biggest Fear"
-metaTitle: "I ain't 'fraid of no ghost."
+title: "Greatest Fear"
+metaTitle: "2spooky4me"
 metaDescription: "This is the meta description"
 ---
 
-Being scared has its place in life, and I think it is a normal emotion to have. If it was not normal, then what was the
-point of adding this to our portfolio of feelings? I believe there are many categories that the emotion fear can fit
-into. There is the flavor of fear that protects you from a painful death. Another one is makes it difficult to perform
-various social activities, such as talking to one or many people. There are some ones that are not rational as well.
-However, the brand of fear that I will be talking about is the fear of the unknown.
+Being scared has its place in life. It is a normal emotion to feel. If it was not normal, then why was this added to our
+portfolio of feelings? There are many categories that the emotion, fear, can fit into. There is the flavor of fear that
+protects you from a painful death. Another one is makes it difficult to perform various social activities, such as
+talking to one or many people. There are some that are rational while other are not. However, the brand of fear that I
+will be talking about is the fear of the unknown.
 
 There are many things that I still do not understand about myself. For the most part, I can find the various motives for
-most of my actions. Most of these just feel like rationalizations to things that are inherently have no meaning, but it
+most of my actions. Most of these just feel like rationalizations to things that might inherently have no meaning. It
 makes me feel good, so how bad can it be?
 
-It is the uncertainty of not knowing when an inevitable action is going to occur that bothers me the most. This may be
-fear or anxiety, whatever this takes the form of, it is not pleasant.
+It is the uncertainty of not knowing when a specific inevitable action is going to occur, that bothers me the most. This
+may be fear or anxiety. Whatever label is put on it does not change the fact it is not pleasant.
 
-# Adopting Essentialism.
+# Setting the Stage
 
-The practice of Essentialism is to let go of anything that is not really important, so that you are left with the time
-and space to appreciate what you value the most. You could argue that this is just Minimalism, but with a different
-attitude. While you would not be wrong, I feel like the point of Minimalism can be misused.
+## Adopting Essentialism.
+
+The practice of Essentialism is to let go of anything that is not really important. In turn leaving more time and space
+to appreciate what you value the most. You could argue that this is just Minimalism, but with a different attitude.
+While you would not be wrong, I tend to steer away for calling myself a Minimalist. The label does not really give
+justice to the actual purpose.
 
 It is not necessarily just the act of getting rid of things and avoiding the ownership of many possessions. No, the
-concept is more making space for the things that matter. When everything is important, then nothing is important. My
-attention can only be given to a small subset of things. Therefore, I want to have the capacity to dedicate a large
-portion of my focus to a small set things that bring me great meaning. I feel like that meaning is better conveyed by
-re-skinning Minimalism as Essentialism.
+concept is more about making space for the things that matter most. When everything is important, then nothing is
+important. My attention can only be given to a small subset of things. Therefore, I want to have the capacity to
+dedicate a large portion of my focus to a small set things that bring me great meaning. Maximizing life satisfaction.
+This is why I feel like the meaning is better conveyed by re-skinning Minimalism as Essentialism.
 
-Owning stuff or buying the next new flashy item stopped appealing to me after some period in my life. I was not able to
-find meaning is searching for the next gadget to buy or video game to play. Having _things_ did not necessarily satisfy
-my need for purpose.
+Owning stuff or buying the next new flashy item stopped appealing to me after some period in my life. Searching for the
+next gadget to buy or video game to play, lost its meaning some time in the past. Having _things_ did not necessarily
+satisfy my need for purpose.
 
-Another thing that I also wanted to keep more to myself, was my headspace. Having a mind that you can be present with
-and not constantly needing to be stimulated, is a feeling everybody should know. However, we live in a world where
-everything is buying for your attention. One of the first things that went was paying attention to things that are out
-of my control. Why do I need to know about the news or what people are doing around me, if there is not anything I can
-do about it? The only thing that I can control, in that respect, is my attention to it. Sure this may be a close-minded
-approach, but I have found the things that a _really_ important find another way to reveal themselves.
-
-In the end, I have basically reduced my smartphone into a tool that helps me, and not a source of meaning.
+Another thing that I also wanted to keep more to myself, was my head-space. Having a clear mindset where I can be
+present with and not constantly needing to be stimulated, is a feeling I deserve and everybody should know. However, I
+live in a world where everything is buying for my attention. One of the first things that I dropped like a hot potato,
+was paying attention to things that are out of my control. Why do I need to know about the news or what people are doing
+around me, if there is not anything I can do about it? The only thing that I can control, in that respect, is my
+attention to it. Sure this may be a close-minded approach to life, but I have found the things that a _really_ important
+find another way to reveal themselves outside of media.
 
 # When Will I Stop Caring?
 
 I am quite aware that all of my eggs are currently placed in a select few baskets. Currently, each of my proverbial
-baskets combine give me a sense of purpose and meaning. What bothers me the most is the lack of diversity in my
+baskets combine give me a sense of value, purpose, and meaning. What bothers me the most, is the lack of diversity in my
 portfolio.
 
 There is this ever lingering feeling of "when will I stop caring so much about this?". Over the course of my life, I
-have never really been able to stick to one thing for a long period of time. The most prevalent example, of loosing
-interest, is my relationship with video games. All throughout my school life, before higher education, I have always had
-video games. That was the only thing that I wanted to do to fill my time. I did not really care for anything else.
-However, once I reached college, I started to feel my interest in video games start to fade.
+have never really been able to stick to one thing for a long period of time. The most prevalent example of loosing
+interest, was my relationship with video games. All throughout my school life, before higher education, I have always
+had video games. That was the only thing that I wanted to do to fill my time. Anything else seemed auxiliary. However,
+once I reached college, my interest in video games start to fade.
 
-Picking up the controller, felt like it kept loosing its meaning as a fulfilling pastime. By the time that I had reached
-junior year in university, I had almost lost all interest in playing. Playing video games felt like hollow task, like I
-was just playing for the sake of doing it. How could something that I spent so much time on over the years, not be
+Picking up the controller felt like it was losing its meaning as a fulfilling pastime. Once I entered junior year of
+university, almost all interest was lost in playing video games. Playing video games felt like hollow task, like I was
+just playing for the sake of doing it. How could something that I spent so much time on over the years, not be
 interesting anymore?
 
 Looking back, I think it was more that I enjoyed playing with friends than I did playing video games. The interest

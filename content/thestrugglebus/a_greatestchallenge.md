@@ -182,7 +182,7 @@ mammoth goals I set for myself.
 
 It was set in my head that everything should be timed by _sleep cycles_, which are about 2 hour intervals where your
 brain patterns change in sleeping. If you are woken up in the middle of one, the rest of the day would feel like your
-mind is in a fog. At least that is what I had at least convinced myself into believing. Therfore, it was my duty to not
+mind is in a fog. At least that is what I had at least convinced myself into believing. Therefore, it was my duty to not
 fall back asleep if I woke up less than an hour from my alarm clock.
 
 You might be aware, but our brain is built in with a _really_ good internal clock. It is so good in fact, that it is a
@@ -201,6 +201,8 @@ There was a strong conviction that I _needed_ to know what time it is, because I
 would be enough for me to crawl to the other side of the room, to check the phone for the time. It would also happen
 when on of the frequent overnight pit-stops occurred as well.
 
+### Wait, what time is it?
+
 This has proved to be the most difficult habit to break. Going to bed, and waking up not knowing if I overslept is
 difficult. Thankfully, I do not own any clocks other than my phone, so nothing had to be given away. The only course of
 action was to trust that the phone will go off when told so, and leave the rest to sleeping.
@@ -214,7 +216,7 @@ I would frequently find that during the time it took to take a leak, my mind wou
 just woken up, therefore it means that I should start firing on all cylinders to today's task can start. By the time I
 would get back into bed, my mind would be racing trivial stuff that would prevent me from getting to sleep.
 
-This would happen almost everytime I needed to get up out of bead. This was happening in tandem with weening myself off
+This would happen almost everytime I needed to get up out of bed. This was happening in tandem with weening myself off
 knowing the time. I had no good solution to this, because I would almost instantly start thinking about things as soon
 as I got up. I wish there was a better solution to this. The way that I fixed this was, just hold it in and take care of
 it when 04:00 rolls around. It could wait until that unknown point in time is reached.
