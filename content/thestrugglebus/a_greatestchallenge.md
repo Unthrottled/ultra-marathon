@@ -54,25 +54,26 @@ distance to drastically increase. Plus, I wear glasses so that makes it even wor
 Winter is their favorite season, automatically tells me their hobbies are not all-season, winter based, or they like
 staying warm indoors. _The cold season can spare me the pleasure of its company._ `/rant`
 
-Anyways, the point that I am trying to get at, is that I had to wake up early for this to happen. I would get up at 4:30
-and be out the door by 5:00 to hit the roads. I would continue to keep this habit well beyond when I switch athletic
-goals. My normal habit now is, wake up at 4:00, start working on my free-time project, stop at 6:00. Get myself around
-and be done working out around 7:30. After that, it would be off to work from 8:00 to 16:00. After completing work for
-the day, I would eat, meditate, and walk before 17:00. From 17:00 to 19:00 I would then continue my other free-time
-project. Once 19:00 rolls around, I needed to prep my meals for the next day, shower, eat, and try to get to sleep.
+Anyways, the point that I am trying to get at, is that I had to wake up early in order to ride safely. Waking up at 4:30
+and heading out the door by 5:00 to hit the roads. This habit of rising early would continue even after my athletic
+goals changed. My normal routine now is, wake up at 4:00, start working on my free-time project, stop at 6:00. Get
+myself around and be done working out around 7:30. After that, it would be off to work from 8:00 to 16:00. After
+completing work for the day, there was time to eat, meditate, and walk before 17:00. From 17:00 to 19:00 I would then
+continue my other free-time project. Once 19:00 rolls around, I needed to prep my meals for the next day, shower, eat,
+and then try to get to sleep.
 
-That was my routine for the longest time, and I was wondering why I was having such a hard time getting to sleep. I
-would look at my schedule, and think that I have an entire hour to wind down, so why am I having issues?
+That was my routine for the longest time, and began to wonder why I was having such a hard time getting to sleep. I
+would look at my schedule, and see there is an entire hour to wind down, so why am I having issues?
 
-It evolved to the point, where I was also having trouble sleeping on the weekends as well. The entire time I knew that I
-had a problem, but I did not do anything about it. I knew that sleep was important, however I was neglecting it, getting
-6-7 hours worth of sleep a night.
+This evolved to the point, where finding sleep on the weekends was difficult as well. The entire time I knew that there
+was a large underlying problem, but did not do anything about it. I was being neglectful and getting 6-7 hours worth of
+sleep a night.
 
 # Lying to myself
 
 You and I both know this fact very well, "Sleep is important." We both might know this fact, but I did not _understand_
-the significance of it. Voluntary comatose is crucial for peak performance. Even after reading these books on human
-performance:
+the significance of it. Voluntary comatose is crucial for peak performance. Even after reading these all these books on
+human performance:
 
 <details>
 
@@ -85,72 +86,79 @@ performance:
 
 </details>
 
-I knew the significance of what having a good night of sleep gives you, however I still did not understand that it _did_
-apply to me as well. I had a bunch of habits that enabled sleep deprivation, and was doing nothing about it.
+I knew the significance of what having a good night of sleep gives you, however it was still not understood that _also_
+applied to me as well. I possessed many habits that exacerbated sleep deprivation and was doing nothing about it.
 
 The lie that I told myself was, "I am strong-willed, therefore I have habits. Because my habits are hurting me, I can
-change my habits." It was not until I reached a really tough point in my life, that the previous statement was **the
-biggest lie**, I ever told myself.
+change my habits." It was not until reaching a really tough point in my life, that the previous statement was worded
+such that _it was a lie_.
 
-Over the years of my self-improvement journey, have had one goal I held sacred, "Though shalt not lie to thyself."
-Lying is only good for attempting to impress others, and it _does not_ help get one stronger. Just because you might be
-impressed, does not change the fact that I did not or could not do it.
+Over the years of my self-improvement journey, there was one goal to be held sacred, "Though shalt not lie to thyself."
+Lying is only good in attempts to impress/persuade others, and it _does not_ help get one stronger. Just because you
+might be impressed, does not change the fact that I am not capable of doing it.
 
-The one of the most prevalent places where this come into play is: athleticism. You can lie to yourself about being
-capable, but that does not make you stronger. Sure, I could through around a heavy weight and pretend like I am strong,
-but that just makes me prone to injury and empty on the inside. What is the point of doing something, just to impress
-other people? I am the one that has to live with myself at the end of the day. I am the one that has to give my life
-meaning, I have to fight my battles. Just because other people think that I am cool, does not solve my problems. Sure it
-might help, but in the end, I am the one that has to put up with my hardships. Yes, others can support me, but I am the
-one that has to pull myself out of the hole.
+The one of prevalent places where this come into play is: athleticism. You can lie to yourself about being capable, but
+that does not make you stronger. Sure, I also could throw around a heavy weight and pretend like I am strong. However,
+that just makes me prone to injury and feeling empty on the inside. What is the point of doing something, just to
+impress other people? I am the one that has to live with myself at the end of the day. I am the one that has to give my
+life meaning, I have to fight my battles. Just because other people think that I am cool, does not solve my problems.
+Sure it might help, but in the end, I am the one that has to put up with my hardships. Yes, others can support me, but I
+am the one that has to pull myself out of the hole.
 
-Overtime, I have learned that it is the actions that we take when we feel the worst, that defines what we are capable of
-accomplishing. I cannot achieve self actualization by building on un-truths, because lies do not help when you feel like
-crap and want to give up. What I am trying to get as is, I do not want to lie to myself.
+Overtime, I have learned that the actions that are taken when I feel the worst defines the limits of what I am capable
+of accomplishing in the future. I cannot achieve self actualization by building on un-truths, because lies do not help
+when you feel like crap and want to give up. What I am trying to get as is, I do not want to lie to myself.
 
 # Breaking the Habits
 
-The wave of realization that washed over me when I realized that the lie I had been telling myself, was just a slightly
-mis-worded statement. Instead of, "I am strong-willed, therefore I have habits, and because my habits are hurting me, I
-can change my habits." What it actually was "I am strong-willed, because I have habits. My current habits are hurting
-me, I can use my habits to change myself." I only realized this when I went through a spout of an existential crisis.
-The fact nothing really mattered, and there was no real point in doing anything started to feel really heavy. My current
-life philosophy, is that there is no point in life, so that means there is no reason to not make the most out of it. The
-only meaning in life is what you give it. Therefore, when things start to feel pointless, I can just dig into the things
-that I gave meaning before and just wade through hollowness. It is because I have such strong habits, that I am able to
-be resilient. I have normally exited the bouts stronger than before and knowing myself better.
+### Getting to Sleep on Time
 
-By this time in my life, I have acquired many habits, and I have broken many habits. However, nothing that I was doing
-was working on helping me sleep a bit better. Everything become _super_ interesting right around the time I should be
-going to sleep. The most common thing that I would tell myself is, "I bust my behind all day, I deserve 20 extra minutes
-or another episode." However, that would keep happening, and I would find myself putting the phone down at 21:30.
+The wave of realization washed over me when I realized that the lie I had been telling myself was just slightly
+mis-worded. All the correct words where present, just in the wrong order. Instead of, "I am strong-willed, therefore I
+have habits, and because my habits are hurting me, I can change my habits." What it actually was "I am strong-willed,
+because I have habits. My current habits are hurting me, I can use my habits to change myself." This was realized only
+after I went through a spout of an existential crisis. The fact nothing really mattered, and there was no real point in
+doing anything began to make me hollow. Granted, my current life philosophy, is that there is no point in life, so that
+means there is no reason to not make the most out of it. The only meaning in life is what I give it. Therefore, when
+things start to feel pointless, I can just dig into the things that I gave meaning before, and just wade through
+hollowness. It is because I have such strong habits, that I am able to be resilient. I have normally exited the bouts
+stronger than before and knowing myself better.
 
-So the first thing that I would attempt to do, is set an alarm that tells me to put down the phone and start to get
-ready for bed. An important factor that I learned was I needed to respect this alarm to go to sleep like I do the waking
-up alarm. I have never had a problem waking up, fact I am almost always ready to go the moment the alarm goes off. Which
-is another habit that needed to be broken. However, I did not get the shutdown alarm the same respect, therefore I
-started to ignore it and slipped back into the habit.
+By this time in my life, I have acquired and broken many habits. However, nothing that I was doing was working on
+helping me sleep a bit better. Everything become _super_ interesting right around the time I should be going to sleep.
+The most common thing that I would tell myself is, "I bust my back all day, I deserve 20 extra minutes of videos or
+another episode." However, that would keep happening, and I would find myself putting the phone down at 21:30.
 
-Nothing that I was doing at the time would get me to respect the alarm, because I needed more time to relax. I kept
-thinking to myself, "I have an entire hour to wind down and get to sleep, I can get this to work."
-As time passed, it was clear that I needed to do something that I _really_ did not want to do. I had to sacrifice my
-precious time, devoted to work, to getting to sleep. Before I implemented my drastic change, I used to have 20 hours of
-dedicated focus time to accomplishing tasks during the weekday. This was the time between, sleeping, working out,
-overhead activities, and my day job. I held onto those hours because that was the time I would be building myself up.
-Those 2 hours before and after work is where my goals where being achieved. Changing that to 17.5 hours felt like a
-betrayal to my goals. The part of me that is driving my goal to becoming amazing, was strongly against that. It also
-just so happens that part of me is also very loud and holds the majority of control.
+Therefore, the first thing that I would attempt to do, is set an alarm that tells me to put down the phone and start to
+get ready for bed. An important factor that I learned after the fact was: I needed to respect this alarm to go to sleep
+like I do the waking up alarm. Waking up in the morning was never a problem, in-fact I am almost always ready to go the
+moment the alarm goes off. Which is another habit that needed to be controlled carefully. As you may have guessed, that
+shutdown alarm did not get the same respect as the wakup alarm. Eventually it started to be ignored causing a slip back
+into sleep deprivation habit.
 
-However, the part of me that realizes I am short-changing all of my current efforts, by not getting enough sleep
-eventually won over. Instead of stopping the presses at 19:00, the new closing time is now 18:30. Starting this felt
-like it went against everything I had been doing all these years. I have even been spending my money on outsourcing
-work, like getting groceries, so I could have more time to advance my goals. I acknowledge all the negative thoughts
-that came up, and moved on with my life. Since I could not overcome this by shear will-power, I needed to sacrifice the
-very thing that was causing me degrade.
+The was nothing, at the time, that would get me to respect the alarm. I always felt like there needed to be more time to
+relax. The thought of, "I have an entire hour to wind down and get to sleep, I can get this to work" did not help
+either. As time passed, it was clear that something, _I really did not want to do_, needed to be done. That action was
+to sacrifice the precious time, devoted to work, to enable more sleep. Before I implemented my _drastic_ change, I used
+to have 20 hours of dedicated focus time to accomplishing tasks during the weekday. This was the time between, sleeping,
+working out, overhead activities, and my day job. I held onto those hours because that was the time I would be building
+myself up. Those 2 hours before and after work is where my goals where being achieved. Changing that to 17.5 hours felt
+like a betrayal to my goals. The part of me that is driving my goal to becoming amazing, was strongly against that. It
+also just so happens that part of me is also very loud and holds the majority of control.
 
-This gave me the respect I needed for my shutdown alarm. What was the point of giving up my precious time, so that I
-could sleep more, if I was not taking the action to get to sleep sooner? Having overcome that habit that lead to a poor
-sleep cycle, it was time to tackle the next habits.
+However, part of me that realizes I am short-changing all of my current efforts, by not getting enough sleep. Getting
+more rest eventually won over. Instead of stopping the presses at 19:00, the new closing time is now 18:30. Starting
+this felt like it went against everything I had been doing all these years. I have even been spending my money on
+outsourcing work, like getting groceries, so I could dedicate even more time to advance my goals. All of these negative
+thoughts directed towards change where acknowledge. This enabled me to move on with my life and take the steps in the
+right direction. Since I could not overcome this by will-power alone, I needed to sacrifice part the very thing I held
+dear and was causing me degrade.
+
+This gave me the respect I needed for my shutdown alarm. What was the point of giving up my precious time, if I was not
+taking the action to get to sleep sooner? Having overcome one of the habits that lead to a poor sleep cycle, it was time
+to tackle the next ones.
+
+### Respecting the Magic Brick
 
 **The smartphone** is amazing an amazing tool to ruin any good night of sleep. I would browse the phone in bed and leave
 it charging right next to me overnight. Every book that I had read about getting to sleep, stated that they put the
