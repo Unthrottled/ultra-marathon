@@ -1,6 +1,6 @@
 ---
 title: "Greatest Challenge"
-metaTitle: "This is the title tag of this page"
+metaTitle: "Falling asleep is tough."
 metaDescription: "This is the meta description"
 ---
 
@@ -133,7 +133,7 @@ Therefore, the first thing that I would attempt to do, is set an alarm that tell
 get ready for bed. An important factor that I learned after the fact was: I needed to respect this alarm to go to sleep
 like I do the waking up alarm. Waking up in the morning was never a problem, in-fact I am almost always ready to go the
 moment the alarm goes off. Which is another habit that needed to be controlled carefully. As you may have guessed, that
-shutdown alarm did not get the same respect as the wakup alarm. Eventually it started to be ignored causing a slip back
+shutdown alarm did not get the same respect as the wakeup alarm. Eventually it started to be ignored causing a slip back
 into sleep deprivation habit.
 
 The was nothing, at the time, that would get me to respect the alarm. I always felt like there needed to be more time to
@@ -160,89 +160,95 @@ to tackle the next ones.
 
 ### Respecting the Magic Brick
 
-**The smartphone** is amazing an amazing tool to ruin any good night of sleep. I would browse the phone in bed and leave
-it charging right next to me overnight. Every book that I had read about getting to sleep, stated that they put the
-phone on the other side of the room or in another room. I heard the words they were saying, but I did not listen. I
-thought I was different, I am strong-willed, therefore I should be able to ignore my phone or put it down when
-necessary.
+**The smartphone** is amazing an amazing tool to destroying any semblance of good nights sleep. I would browse the phone
+in bed and leave it charging right next to me overnight. Every book that I had read about getting to sleep, stated that
+the phone should live on the other side of the room or in another room. The words where heard but not understood. I was
+different, I am strong-willed, therefore I should be able to ignore my phone, put it down when necessary, or stop at
+anytime. You can probably guess, that that did not happen and nights where spent clinging to a phone. Why does
+everything have to be so darn interesting before going to sleep?
 
-You can probably guess, that that did not happen, and I would cling to my phone. Why does everything have to be so darn
-interesting before going to sleep? Another awful habit that I had been I needed to constantly check email. If I woke up
-from a sleep cycle, I would reach for my phone and check my email.
+Another non-productive habit that formed, in the same vein, was the need to constantly check email. If I woke up from a
+sleep cycle, that was prime time to reach for the phone and check emails/notifications. An epiphany happened right after
+completing a tough workout on a day that I was tired from a bad night sleep. I distinctly remember thinking, "Why do I
+need to check my email overnight or on my phone at all? I am not going to do anything about the knowledge I got, or
+respond. So why do I keep doing it?" There was not a good answer to that question. That was the night that the phone got
+put on the far end of the room. The physical distance was enough for me to quickly put myself back into bounds. It only
+took me a really long time to put my ego aside and listen.
 
-I think the epiphany that I had was right after I got done working out on a day that I was tired from a bad night sleep.
-I distinctly remember thinking, "Why do I need to check my email overnight or on my phone at all? I am not going to do
-anything about the knowledge I got, or respond. So why do I keep doing it?" I did not have a good answer to that
-question. That was the night that the phone got put on the far end of the room. The physical distance was enough for me
-to quickly put myself back into bounds. It only took me a really long time to put my ego aside and listen.
+Now that my nocturnal email checking habit was starting to break, there was one last problem that needed to be broken.
+Waking up at 04:00 and expecting to perform difficult tasks less than 10 minutes of waking up, can lead to big sleeping
+issues. For me, it was I wanted to be ready to go as soon as possible, because I needed as much time to accomplish the
+mammoth goals I set for myself.
 
-Now that my nocturnal email checking habit was starting to break, I had one last problem I needed to break. Waking up at
-04:00 and expecting to perform difficult tasks less than 10 minutes of waking up, can create big sleeping issues. For
-me, it was I wanted to be ready to go as soon as possible, because I needed as much time to accomplish the mammoth goals
-I set for myself.
-
-I had it set in my head that everything should be timed by _sleep cycles_, which are about 2 hour intervals where your
-brain patterns change in sleeping. If you are woken up in the middle of one, you would feel like you would be in a fog
-for the rest of the day. That is what I had at least convinced myself into believing, so I tried really hard to not fall
-back asleep if I woke up less than an hour from my alarm clock.
+It was set in my head that everything should be timed by _sleep cycles_, which are about 2 hour intervals where your
+brain patterns change in sleeping. If you are woken up in the middle of one, the rest of the day would feel like your
+mind is in a fog. At least that is what I had at least convinced myself into believing. Therfore, it was my duty to not
+fall back asleep if I woke up less than an hour from my alarm clock.
 
 You might be aware, but our brain is built in with a _really_ good internal clock. It is so good in fact, that it is a
 bit scary. I adopted the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) a long time ago. My
-working sets are 27 minutes, and my resting intervals are 3 minutes. When my rest interval comes up, I get up and take a
-break, mostly looking out a window or something. Well, it's gotten to the point where I feel like I have had enough of a
-break and go to sit back down. By the time my rear hits the table, the bell to start the next working set rings. Almost
-as if I felt the passage of 2 minutes and 45 seconds without actually keeping track.
+working sets are 27 minutes, and the resting intervals are 3 minutes. When a rest interval comes up, I get up and take a
+break, mostly looking out a window or something. Well, it has gotten to the point where I feel like there was enough of
+a break, and I could go sit. By the time my rear hits is in the chair, the bell, to start the next working set, rings.
+Almost as if I felt the passage of 2 minutes and 45 seconds without actually keeping track.
 
 Anyways, this also means that it applies to sleep durations as well. The amount of times that I have woken up 3-5,
-minutes before 04:00, gave even more merit to my internal clock. Couple waking up 5 minute before the alarm and not
-wanting to fall back asleep in fear of breaking a sleep cycle, will result in getting a restless night sleep.
+minutes before 04:00, gave even more merit to the concept of an internal clock. Couple waking up 5 minute before the
+alarm and not wanting to fall back asleep in fear of breaking a sleep cycle, will result in getting a restless night
+sleep.
 
-I was seriously convinced that I _needed_ to know what time it is, because I could be needed to wake up really soon.
-That would be enough for me to crawl to the other side of the room, to check my phone to see the time. It would also
-happen when I needed to take a leak overnight as well. This was often, because I drink almost a gallon of water a day.
+There was a strong conviction that I _needed_ to know what time it is, because I might need to wake up really soon. That
+would be enough for me to crawl to the other side of the room, to check the phone for the time. It would also happen
+when on of the frequent overnight pit-stops occurred as well.
 
-This proved to be the most difficult habit to break. Going to bed, and waking up not knowing the time difficult.
-Thankfully, I do not own any clocks other than my phone, so I did not need to get rid of anything. I just had to trust
-that my phone will go off when I told it to, and leave the rest to sleeping.
+This has proved to be the most difficult habit to break. Going to bed, and waking up not knowing if I overslept is
+difficult. Thankfully, I do not own any clocks other than my phone, so nothing had to be given away. The only course of
+action was to trust that the phone will go off when told so, and leave the rest to sleeping.
 
-When I would wake up from a sleep cycle, I had to resist the urge to check the phone to see the time. This was such a
-hard-wired habit too. Each time I woke up, I had to re-assure myself that knowing the time did not matter. Even if it is
-15 minutes to 04:00, if you get woken up you _will not_ feel like death. There was no easy solution to overcoming this
-habit, in fact it went along with another habit.
+When I would wake up in the middle of the night, there mas a need to resist the urge to check the phone to see the time.
+This was such a hard-wired habit too. Each time I woke up, I had to re-assure myself that knowing the time did not
+matter. Even if it is 15 minutes to 04:00, if you get woken up you _will not_ feel like death. There was no easy
+solution to overcoming this habit, in fact it went along with another habit.
 
-When I would wake up to take care of business, my mind would kick into overdrive. Obviously, I had just woken up,
-therefore it means that I should start firing on all cylinders to today's task can start. By the time I would get back
-into bed, my mind would be racing.
+I would frequently find that during the time it took to take a leak, my mind would kick into overdrive. Obviously, I had
+just woken up, therefore it means that I should start firing on all cylinders to today's task can start. By the time I
+would get back into bed, my mind would be racing trivial stuff that would prevent me from getting to sleep.
 
-This would happen almost everytime I needed to get up. This was happening in tandem with weening myself off knowing the
-time. I had no good solution to this, because I would almost instantly start thinking about things as soon as I got up.
-I wish I had a better solution to this, but I do not. The way that I fixed this was, just hold it and take care of it
-when 04:00 rolls around. It could wait until the unknown time period is reached.
+This would happen almost everytime I needed to get up out of bead. This was happening in tandem with weening myself off
+knowing the time. I had no good solution to this, because I would almost instantly start thinking about things as soon
+as I got up. I wish there was a better solution to this. The way that I fixed this was, just hold it in and take care of
+it when 04:00 rolls around. It could wait until that unknown point in time is reached.
 
-Sleep is such a difficult task to work with. I cannot sleep on demand, the best I can do is set the conditions for
-sleeping. Then hope that it eventually works. I know that being high-strung was my issue, because when I relaxed I could
-sleep in. I dedicated Saturdays to be an active recovery day. I would not expect myself to accomplish feats of will on
-that day. Saturdays where dedicated to un-winding and avoiding stimulus. Which made the night between Saturday and
-Sunday, the only night that I could sleep more than seven hours.
+Sleep is such a difficult task to work with. It is not available on-demand, the best that can be done is to set the
+conditions for sleeping. Then hope that it eventually works. Being high-strung is the source of all my issues. This is
+much I know because, when I relax sleep comes easy the arriving night. Saturdays are designated to be an active recovery
+day. There are no expectations of accomplishing great feats that day. Saturdays are dedicated to un-winding and avoiding
+stimulus. Which makes the night between Saturday and Sunday, the only night where sleep lasts for more than seven hours.
 
-I knew what the problem was, its just I had to break all the habits, that when combined gave me a terrible night sleep.
-I had to look out for morning Alex, because he needs to be in top shape. However, night Alex wants to stay up and look
-at all the interesting things. Eventually, it took me completely detaching from my phone and all of my habits. What I
-lost in connectivity with the world, I gained in clear headspace. That reward is far more satisfying.
+It is the combination of these habits that result in getting a terrible night sleep. I need to keep looking out for
+Morning Alex because, he needs to be in top shape. However, Last Night Alex wants to stay up and look at all the
+interesting things. Completely detaching from my phone and all of my habits that come with it, was the cost. What was
+lost in connectivity with the world became replaced with a clear head-space. That trade-off yields a higher life
+satisfaction overall.
 
-I would like to say that I solved my sleeping problems, the best I can say is, I am moving in the right direction. I no
-longer have the desire to know the time at night. Even if I do get woken up by the alarm, my mind quickly gets to a
-clear and active state. I think the best thing that has come out of this is that I can actually sleep in on both nights
-of the weekend.
+I wish I could say that all my sleeping problems have been solved. The reality is that I am moving in the right
+direction. I find desire, to know the time at night, to be manageable. It still sometimes happens, and the hour of night
+becomes known. Though is not the end of the world, I still need to be mindful about regression. With time mostly under
+control, the alarm clock has been what primarily pulls me out of dreamland. To my surprise, even if I get woken up by
+the alarm, my mind quickly gets to a clear and active state.
 
-I had changed something that I had no direct control over, by changing my habits that set my environment. While I cannot
-really tell you if my studies or performance have gotten better. I do not measure any of those at the moment, I can say
-that my quality of life has gone up. I no longer feel like I am at the whims of the sleep fairy, and I can get full
-nights rest. I still have to hold any bathroom activities until I wake up, but I am starting to notice that I can get up
-and return to sleep faster.
+While I am still working on managing all the poor sleeping habits. The reward, so far, has made it worth it, for the
+most part. The best thing that has come out of this is that I can actually sleep in on both nights of the weekend.
 
-The sheer amount of effort to fix my poor sleeping habits awards this as the greatest challenge I have faced so far. My
-biggest problem is, that I cannot relax or get comfortable. While it may be a side effect of neglect during my
-ultramarathon, it is something I _can_ fix. I just have to be ever vigilant to set the right conditions, and not slide
-down the slope of regression. Thankfully, I have the confidence in knowing that habits that I form, once set are almost
-there to stay.
+In the end, I had changed something that I had no direct control over. This was done by changing my habits that set my
+environment. Unfortunately, I do not collect various performance metric on my studies or work tasks, at the moment.
+Meaning that there is nothing immediately that can be pointed at (from the outside) as positive gain from this
+endeavour. Though I can speak to the fact my quality of life has gone up. There is no longer a feeling of being at the
+whims of the sleep fairy to get a full nights rest. I still have to hold any bathroom activities until the alarm goes
+off, though. I am starting to notice that if I need to get up, I can return to sleep faster.
+
+The giant pool of willpower and effort needed to fix my poor sleeping habits awards this as the greatest challenge I
+have faced so far. My biggest problem is, that I cannot relax or get comfortable. While it may be a side effect of
+neglect during my ultramarathon, it is something I _can_ fix. I just have to be ever vigilant to set the right
+conditions, and not slide down the slope of regression. Thankfully, I have the confidence in knowing that habits that I
+form, once set are almost there to stay. I have the ability to change something that feels unchangeable.
