@@ -46,26 +46,27 @@ find another way to reveal themselves outside of media.
 
 # When Will I Stop Caring?
 
-I am quite aware that all of my eggs are currently placed in a select few baskets. Currently, each of my proverbial
-baskets combine give me a sense of value, purpose, and meaning. What bothers me the most, is the lack of diversity in my
-portfolio.
+I am quite aware that all of my eggs are currently placed in a select few baskets. Each of these proverbial baskets
+combine to give me a sense of value, purpose, and meaning. What bothers me the most is the lack of diversity of my sense
+of purpose portfolio.
 
-There is this ever lingering feeling of "when will I stop caring so much about this?". Over the course of my life, I
-have never really been able to stick to one thing for a long period of time. The most prevalent example of loosing
-interest, was my relationship with video games. All throughout my school life, before higher education, I have always
-had video games. That was the only thing that I wanted to do to fill my time. Anything else seemed auxiliary. However,
-once I reached college, my interest in video games start to fade.
+There is this ever lingering feeling of "when will I stop caring about this so much?". Over the course of my life, I
+have never really been able to stick to one thing for a long period of time. The most recent example of loosing interest
+is my relationship with video games. All throughout my school life, before higher education, I have always had video
+games. That was the only thing that could fill in the hours of the day. Anything else seemed auxiliary. However, once I
+reached college, my interest in video games start to fade.
 
 Picking up the controller felt like it was losing its meaning as a fulfilling pastime. Once I entered junior year of
-university, almost all interest was lost in playing video games. Playing video games felt like hollow task, like I was
+university, almost all interest was lost in playing video games. Playing video games became a hollow task, like I was
 just playing for the sake of doing it. How could something that I spent so much time on over the years, not be
 interesting anymore?
 
 Looking back, I think it was more that I enjoyed playing with friends than I did playing video games. The interest
 started to fade as high-school started to come to an end, and everybody was starting the next journey in their lives.
+People moved on, and my circle of video game friends started to disperse.
 
 The uncertainty that my interests will change, and I might be left with nothing, is a really troublesome thought. It has
-happened before, something I held close to me and sunk so much time into, suddenly lost all meaning.
+happened before, something I held close to me and invested so much time into, suddenly lost all meaning.
 
 If I am reading a story that follows a specific narrative. Such as, when the character lives a pure and hardworking
 life. Helping others and being an overall stellar human being. However, that changes when they suddenly realize they are
