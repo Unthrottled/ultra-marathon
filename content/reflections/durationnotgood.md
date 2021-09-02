@@ -113,33 +113,32 @@ I will turn out better in the end, and all it cost me was the only thing I canno
 # Falling for the trap
 
 There has only ever been one project that I started to work on, and continued to do so even though it lost its meaning
-and sense of purpose. In the end, I was just doing it to say, "I did it." I had no desire for the outcome, and ended up
-despising the whole thing in the end.
+and sense of purpose. In the end, it was done just to say, "I did it." I had no desire for the expected outcome, and
+ended up despising the whole thing in the end.
 
-Most of this is because of the attitude I had adopted and explained just moment ago. I am not saying that the attitude I
-have is bad, it just that it is **really** important to figure out goal and the answer to **"So what?"** before
-starting. I fell into this trap, because I lost my _so what_ answer, and I just continued, because that is what I was
-doing before.
+Most of this is because of the attitude I had adopted and explained just moment ago. Not saying that the attitude is
+bad, more that it is **really** important to figure out the goal and the answer to **"So what?"** before starting. I
+fell into this trap, because the _so what_ answer was lost and the project continued.
 
-This memoir of my ultramarathon, is not the first attempt of me trying to give up my streak of dedicated work. Somehow,
-I had convinced myself that instead of tracking my time by always making sure that I am writing code and committing it,
-everyday. Instead, it was better to granular track the time spent every day, and how those tasks get me to a goal that I
-wanted to accomplish.
+This memoir of my ultramarathon, is not the first attempt of me trying to give up my streak of dedicated work. Somehow I
+had convinced myself that tracking my time by always making sure that I am writing code and committing it every day, was
+a good idea. This was limiting to the amount of activities that could be worked on over time. Therefore, I thought it
+was better to track the time spent on tasks worked on throughout the day. Then linking how those tasks directed to a
+goal that I wanted to accomplish.
 
-I spent a solid 6 months of working to get an MVP deployed out to the cloud, so that I could start using the
-application. What I ended up with was a [website](https://github.com/Unthrottled/SOGoS-ui),
-a [backend server](https://github.com/Unthrottled/SOGoS-API), and [a mobile app](https://github.com/Unthrottled/TacMod)
-For that duration, half of my free time, 2 hours a day, was dedicated to building out this application.
+A solid 6 months was spent working to get an MVP (minimum viable product) deployed out to the cloud. Then in could start
+to take steps in the right direction. This effort yielded a [website](https://github.com/Unthrottled/SOGoS-ui),
+a [backend server](https://github.com/Unthrottled/SOGoS-API), and [a mobile app](https://github.com/Unthrottled/TacMod).
+Until the MVP was ready, half of my free time, 2 hours a day, was dedicated to building out this application.
 
-This was not the part that made me grow to never want to see this project again. Though I do have vivid memories of
-asking myself, "Why am I doing this?" The road to getting it complete was long, and I thought this was the answer to
-being free to do whatever I wanted to do with my time. However, when the time hand finally come, and I had a usable,
-production ready application, the next phase began.
+This was not the part that made me never want to see this project again. Though I do have vivid memories of asking
+myself, "Why am I doing this?" The road to getting the MVP complete was long. This was sure to be the answer to being
+free to do whatever I wanted to do with my time. Once the application suite became usable the next phase began.
 
-The app was built, such that I would catalog every task that I worked on. If I changed what I was doing, I would tell
-the app that I am working on something else now. Every inflection point in my daily life needed to be documented. If I
-started to work out, I would let the app know, "hey I am working out now." When that stopped, I would use the transition
-task.
+The app was built, such that I could time the duration every event of my life. If what I was doing changed, the app
+would be told I was working on something else now. Every inflection point in my daily life needed to be documented. If I
+started to work out, I would let the app know, "hey I am working out now." When that activity completed, I would switch
+the transitioning task.
 
 This process continued, and I got to see what my life looked like at a glance. Every small detail was categorized. I am
 a creature of routine, and have very strong habits. Therefore, my life's timeline looks the same week in and week out.
@@ -147,55 +146,57 @@ Sure, there is some standard deviation between the inflection points, but overal
 
 I remember feeling underwhelmed when was looking through almost 7 months of continuous data about my life. There was not
 anything impressive, about these data points, the fact that I needed to explain what they meant to others, proved that.
-**That is the point that I should have stopped and moved on.** Instead, I decided that I needed _1 Year_ of full data,
-then I could maybe get something out of this life intrusive time sink.
+It was just time spent on activities that only meant something to me. Yeah sure, I spent hundreds, if not thousands, of
+hours dedicated to fully focused work, but that is all it said. There was no answer to _so what_, it was just a data
+point. **That is the point that I should have stopped and moved on.** Instead, I decided that I needed _1 Year_ of full
+data, then I could maybe get something out of this life invasive time sink.
 
-The days would crawl by, and would be counting the days until I reached an entire year of data. In the end, once I reach
-a year, it would take me a couple of weeks until I could convince myself, that I _needed_ to halt. The feeling of
-turning of the servers, and the opportunity to get my headspace back was sweet. It was also something I realized, I
-should have done sooner. However, I fell into the trap of the sunk cost fallacy. This was the only project, that I have
-ended, which I was not glad I finished or started. Sure I gained some skills, I learned things, was able to apply them
-in my professional projects, but at what cost? Was it worth it? _Nope_.
+The days would crawl by, and would be counting the days until I reached an entire year. In the end, once I reached a
+year, it would take me a couple of weeks until I could convince myself, that I _needed_ to halt. The feeling of turning
+off the servers, and the opportunity to get my head-space back was sweet. It was also something I realized, I should
+have done sooner. However, I fell into the trap of the sunk cost fallacy. This was the only project which I was not glad
+I finished or started. Sure I gained some skills, I learned things, was able to apply them in my professional projects,
+but at what cost? Was it worth it? _Nope_.
 
-It would take me many months after stopping, to relinquish the habit of reaching for my phone to change my timed task,
-any time I did something different. I was a slave to this habit, and its lingering effects, made an impact on me. Though
-I am bitter, about what I made myself do, it was an important lesson on figuring out what truly is important in life.
-I _do not_ want to spend my time on something that I see no value in, or hope to get value out of after loosing meaning.
+It would take me many months after stopping, to relinquish the habit of reaching for my phone to change my timed task
+any time I did something different. I was a slave to this habit, and its lingering effects still had its impacts. Though
+I am a bit bitter about what I made myself do, it was an important lesson on figuring out what truly is important in
+life. I _do not_ want to spend my time on something that I see no value in, or hope to get value out of something after
+it lost meaning.
 
 In fact, this is probably the last time that this project will provide anything meaningful. Sure I have all of my
 activity data, but I do not care that it exists. I do not want to spend the time working with it, and creating anything
-interesting with it. When I attempt to try, every fiber of my being wants me to stop, so I do. I think this is the last
-thing that project will provide. It has given me an opportunity to tell a story about when and how not to get stuck
-doing something that has lost meaning.
+interesting with it so that others may see. When I attempt to try, every fiber of my being wants me to stop, so I do. I
+think this is the last thing that project will provide. It has given me an opportunity to tell a story about when and
+how not to get stuck doing something that has lost meaning.
 
-Until I am able to find an answer to the _so what_ question about the merit time spent on activities done in the past.
-Just showing durations of time spent does not feel like it provides any story worth without me having to explain it. If
-I ever figure out that out, it might mean that I can get something out of that data. However, I am not going to try
-hard, because I have already come to terms with letting it go.
+Until I am able to find an answer to the _so what_ question about the merit of time spent on activities done in theT
+past. Just showing durations of time spent does not feel like it provides any story worth without me having to explain
+it. If I ever figure out that out, it might mean that I can get something out of that data. However, I am not going to
+try hard, because I have already come to terms with letting it go.
 
 # Finishing the Ultramarathon
 
-The reasons that I want to cross the finish line of my ultramarathon has a different story than that of my sunk cost
-project. Sure, there have been times that I have regretted starting a process that I have not been able to stop. Even
-when I was on vacation, I was still writing code and committing thousands of feet in the sky.
+The reason that my ultramarathon needs to finish is a different story than that of my sunk cost project. Sure, there
+have been times when I have regretted starting a process that I have not been able to stop. Even when I was on vacation,
+I was still writing code and committing thousands of feet in the sky.
 
 I am unsure if it is just because of [Stockholm syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome), but right
-now I am clinging to what I am doing. I am comfortable with what I am working on right now, and what I have been doing
+now I am clinging to this daily habit. I am comfortable with what I am working on right now, and what I have been doing
 for the past years. It has gotten to the point where I am feeling complacent, there is nothing that is pushing the
 status quo.
 
 The hunger to feed my curiosity still exists, but I cannot find anything interesting to consume. I want the chance to be
-able to look for a new opportunity to come across. However, the way things are right now, when I get free time, I will
+able to look for a new opportunity to come across. However, the way things are right now, when I get free time, I
 quickly fill it up with work that I am either familiar with or wanted to work on beforehand.
 
-This is comfortable, but there is not any room for growth. Sure, I am getting better at the things I am already good at,
-however [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) is coming into play. The increases in
-skill are growing, but at a slower rate.
+This is comfortable, but the margins for growth are shrinking. Sure, I am getting better at the things I am already good
+at, however [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) is coming into play. The increases
+in skill are growing, but at a slower rate.
 
 I do not harbor any resentment to my current habit, it is the warm cozy room when the outside is bitterly cold. I want
-to stay, but I know that I will be stuck below a low ceiling. I want to find a room, where the ceiling is higher, I need
-to leave my comfort zone. That cannot be done, if I am stuck everyday trying to put in meaningful work every day. I
-cannot direct my focus at more than one thing at a time, and if I do not allow myself to focus on moving on, then I may
-never change.
+to stay, but that also stunts my rate of growth. I need to leave my comfort zone. That cannot be done, if I am stuck
+everyday doing the same tasks that I have grown comfortable with. By design, I cannot direct my focus at more than one
+thing at a time. Therefore, if I do not allow myself to focus on moving on, then I may never reach the next level.
 
-I want to enter the next chapter of my life, and right now it is me that is holding myself back.
+I want to enter the next chapter of my life and right now this is what is holding me back.
