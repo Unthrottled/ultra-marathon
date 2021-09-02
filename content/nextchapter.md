@@ -59,103 +59,106 @@ We live in an age where we are becoming more connected, and I felt like China ha
 wealth of potential sources of information, help, and experiences, that exists across a humongous ocean.
 
 When I started, I knew that I would be in it for the long haul. All the accounts, from those studying the language, had
-a common theme of not expect to see competency results for over 2 years. 虽然去年我开始学习中文但是我还是新手。Let me tell you right now,
-for me, Chinese is quite difficult. I have to memorise not only the characters, but also the stroke order, tones of the
-character, any tone changing rules when paired with other characters, also sprinkle in a bit of grammar. Thankfully,
-Chinese grammar is not very difficult.
+a common theme of not expect to see competency results for over 2 years. 虽然去年我开始学习中文，但是我还是新手。Let me tell you right now,
+learning Chinese has been _quite_ the challenge. I get to memorise not only the characters, but also the stroke orders
+and tones of the character, any tone changing rules when it is paired with other characters. Also sprinkle in a bit of
+grammar, thankfully, Chinese grammar is not very difficult.
 
-So with that decided, I would like to at least have the chance to visit China before I decide where I want to go next in
-life. Given that 2021 is still a world lingering in a global pandemic, I still have plenty of time to keep studying
-before I get a chance to visit.
+With that decided, I would like to at least have the chance to visit China before any decisions on where I want to go
+next in life occur. Given that 2021 is still a world lingering in a global pandemic, I still have plenty of time to keep
+studying before I get a chance to visit.
 
 # Meeting New People
 
-Another area of my life that I have neglected, is the social aspect. While I have spent most of my time building myself
-up alone, that does not mean that I am completely introverted. I have these things called social skills, I can hold a
-conversation on interesting topics, and am generally articulate with my thoughts. While I do not explicitly seek out
-social interactions, it is not I am not worn down by it. Social preferences is something that I believe can be adjusted.
-Meaning that I am not set on one end of the spectrum or the other.
+My social life is also another area of my life that has been neglected . While I have spent most of my time building
+myself up alone in my free time, that does not mean that I am completely introverted. I have these things called "social
+skills", I can hold a conversation on interesting topics, and am generally articulate with my thoughts (at least I would
+like to think so). While I do not explicitly seek out social interactions, it is not I am not worn down by or scared of
+it. Social preferences is something that I believe can be adjusted, with the right attitude. Meaning that I feel like I
+am not stuck on one end of the spectrum or the other.
 
 Right now, my current goal in life is to be the best version I can possibly be, and other people cannot do that for me.
-The can give me the opportunity to allow myself to go to the next level, but I am the one who has to do that work. I
-have not focused on other people at the moment, because they could not give me what I wanted. The validation that I was
-seeking, was something I thought only I could give myself.
+They can give me the opportunity to allow myself to go to the next level, but I am the one who has to do that: has to
+eat right, stay disciplined, lift heavy things, and so forth. Therefore, involving others seemed like unnecessary
+overhead, because what they could give I was not seeking. This validation was something I thought only I could give
+myself.
 
-The task that I set for myself does not have a clear end state. Meaning, I have no idea if I will ever finish what I
-started. There will always be something else to improve on, and settling for _good enough_ will not cut it. This is the
-tricky balancing act of trying to find the right transition which will allow me to change my current direction.
+This goal of self-actualization does not have a clearly defined end-state. Meaning, I have no idea if I will ever finish
+what I started. There will always be something else to improve on, and settling for _good enough_ will not cut it. There
+is a tricky balancing act of trying to find the right reason which will allow me to change my life's direction.
 
-I know that this stage has a lot of new challenges to overcome. Forming relationships with other people is not a
-one-sided endeavour. Whereas, if I am working on just myself, I can bend reality in my favor. Such that no matter what I
-do, I can feel like I am being successful. The thought of losing this option, is a bit unnerving. I attribute a lot of
-my current character, to my ability to skew reality to working in my favor. Essentially giving me the ability to
-overcome great challenges, and accomplish goals that I find valuable.
+Meeting new people has a lot of new challenges to overcome. Forming relationships with other people is not a one-sided
+endeavour. Whereas, if I am working on just myself, I can bend reality in my favor. Such that no matter what I do, I can
+feel always like I am being successful. The thought of losing this option, is a bit unnerving. I attribute a lot of my
+current character, to my ability to skew reality to working in my favor. Essentially giving me the ability to overcome
+great challenges, and accomplish goals that I find valuable.
 
 As I make the switch, the way I judge my success is not only dependent on my perspective, but also the others that I
-interact with. I still want to be true to myself and do not want to conform just to appease others. There are many
+interact with. I still want to be true to myself and do not want to conform, just to appease others. There are many
 unknowns that lie ahead, and I feel uncomfortable about this leg of my journey. However, being uncomfortable is
 something I intentionally seek out, because that means there is an opportunity for growth.
 
-Over the course of time, there are going to be many hurdles to overcome in the new path that I am taking. Getting
-started, and continuing to work on this part of my life seem to be the greatest challenges that need to be overcome. The
-allure of wanting to fallback and do what I have always done before, is strong and needs to be resisted.
+Over the course of time, there are going to be many hurdles to overcome with this the new path that I am taking. Getting
+started, and continuing to work on this part of my life seem to be the greatest challenges that need to be overcome. In
+fact, I still do not know how I am going to begin to try. The allure of wanting to fallback and do what I have always
+done before, is strong and needs to be resisted.
 
-The reason for wanting to grow this new aspect of my life needs to be stronger than everything else. Much like
-everything else that I do (and I guess everybody else does too), is an attempt to give my life purpose and meaning. As
-of today, most of the actions that I have taken up to know, has been growing my career and setting myself up for
-financial success in the future. I feel like I have checked most of those boxes at the moment, and will continue to be
-diligent as time passes. Though I may never be at a satisfactory level, I need to accept that where I am at should be
-acceptable.
+The purpose for starting and continuing to grow this new aspect of my life needs to be stronger than everything else.
+Much like everything else that I do (and I guess everybody else does this too), is an attempt to give my life purpose
+and meaning. As of today, most of the actions that I have taken up to know, has been directed towards growing my career
+and setting myself up for financial success in the future. Most of those boxes have been checked at the moment, and I
+will continue to be diligent as time passes. Though I may never be at a satisfactory level, I need to accept that where
+I am now should be acceptable.
 
-Meaning that the underlying motives as to why I want to start this new chapter of my life, is not the same as it has
-been before. Actually, before I explain anything, they are almost the same thing, just from a different perspective. I
-will elaborate more once I have actually spent the time explaining the real reason I want to move on.
+Meaning that the underlying motives as to why I want to start this new chapter of my life, is probably not going to be
+the same as it has been before. Actually, before I explain anything, they are almost the same thing, just from a
+different perspective. I will elaborate more once I have actually spent the time explaining the real reason I want to
+move on.
 
 Yes, I want to meet new people and get the chance to make more friends. The idea that others have figured things out
 about life, that I have not yet, is an exciting prospect. I want to build and strengthen relationships with others. Most
-of the things that I want out of life, cannot be bought with money. Though they can be purchased via time and effort.
+of the things that I want out of life cannot be bought with just money. Though they can be purchased via time and
+effort.
 
 While I am going out there looking for many people to connect with. Each of these connections I expect to yield
 different rewards. For instance, it could be a new opportunity to work on a difficult problem, a chance to impact the
 lives of others, or some other great things. I have had a fair amount of time to think about it, and I feel like the
-only meaningful purpose is that of being able to help others. We are put on this earth to help each other out, and I
-want to excel at that.
+only action that meaningful purpose is that of helping others. We are on this earth to help each other out, and I want
+to excel at that.
 
 A common theme from the books that I have read, is that when your purpose becomes greater than yourself, you become
-capable of more things. When the motive to continue shifts from the self to others, what you can accomplish can become
+capable of more things. When the motive to continue shifts from the self to others, feats you can accomplish can become
 greater. Disciple can be fueled by the need to accomplish something greater than yourself.
 
 It is this prospect that excites me the most. Knowing that I can push the boundaries of what I am capable, to even
-further limits. Though it is not just about self growth that I have my eye on. Even though as a growth, I become capable
-of helping others.
-
-No, I have also set my sights on one specific person as well. Though I do not know who she is, I do know that she does
-exist right now. Her name and face are currently unknown to me, but I cannot stop thinking about her. I have spent
-enough time with myself, to know who I am and what I want out of life. What I want next, is the opportunity to build the
-amazing experience together, with someone special. I want to be the reason that she has had the greatest meaning out of
-life. I feel as though that is my next purpose in life, is to become the reason for someone else. While I could continue
-to write thousands more words on my romantic fantasies. If I do not do anything about my current life, they will just
-remain pleasant thoughts.
+further limits. Though it is not _just_ about self-growth that my sights are set on. No, I have also set my sights on
+one specific person as well. Though I do not know who she is, what I do know is she does exist right now. Her name and
+face are currently unknown to me, but I cannot stop thinking about her. I have spent enough time with myself, to know
+who I am and what I want out of life. What I want next, is the opportunity to build an amazing experience together with
+someone special. Looking back when we are old, I want to be the reason for her greatest moments in life. I feel as
+though that is my next purpose in life, is to become the reason for someone else. While I could continue to write
+thousands more words on my romantic fantasies. If I do not do anything about my current life, they will just remain
+pleasant thoughts.
 
 # What's Next?
 
-I need to _start_ and see myself through this next chapter I have planned for my life. While these next goals have
-ambiguous definitions of success, that does not prevent them commencing. Figuring out where I want to go is the
-difficult part. Knowing that the direction I am heading is the right one, is what drives the discipline to keep moving
-forward. Sure, there may be days when little to no progress is made, or even setbacks may occur. Having a goal is the
-beacon in the foggy night sky, guiding me to where I need to be.
+I need to _start_ and see myself through this next chapter I have planned for my life. While these goals have ambiguous
+definitions of success, should not prevent them from being started. Figuring out where I want to go was the difficult
+part. Knowing where the goal is will drive the discipline to keep moving forward and remaining on course. Sure, there
+may be days when little to no progress is made, or even setbacks may occur. Having a goal is the beacon in the foggy
+night sky, guiding me to where I need to be.
 
 It may be a bit cliché, but it is not totally about the destination, but the journey to is also important. I have zero
-idea, what the path to my goals will look like. What I do know is what I want next. There are people who depend on me
+idea, what the path to my goals will look like. What I do know, is what I want next. There are people who depend on me
 whether they know it or not. I owe it to them to take my next steps forward.
 
 As I look back now, the reason that I feel stuck, is a bit silly. The idea of giving up working on a process that I
-never activly advertised, until now. In attempts to establish a good first impression, that I will never present. Not
+never actively advertised, until now. In attempts to establish a good first impression, that I will never present. Not
 wanting to quit, until I feel like I have reached a level I am satisfied with. Knowing full well that day will never
 come.
 
 What I have hoped to have gotten out of this exercise, is the piece of mind needed to let go and take the next steps. My
-focus needs to be directed towards the next challenge ahead, and not back to, what is now, comfortable.
+focus needs to be directed towards the next challenge ahead, and not back to, what is now comfortable.
 
 I also hope that you found some new nugget of information. Something that might be helpful for use later in life. If
 nothing else, you managed to kill sometime though!
