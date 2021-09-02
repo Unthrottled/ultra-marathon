@@ -170,7 +170,7 @@ interesting with it so that others may see. When I attempt to try, every fiber o
 think this is the last thing that project will provide. It has given me an opportunity to tell a story about when and
 how not to get stuck doing something that has lost meaning.
 
-Until I am able to find an answer to the _so what_ question about the merit of time spent on activities done in theT
+Until I am able to find an answer to the _so what_ question about the merit of time spent on activities done in the
 past. Just showing durations of time spent does not feel like it provides any story worth without me having to explain
 it. If I ever figure out that out, it might mean that I can get something out of that data. However, I am not going to
 try hard, because I have already come to terms with letting it go.
