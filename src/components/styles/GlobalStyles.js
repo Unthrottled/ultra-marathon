@@ -11,6 +11,11 @@ export const baseStyles = css`
     font-display: swap;
   }
 
+  .gatsby-resp-image-wrapper > a {
+    position: relative;
+    display: block;
+  }
+
   ::-webkit-input-placeholder {
     /* Edge */
     color: #c2c2c2;
@@ -19,6 +24,10 @@ export const baseStyles = css`
   :-ms-input-placeholder {
     /* Internet Explorer */
     color: #c2c2c2;
+  }
+
+  img {
+    box-shadow: none !important;
   }
 
   ::placeholder {
