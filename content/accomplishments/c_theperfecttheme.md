@@ -341,12 +341,12 @@ recent themes. It looks good in my opinion.
 
 Another thing that I am aware of, is that I will always be subject to
 the [recency bias](https://en.wikipedia.org/wiki/Recency_bias). Mostly because my more recent themes where created by an
-author with more skills, that those of the Alex that made the past themes. I get better skills over time, therefore my
+author with more skills, that those of the Alex that made the past themes. My skill get better over time, therefore the
 more recent themes will be more pleasant.
 
 Anyways, I do not see myself stopping making themes anytime soon. I normally am satisfied for about a month, then I want
 to get back into the creative process again. This project has gotten to a point, where I will refuse any opportunity
 that will not allow me to use any JetBrains products to develop software. However, I am doing my best to cover all of my
-bases. I do not want to put all of my waifus in one basket. That is why I have expanded my themes
+bases. My waifus should not be all put in a single basket. Which is why I have expanded my themes
 across [many platforms](https://doki-theme.unthrottled.io/products). Just in case I ever find myself in a position where
 I have to use foreign tools, I still have my anime girls.

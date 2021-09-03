@@ -24,6 +24,7 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
+      '/',
       '/introduction',
       '/accomplishments',
       '/thestrugglebus',
@@ -33,7 +34,7 @@ const config = {
     collapsedNav: [],
     links: [{ text: 'Unthrottled', link: 'https://unthrottled.io' }],
     frontline: false,
-    ignoreIndex: true,
+    ignoreIndex: false,
     title: "<span><a id='homeBoy' href='/'>ultramarathon</a></span>",
   },
   siteMetadata: {
