@@ -4,20 +4,19 @@ metaTitle: "I did this."
 metaDescription: "This is the meta description"
 ---
 
-Back when I unknowingly started my _ultramarathon_, where not any clear set goals or accomplishments. Saying that there
-was an outline for how my time should have been spent, at the start, would be a lie.
+My accomplishments lack cohesion, due to the fact that my _ultramarathon_ was started by accident. There was no defined
+starting date or conscious decision to start. Just an eventual realization that I have started a long-term habit. Saying
+that I had an outline for how my time should have been spent at the start would be a blatant lie.
 
-However, as time passed, there was a realization that I could dedicate effort to accomplishing a specific goal. Meaning
-that as time has gone on, I _do_ posses a high level outline of how life should work out.
+As time passed, I eventually directed my focus to accomplishing specific and difficult to obtain goals. In the
+beginning, this ultramarathon was target to a weakness in skill, then in evolved into satisfying my creative desires.
 
-In the beginning, there was a search for a way to fill a specific skill weakness or desire. Mostly through reflection, I
-have turned my current accomplishments into a cohesive story. They have mostly been put together after the fact, from
-all the artifacts generated over the process. Not because there were life goals guiding it all upfront.
+Mostly through reflection, I have derived goals from my current accomplishments and turned them into a cohesive story.
+The goals I work towards and cherish today, came about mostly due to dumb luck and not because of strategic planning.
 
-A massive amount of time has been invested into completing tasks. Tasks that bring the completion of my main goals
-closer. It makes me pretty happy that over the last 4 years, there are only 3 major accomplishments. I never explicitly
-planned out what I wanted to work on, these goals happen to appear as time moved on. Serendipity may come to mind, or
-even happy accidents. In reality, I just stumbled across an opportunity and decide to roll with it.
+A massive amount of time has been invested into completing tasks bringing me closer to completion of my main goals. It
+makes me pretty happy that over the last 4 years, I only have 3 major accomplishments. I never explicitly planned out
+what needed to be worked. The opportunity just presented itself, and I just rolled with it.
 
-This effort of self-reflection reveals that I stayed on a simple but difficult path. I do not want many things
-is life, but I _do_ want the things that I have to have great meaning.
+I am grateful my life's journey stayed simple while remaning difficult. I do not want many things in this life. What I _
+do_ want, is for the things I possess to have great meaning.
