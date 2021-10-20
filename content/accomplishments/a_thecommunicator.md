@@ -4,84 +4,92 @@ metaTitle: "Can word good"
 metaDescription: "This is the meta description"
 ---
 
-Very early into my professional software development career, some time before my 1500+ days of dedicated work. A gap in
-a very specific skill made itself known. Being able to express my thoughts in a coherent matter to others was difficult.
-I lacked the ability to convey meaning about something which was right about: a design, requirement, or chunk of code.
+Very early into my professional software development career, I found a gap in a very specific skill. I lacked the
+ability to convey meaning about: a poor design, an unclear requirement, or un-optimized chunk of code. The ability to
+express these thoughts coherently was difficult.
 
-This was something that I had not learned about in school, nor was there an expectation encounter this. Yes, learning
-how to speak in public, for delivering a prepared speech, was covered. However, being able to quickly convey meaning, on
-the spot, was not. I would be able to look at something, have a feeling that it is not optimal, but was not able to
-pinpoint the issue. Which in-turn makes it almost impossible to communicate this to another person. How could I express
-something to somebody else, if I do not full understand the issue as well?
+This was something that I had not learned about in school, nor did they set an expectation for me encounter this
+problem. Yes, learning how to deliver a prepared speech was covered. However, being able to quickly convey meaning, on
+the spot, was not.
 
-Looking back, I think it might have been an artifact of me being at the very beginning of my programming journey.
-Everything was new and fascinating, and I wanted to do everything right! All without having the proper know-how,
+This manifested itself as have a vague feeling that something was not optimal/clear/precise, and I was not able to
+pinpoint the exact issue. Which in-turn makes it almost impossible to convey this meaning to another person. How could I
+express something to somebody else, if I do not full understand the issue?
+
+Looking back, I think this might have been an artifact of me being at the very beginning of my programming journey.
+Where everything was new and fascinating, and I wanted to do everything right! All without having the experience,
 guidelines, or heuristics.
 
 # Accidentally Breaking The Communication Barrier
 
 ### The Consumer
 
-At the time, goal to make myself better at my career was crystal clear. Making that a reality, was not. It felt like
-there was a missing piece in the puzzle. Something which would bridge the gap between where I was now and where I wanted
-to be. Having the _next big project_ to work on. Finding an investment of time which would yield honed career skills, if
-enough time and effort was thrown at it.
+This story takes place around the timeline of where I just started to discover that I can actually apply myself and
+succeed. Having applied this work ethic to the last half of my higher education, I wanted this trend to continue after
+school as well. So the goal to make myself better at my current career, was crystal clear. How that would be turned into
+reality, was not. It felt like there was a missing piece to this self-improvement puzzle. Something which would bridge
+the gap between where I was now to the place I wanted to be. If I just had that _next big project_ to work on. An
+investment of time which would yield honed career skills, given enough time and effort.
 
 In the end, I did come up with an idea. Which was, "I am going to consume as much information as I possibly can."
-When the topics are interesting, learning becomes a positive side effect instead of be the primary objective.
+Thankfully, there are things that I enjoy about my new current field of work. When the topics are interesting, learning
+becomes a positive side effect instead of be the primary objective.
 A [flashbulb memory](https://en.wikipedia.org/wiki/Flashbulb_memory) occurred shortly after the discovery of
-the [Software Engineering Radio](https://www.se-radio.net/) podcast. I vividly remember the feeling of, _I do not know
-anything, and the amount of information out there, will take years to finish_.
+the [Software Engineering Radio](https://www.se-radio.net/) podcast. There is this vivid memory of the feeling, _I do
+not know anything, and the amount of information out there, will take years to finish_. It was like I was positioned at
+the bottom of mountain, and the only way up was a long winding trail, which would take forever to make any progress on.
 
-This was interpreted as a hint, that I should double down on the ability to consume information. Refining the skils to
-become better at listening to what other people have to say. Having only a limited amount of free time between
-commitments such as: work, sleep, exercise, and eating, required me to hone a specific skill. Which was being able to
-densely pack in education and still be able to retain it, within a small time-slot. Thankfully, we live in a world with
-technology, and people who like to speak words about interesting stuff.
+I interpreted this feeling as a hint that I should double down on the ability to consume information. Refining the skils
+to become better at listening to what other people have to say. Having only a limited amount of free time between
+commitments such as: work, sleep, exercise, and eating, required me to hone a specific skill. Which is the ability to
+densely pack in education and _still be able to retain it_, within a small time-slot. Thankfully, we live in a world
+with technology, and people who like to speak words about interesting stuff.
 
-Therefore, most of my knowledge has been consumed via audio, ranging from videos lectures, audiobooks, and podcasts. The
-vast weight of knowing that I would probably be spending years to get to where I want to be, was heavy. Thankfully it
-was not soul crushing, yet. _Consume faster_ quickly became part of my knowledge hoarding goal. Taking information in
-was all I had at the time, so why not be really good at that? Since most of the information desired is emitted from
-audio players, the ability for my resources to have a speed-up function, was a must.
+Therefore, most of the information has been consumed via audio, ranging from videos lectures, audiobooks, and podcasts.
+The vast weight of knowing that I would probably be spending years to get to where I want to be, was heavy. Thankfully
+it was not soul crushing, yet. _Consume faster_ quickly became part of my knowledge hoarding goal. Taking in information
+was all I had to improve myself with at the time. So why not be really good at that?
 
-Something that I picked up during my video game phase, was how to acclimate to higher control sensitivity. Most video
-games allows the controls the mouse or joystick's sensitivity to be adjusted. Having a high sensitivity, enables the
-ability to react quicker. In my case, it was point and shoot. Nothing like snapping a full 180 degrees and destroying
-the opponent behind you. In order to reach the point where my movements where quick, I learned that I had to
-incrementally work up. Each day I would start with the sensitivity of the mouse at a level higher than I was used to and
-a bit uncomfortable. Spending matches getting used heightened feedback system. Overtime, once I felt like I was starting
-to get the hang of it, I would then bump up the sensitivity and repeat the process. This process would keep going until
-either control configuration was maxed, or there was not any noticeable improvement in performance over time.
+Thanks to technology, audio players the ability adjust the rate to which information is thrown at me, the playback
+speed. Something that I picked up during my video gaming phase, was how to acclimate to higher control sensitivity. Most
+video games allows the controls the mouse or joystick's sensitivity to be adjusted. Having a high sensitivity, enables
+the ability to react to in-game events quicker. In my case, this would enable me to quickly point and shoot. Nothing
+like snapping a full 180 degrees and destroying the opponent behind you. In order to reach the point where my movements
+where quick, I learned I could incrementally work my way up the scale. Each day I would start with the sensitivity of
+the mouse at a level higher than I was used to, a bit uncomfortable. Then I would spend matches getting used heightened
+feedback system. Overtime, once I felt like I was starting to get the hang of it, I would then bump up the sensitivity
+and repeat the process. This process would keep going until either control configuration was maxed, or there was not any
+noticeable improvement in performance over time.
 
-As it turns out, that same process works for speeding up audio. Start by bumping up the playback speed of the audio.
-This new speed requires more focus on what is being said and comprehending the topic at hand. Which limits the amount of
-tasks that could be done at the same time as listening. I would repeat the process bumping up playback speed when I got
-comfortable. This process repeated until if it where any faster, then listening is the only thing that could be done at
-the time. The playback speed of x2.35 is where my limit is. Anything faster requires me to sit down and just listen to
-the subject at hand. Which means other tasks that require less focus such as:
+As it turns out, that same process works for speeding up audio. Start by bumping up the playback speed of the audio just
+a bit out of the comfort zone. This new speed requires more focus on what is being said and comprehending the topic at
+hand. Which limits the amount of other tasks that could be done at the same time as listening. I would repeat the
+process bumping up playback speed when I got comfortable. This continued until if the playback where any faster, then
+listening is the only thing that could be done at the time. The playback speed of x2.35 is where my limit is. Anything
+faster requires me to sit down and just listen to comprehend subject at hand. Which means other tasks that require less
+focus such as:
 going on really long walks, washing my car, and driving, get thrown out the window. Which is a no-go, and defeats the
-purpose.
+purpose listening to audio.
 
 There was a brief period of time when I would consume analog books. The biggest problem with books, is the sitting down
-in one place and not doing anything aspect. Programming has me stationary in front of a computer for the most of my
-time. Therefore, sitting down in one place and consuming is book becomes difficult, because I need to move. There where
-few opportunities were I could take advantage of times I _should_ be sitting down and not doing anything. Such as, when
+in one place and not doing anything. Programming has me stationary in front of a computer for the most of my time.
+Therefore, sitting down in one place and consuming a book is difficult, because I need to move. There are few
+opportunities were I could take advantage of times I _should_ be sitting down and not doing anything. Such as, when
 laundry is being done. Those tasks are far and few in-between though. Making audiobooks the superior choice, because I
 can do low impact tasks while consuming knowledge.
 
 ## The Producer
 
-Somewhere in this timeline, I felt bad about my entire knowledge-base being unoriginal and just borrowed wisdom from
-others. As if all of my thoughts where unoriginal and not worth sharing. Eventually, it was the realization that the sum
-of everything that I have consumed which me a unique perspective of the world. Since my time (and yours) is not
-infinite, I can only dedicate my attention to a small subset of information. The knowledge pool created by humanity is
-vast and expansive. Therefore, things I have chosen to consume were essentially picked by the luck of the draw. Forming
-a picture of the world that is unique to me. Until we reach singularity, where anyone knows everything and anything at a
-given time, I still have something to unique contribute.
+Somewhere this time, I felt bad about my entire knowledge-base being unoriginal, just borrowed wisdom from others. As if
+all of my thoughts where unoriginal and not worth sharing. Eventually, I had a realization that the sum of everything
+that I have consumed gives me a unique perspective of the world. Since my time (and yours) is not infinite, I can only
+dedicate my attention to a small subset of information. Therefore, things I have chosen to consume, which were
+essentially picked by the luck of the draw, forms a picture of the world that is unique to me. Until we reach
+singularity, where anyone knows everything and anything at a given time, I still have something to unique contribute.
 
 Before I continue, if you also would like to read the same things I have read. Feel free to browse through some of these
-book recommendations. This is a distilled list of worth-while reads. I would not recommend you junk.
+book recommendations. This is a distilled list of worth-while reads (I would not recommend you junk or filler to make
+your reading list bigger).
 
 <details>
 <summary>Book Recommendations (Click to Open)</summary>
@@ -143,85 +151,92 @@ communication barrier_." I have just been busy setting the stage, because now I 
 
 Turns out, the piece of the puzzle which missing was: other people's perspectives. As I consumed more and more of other
 people's opinions or teachings, the more my own thoughts became clear. Acting as a catalyst for me to be able to speak
-comprehensibly about a topic. Hearing somebody else having problem/issue and solving it, but being able to communicate
-it better, resonated with me. This in turn created a positive feedback loop. The more I consumed, the better I became at
-communicating with others.
+comprehensibly about a topic. The more I consumed, the better I became at communicating with others.
 
 ### Exercises in Communication
 
 #### Starting a blog
 
-I was hoarding knowledge others so kindly spent the time giving out, and was not giving any that back. Which eventually
-lead me to the very beginning of
-my [GitHub contribution streak](https://github.com/Unthrottled?tab=overview&from=2017-12-01&to=2017-12-31). <sup>_The
-very one I am trying to escape._</sup>
+I was now hoarding knowledge others so kindly spent the time giving out, and was not giving any that back. Which
+eventually lead me to the very beginning of
+my [GitHub contribution streak](https://github.com/Unthrottled?tab=overview&from=2017-12-01&to=2017-12-31). _The very
+one I am trying to escape._
 
-This is what got me hooked into showing others that I am accomplishing something every day. Previously, I had tried to
-get myself into a habit of bettering my skills as a software developer, but those faded out. Mostly because of the lack
-of interesting ideas or problems to solve.
+This is what got roped me into showing others that I am accomplishing something every day. Previously, I had tried to
+get myself into a habit of bettering my skills as a software developer, but those faded out. They mostly did not work
+because of the lack of interesting ideas or problems to solve.
 
-It took copious amounts of knowledge consumption to discover that I could write about my own technical experiences. I
-encountered problems that other people haven not asked about. Therefore the Google machine could not give me a
-convenient answer. Thus, https://blog.unthrottled.io was born, marking the start of something that would consume a large
-portion of my attention and require truckloads discipline. All without having any exit plan or knowing when this goal of
-self-improvement will have been reached.
+It took copious amounts of information consumption to discover that I could write about my own technical experiences. I
+started to encounter problems that other people have not asked about. Meaning the Google machine could not give me a
+convenient answer. Thus, https://blog.unthrottled.io was born, marking the start of a process that would consume a large
+portion of my attention and require truckloads discipline. I began this effort all without having any exit plan or
+knowing when this goal of self-improvement will have been reached.
 
-Writing a blog was a positive experience. It increased my ability to write more coherent emails, and convey my feelings
-with written words better. However, I stopped contributing to it after I figured out that building things with new
-technology was cooler. A couple of months after starting, I had stopped writing blog posts. Trading it by spending time
-writing applications using emerging technologies. I am fairly confident this was when I
+Writing a blog was an overall positive experience. It increased my ability to write more coherent emails, and convey my
+feelings with written words better. I stopped contributing to it after I figured out that building things with new
+technology was cooler. A couple of months after starting, I had stopped writing blog posts. Trading it in for writing
+applications using emerging technologies. I am fairly confident this was when I
 found [Software Engineering Radio](https://www.se-radio.net/), because that podcast showed me a new world of neat tools.
-I wanted hands-on experience with the cutting edge software that the cool kids where using. It also meant that I had to
-do this on my free time as well. Because at the time I was working for the government, and we were still writing SOAP
-services.
+I wanted hands-on experience with the cutting edge software that the cool kids where using. Doing this also meant that I
+had to do this on my free time as well. Because at the time I was working for the government, and we were still writing
+SOAP services.
 
 This new trend of building new applications would continue into early 2018, and quickly change when I started my next
-career. Around this time, I was searching for new things to learn, because the technical stack I was working with was
-different. New technology, new challenges, and more things to learn. Also around this time I discovered that I
-could [combine Anime Girls & software development tools](c_theperfecttheme) and that
-I [should get better at math](b_machinelearning). Needless to say, my direct dedication to getting better at
-communicating took a backseat. This goal is still important and gets my attention sometimes. However, it is not my
-primary goal anymore.
+career. After I started, I was still in search of new things to learn. The tech stack that I was working with a fresh
+change of pace. New technology, new challenges, and more things to learn. It was also around this time I discovered that
+I could [combine Anime Girls & software development tools](c_theperfecttheme) and that
+I [should get better at math](b_machinelearning). Essentially tabling the direct dedication of getting better at
+consuming more information. This goal is still important and gets my attention sometimes. However, it is not my primary
+goal anymore.
 
 #### Presenting Technical Topics
 
-Although that was the end of blog journey, I still desire to share things learned. There was an opportunity, at my new
-job, to be able to present on technical topics to an audience of coworkers. The thought of giving a presentation to an
-audience, in-person, was an uncomfortable feeling. I gravitate towards activities that make me uncomfortable, because
-they tend to yield net positive results. Eventually, I reached a point where giving talks feels like second nature.
-Though they still take a monumental amounts of effort and practice, have become a comfortable activity.
+Although my blog journey reached an end, I still have a desire to share things I have learned. There is an opportunity,
+at the place I had just started the time, to be able to present on technical topics to an audience of coworkers. The
+thought of giving a technical talk to an audience, in-person, was an uncomfortable feeling. By this time, I had learned
+gravitate towards activities that make me uncomfortable, because they tend to yield net positive results. Eventually, I
+reached a point where giving talks feels like second nature. Though they still take a monumental amounts of effort and
+practice, have become a comfortable activity.
 
 The following paragraphs are dedicated to a small subset of topics I have presented on.
 
+**Reactive Programming**
+
 I adopted [reactive programming](https://en.wikipedia.org/wiki/Reactive_programming) and the
 non-blocking [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)
-before starting my new job. This gave me an opportunity to share this emerging tech with my co-workers. I had a good
-grasp on how these new and strange programming paradigms functioned. Explaining the new concepts, this library
-introduces, is difficult using only words. Thus, https://learn-functional.unthrottled.io/ was born! It is a website,
-built to was to explain the concepts of reactive
+before starting my new job. This gave me an opportunity to share this emerging tech with my co-workers. I would like to
+think I have a good grasp on how these new and strange programming paradigms work. Explaining these new concepts is
+difficult using only words. I thought it might be easier if I had moving pictures to point at, so I
+willed https://learn-functional.unthrottled.io/ into existence. It is a website, built to was to explain the concepts of
+reactive
 programming [using animations](https://learn-functional.unthrottled.io/reactive/concepts/reactor/visualisations/intermediate/zipWith)
-. It also helped solidify my understanding of the topics as well, because it uses the same programming constructs to
-implement the animations!
+. It also helped solidify my understanding of the topics as well, because it uses the same programming constructs it
+covers to implement the animations!
+
+**Amazon Web Services**
 
 Part of the new tech stack at my new job is [Amazon Web Services](https://aws.amazon.com/). Doing anything (at the time)
-in AWS was scary. There were walls of documentation, but in this case, quantity did not equal quality. To AWS's credit,
-they have been doing a better job on their documentation. I was curious about how to host my own things, I already knew
-about containers and the cloud. So I started to dive into the world of AWS. After picking up some handy tips that I had
-not known before, I felt the need to create https://frugal-aws.unthrottled.io/
-Which documents my process of how I supported my very own production.
+in AWS was scary. There were walls of documentation. However, in this case quantity did not equal quality. To AWS's
+credit, they have been doing a better job on their documentation more recently. I was curious about how to host my own
+things, I already knew about containers and the cloud. So I started to dive into the world of AWS. After picking up some
+handy tips that I had not known before, I felt the need to create https://frugal-aws.unthrottled.io/
+Which documents my process of how I supported my very first production. I do it a bit differently now, but it is fun to
+look back on that.
 
 This lovingly crafted journal is not the first time I have wanted to escape from my software contribution streak. Back
-then, I thought I knew how to do it as well. I was confident that the answer was tracking my time in some other way,
-other than writing code and pushing it to GitHub. [SOGoS](https://github.com/Unthrottled/SOGoS-ui) was born, and became
-a pet project. It was destined to pull me out of the hole I dug myself into. Long story short, that did not
+then, I thought I knew how to escape. I was confident that the answer was tracking my time in some other way, other than
+writing code and pushing it to GitHub. [SOGoS](https://github.com/Unthrottled/SOGoS-ui) was born, and became a pet
+project. It was destined to pull me out of the hole I dug myself into. Long story short, that did not
 work, [you can read more of the story here.](../reflections/durationnotgood) Anyway, in the process of building that
-project, I did learn new things that where difficult to figure out by myself. Like using the really cheap, but really
+project, I rode the struggle bus and solved some difficult problems. Like using the really cheap, but really
 confusing [Amazon Cognito](https://aws.amazon.com/cognito/). So I created some slides and gave a presentation to all who
 where interested. You can find the slides of the talk, here:
 https://unthrottled.github.io/cognito-an-oauth-story/#/
 
 ## In Conclusion
 
-Restating an important point, for emphasis. While my direct journey where improving my communication with others has
-left the direct spotlight. I am always looking for ways to hone this skill. Take this memoir for instance, it's a bunch
-of words, that is difficult to write, and I am conveying my life story.
+I gained the ability to communicate better with those around me, by listening to other peoples stories. Though I may be
+mimicking what others have done, it is the combination of all those I mimic, that give me a unique perspective. A
+perspective that is worth sharing with others. Though I may not share as much of what I have learned now, I am always
+looking for ways to hone this skill. Take this memoir for instance, it's a bunch of words, that is difficult to write,
+and I am conveying my life story, essentially communicating.
