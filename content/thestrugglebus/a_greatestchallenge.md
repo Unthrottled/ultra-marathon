@@ -4,66 +4,67 @@ metaTitle: "Falling asleep is tough."
 metaDescription: "This is the meta description"
 ---
 
-There are many long-running tasks that I have performed over my the entirety of my life, many of which during my
-ultramarathon. They range from: [learning how to communicate well](../accomplishments/a_thecommunicator),
+There are many long-running set of tasks that I have performed over my the entirety of my life. Many of which occurred
+during my ultramarathon. They range from: [learning how to communicate well](../accomplishments/a_thecommunicator),
 to [re-learning mathematics](../accomplishments/b_machinelearning), or even my journey as high performing athlete.
 
 One task stands above them all as the most difficult to perform. It comes in the shape of breaking an existing habit. As
-you might have already been able to tell, I have _very_ strong routines. Meaning my habits are strongly set.
+you might have already been able to tell, I have _very_ strongly set routines by habit.
 
 If you had asked me what my hardest challenge was, 7 years ago, I might have answered, giving up https://reddit.com.
 Reddit was engraved into my daily life, such that it would need to be checked at any moment of downtime. There was a
-need for constant stimulation, and Reddit solved that for me. However, I did not like the head-space that the constant
-need to be stimulated put me in. Therefore, quiting cold turkey seemed like a good choice. After that, I soon realized
-that was the only reason I browsed the internet, was to use Reddit. Meaning there was an empty pit that Reddit left
-behind. There has not been one specific replacement for Reddit, somehow life went on and I found better things to work
-on. Breaking the muscle memory of constantly checking to see if people said interesting things, was really tough. Not as
-tough as the thing that I struggled the most to accomplish.
+need for constant stimulation, and Reddit solved that for me. However, I did not like being put in a head-space that
+needed to be constantly stimulated by interesting things. Therefore, quitting cold turkey seemed like a good choice.
+After that, I soon realized that site was the only reason I browsed the internet. Meaning there was an empty pit that
+Reddit left behind. There has not been one specific replacement for Reddit, somehow my life went on, and I found better
+things to work on. Breaking the muscle memory of constantly checking to see if people said interesting things, was
+really tough. Not as tough as the thing that I struggled the most to accomplish.
 
-**Getting enough sleep** is the current hardest challenge I have yet to overcome. The years of trying to become Alex
-2.0, required me to pick up a new mindset, outlook on life, and various habits. This turned me into a tightly wound
-machine that was capable of accomplishing many great things. Unfortunately, this can also lead to problems of not being
-able to wind down.
+**Getting enough sleep** is my current hardest challenge I have yet to overcome. The years of trying to become Alex 2.0,
+required me to adopt a new mindset, outlook on life, and various other habits. This turned me into a tightly wound
+machine that was capable of accomplishing many great things. Unfortunately, this also lead to problems of not being able
+to wind down.
 
-Driving myself into the ground and asking for more is, honestly, the easiest part of the day. Even after countless
-reflections, I still do not know what is sourcing my endless internal drive forward. I would fill my days to the brim
-with character building activities, with very few chances to relax. Then would wonder, "why I am having such a hard time
-falling to sleep?"
+Driving myself into the ground, honestly, is the easiest part of my day. Even after countless reflections, I still do
+not know where my endless internal drive forward is sourced. I would fill my days to the brim with character building
+activities, with very few moments to relax. Then at the end of the day, I would wonder, "why I am having such a hard
+time getting enough sleep?"
 
 Well, I eventually figured out what my problem was, and it only took me up until the time of writing this to figure it
 out (and I am still working at it).
 
 # How it started
 
-In the very beginning of my athletic journey, I strove to be good at road cycling. Well, the biggest problem about road
-cycling, is that you have to share the road with fast moving, instant human-mutilating machines. To prolong my life, the
-safest workaround that was to perform the activity in the early hours of the morning. The idea was it is hard to get hit
-by a car if everybody driving a car is still sleeping. This worked out well for the most part, traffic was almost
-non-existent, however it was also dark. This meant that I had to be tricked out in lighting gear in order to see and to
-be seen.
+In the very beginning of my athletic journey, I strove to be good at road cycling. The biggest problem about road
+cycling, is that you have to share the road with fast moving, instant death machines. To prolong my life, the safest
+workaround for this was to perform the activity in the early hours of the morning. The idea was: it is hard to get hit
+by a car if everybody else still sleeping. This worked out well for the most part, traffic was almost non-existent,
+however it was also dark. This meant that I had to be tricked out in lighting gear in order to see and to be seen.
 
 Another big problem about riding the dark is when autumn and winter roll around. I learned early on that most weather
-was not going to stop me from getting a ride in. If it was raining, then I got soaked. When the temperature dropped
-below freezing, then more gear got put on. As you might have guessed, the sun keep things warm, and when It's not up it
-gets _really_ cold. The level of cold gets to where there is a need to wrap your feet (that already have two socks) in
-aluminium foil to avoid loosing heat. The only thing that would bring a halt to cycling would be snow/ice or fog. Though
-you may not know it, fog is terrible. It shows up around this part of the states around mid-autumn. Where the ground is
-still warm from yesterday, but the are is significantly cooler. Not to mention, visibility non-existent (have you tried
-driving in fog at night?), but everything gets wet. At the time, I had a rim-braking bike, which would cause my stopping
-distance to drastically increase. Plus, I wear glasses so that makes it even worse. Anytime anybody says that Fall or
-Winter is their favorite season, automatically tells me their hobbies are not all-season, winter based, or they like
-staying warm indoors. _The cold season can spare me the pleasure of its company._ `/rant`
+conditions were not going to stop me from getting a ride in. If it was raining, then I got soaked. When the temperature
+dropped below freezing, then more cold weather gear got put on. The sun keep things warm, as you might have guessed, and
+when It's not up it gets _really_ cold. It gets to a level of cold where I need to wrap my feet (that already have two
+socks) in aluminium foil to avoid loosing heat during the ride. The only thing that would bring a halt to cycling would
+be snow/ice or fog. Though you may not know it, fog is terrible. It shows up around my part of America around
+mid-autumn. Where the ground is still warm from yesterday, but the air is significantly cooler. Visibility is essential
+non-existent (
+have you tried driving in fog at night?), plus everything gets wet. At the time, I had a rim-braking bike, the rims
+getting wet would cause my stopping distance to drastically increase. Plus, I wear glasses so that makes it even worse.
+Anytime anybody says that the Fall or Winter is their favorite season, automatically tells me they like staying warm
+indoors or there hobbies winter based. _The cold season can spare me the pleasure of its company._ `/rant`
 
-Anyways, the point that I am trying to get at, is that I had to wake up early in order to ride safely. Waking up at 4:30
-and heading out the door by 5:00 to hit the roads. This habit of rising early would continue even after my athletic
-goals changed. My normal routine now is, wake up at 4:00, start working on my free-time project, stop at 6:00. Get
-myself around and be done working out around 7:30. After that, it would be off to work from 8:00 to 16:00. After
-completing work for the day, there was time to eat, meditate, and walk before 17:00. From 17:00 to 19:00 I would then
-continue my other free-time project. Once 19:00 rolls around, I needed to prep my meals for the next day, shower, eat,
-and then try to get to sleep.
+Anyway, the point that I am trying to get at, is that I had to wake up early in order to ride safely. Waking up at 04:30
+and heading out the door and hitting the roads by 05:00. This habit of rising early would continue even after my
+athletic goals changed. My normal routine now is, wake up at 04:00, start working on my free-time project, stop at 06:
+
+00. Get myself around and be done doing physical exercise around 7:30. After that, it would be off to work from 08:00 to
+    16:00. After completing work for the day, there was time to eat, meditate, and walk before 17:00. From 17:00 to 19:
+    00 I would then continue my other free-time project. Once 19:00 rolls around, I needed to prep my meals for the next
+    day, shower, eat, and then try to get to sleep.
 
 That was my routine for the longest time, and began to wonder why I was having such a hard time getting to sleep. I
-would look at my schedule, and see there is an entire hour to wind down, so why am I having issues?
+would look at my schedule, and see there is an entire hour to wind down, so why am I having issues getting to sleep?
 
 This evolved to the point, where finding sleep on the weekends was difficult as well. The entire time I knew that there
 was a large underlying problem, but did not do anything about it. I was being neglectful and getting 6-7 hours worth of
@@ -86,12 +87,12 @@ human performance:
 
 </details>
 
-I knew the significance of what having a good night of sleep gives you, however it was still not understood that _also_
-applied to me as well. I possessed many habits that exacerbated sleep deprivation and was doing nothing about it.
+I knew the significance of what having a good night of sleep gives you, however I did not understand that this _
+also_ applied to me as well. I possessed many habits that exacerbated my sleep deprivation and was doing nothing about
+it.
 
 The lie that I told myself was, "I am strong-willed, therefore I have habits. Because my habits are hurting me, I can
-change my habits." It was not until reaching a really tough point in my life, that the previous statement was worded
-such that _it was a lie_.
+change my habits." It was not until reaching a really tough point in my life, that the previous statement _was a lie_.
 
 Over the years of my self-improvement journey, there was one goal to be held sacred, "Though shalt not lie to thyself."
 Lying is only good in attempts to impress/persuade others, and it _does not_ help get one stronger. Just because you
@@ -99,30 +100,30 @@ might be impressed, does not change the fact that I am not capable of doing it.
 
 The one of prevalent places where this come into play is: athleticism. You can lie to yourself about being capable, but
 that does not make you stronger. Sure, I also could throw around a heavy weight and pretend like I am strong. However,
-that just makes me prone to injury and feeling empty on the inside. What is the point of doing something, just to
+that just makes me prone to injury and the feeling of a hollow victory. What is the point of doing something, just to
 impress other people? I am the one that has to live with myself at the end of the day. I am the one that has to give my
 life meaning, I have to fight my battles. Just because other people think that I am cool, does not solve my problems.
 Sure it might help, but in the end, I am the one that has to put up with my hardships. Yes, others can support me, but I
 am the one that has to pull myself out of the hole.
 
-Overtime, I have learned that the actions that are taken when I feel the worst defines the limits of what I am capable
-of accomplishing in the future. I cannot achieve self actualization by building on un-truths, because lies do not help
-when you feel like crap and want to give up. What I am trying to get as is, I do not want to lie to myself.
+Overtime, I have learned that my actions that are taken when I feel the worst defines the limits of what I am capable of
+accomplishing in the future. I cannot achieve self actualization by building it up on false accomplishments. Lies do not
+help when you feel like crap and want to give up. What I am trying to get as is, I do not want to lie to myself.
 
 # Breaking the Habits
 
 ### Getting to Sleep on Time
 
-The wave of realization washed over me when I realized that the lie I had been telling myself was just slightly
-mis-worded. All the correct words where present, just in the wrong order. Instead of, "I am strong-willed, therefore I
-have habits, and because my habits are hurting me, I can change my habits." What it actually was "I am strong-willed,
-because I have habits. My current habits are hurting me, I can use my habits to change myself." This was realized only
-after I went through a spout of an existential crisis. The fact nothing really mattered, and there was no real point in
-doing anything began to make me hollow. Granted, my current life philosophy, is that there is no point in life, so that
-means there is no reason to not make the most out of it. The only meaning in life is what I give it. Therefore, when
-things start to feel pointless, I can just dig into the things that I gave meaning before, and just wade through
-hollowness. It is because I have such strong habits, that I am able to be resilient. I have normally exited the bouts
-stronger than before and knowing myself better.
+What I had been telling myself previously was a lie, the statement was just slightly mis-worded. Most of the correct
+word where present, just put in the wrong order. Instead of, "I am strong-willed, therefore I have habits, and because
+my habits are hurting me, I can change my habits." What it actually was "I am strong-willed, because I have habits. My
+current habits are hurting me, I can use my habits to change myself." This was realized only after I went through a
+spout of an existential crisis. A time when nothing really mattered, and there was no real point in doing anything. I
+felt hollow, and nothing I did would make the feeling go away. My current life philosophy, is that there is no point in
+life, so that means there is no reason to not make the most out of it. The only meaning in life is the meaning I give
+it. Therefore, when things start to feel pointless, I just dig into the things that I gave meaning before, and just wade
+through hollowness. It is because I have such strong habits, that I am able to be resilient. I have normally exited the
+bouts stronger than before and knowing myself better.
 
 By this time in my life, I have acquired and broken many habits. However, nothing that I was doing was working on
 helping me sleep a bit better. Everything become _super_ interesting right around the time I should be going to sleep.
