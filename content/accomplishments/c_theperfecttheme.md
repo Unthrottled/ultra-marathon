@@ -4,18 +4,24 @@ metaTitle: "Waifus are laifu"
 metaDescription: "This is the meta description"
 ---
 
-I am looking forward to the day, when somebody asks me how I got my current technical skill set. The response is not
-going to be something like, "Hard work and dedication", "Solving many disparate problems", or even "Reading a bunch of
-other people's code". While these are all true statements, I want to look them dead in the eyes and answer:
+I am looking forward to the day, when somebody asks me how I primarily got my current technical skill set. The response
+is not going to be something like, "Hard work and dedication", "Solving many disparate problems", or even "Reading a
+bunch of other people's code". Though these are all true statements, I want to look them dead in the eyes and answer:
+
+<details>
+  <summary>The answer (click to open)</summary>
 
 ![Anime Girls](../images/one_of_lifes_greatest_treasures.jpg)
+</details>
 
-Anything else would just be covering up this fact. I attribute most of my technical prowess to _anime girls_.
+
+
+Anything else would just be covering up this fact.
 
 For starters, I am not the kind of person that always has the "next hot idea". I have difficulty creating from a blank
-slate. Give me a problem, I will find a way to bridge the gap. One day I thought that it would be cool if I could write
-code in an editor that is themed to a specific anime girl. Needless to say, when I came up with the idea, I held onto it
-with an iron grip.
+slate. Give me a problem, I will find a creative way to bridge the gap. One day I thought that it would be cool if I
+could write code in an editor that is themed to a specific anime girl. Needless to say, when I came up with the idea, I
+held onto it with an iron grip.
 
 Feel free to take a peek at https://doki-theme.unthrottled.io/ if you need some context.
 
@@ -30,18 +36,18 @@ ultramarathon_. I know what I want to accomplish, I have vision of what it messa
 towards that goal that I have in mind.
 
 For clarity, when I say that I can "visualize solutions", I cannot literally _see_ the problems with my optical senses.
-The closest related experience is if I asked you to remember a dream that you had. If you can see things in your dreams,
-then think back to a place you have been in a dream. It could be a building, landscape, next to a person, scary thing,
-or whatever else. If you have the ability to recall or remember what anything in a dream you have had, then that is the
-same "visualization" I am referring to. You probably have never seen the object with your eyes in real life, but you
-still know what it looks like in your head. That is the experience I relate to when somebody else says have a
+The closest experience I can relate this to is if I asked you to remember a dream that you had. If you can see things in
+your dreams, then think back to a place you have been in a dream. It could be a building, landscape, next to a person,
+scary thing, or whatever else. If you have the ability to recall or remember what anything in a dream you have had, then
+that is the same "visualization" I am referring to. You probably have never seen the object with your eyes in real life,
+but you still know what it looks like in your head. That is the experience I relate to when somebody else says have a
 photographic memory. Not saying that I have a photographic memory, that would be nice though. No, the images in my head
 are not clear enough that I can see small details, I only can only see a large vague concept. I can see the forest, but
 not the trees.
 
-Anyways, back to the topic at hand. I believe that one of the reasons that I enjoy programming so much is that there is
-a creative element. Programming is a nice mix of finding creative solutions and solving tough logical problems. A
-problem can be solved with more than one correct answer, the sky is the limit. If the solution works then, how bad can
+Anyway, back to the topic at hand. I believe that one of the reasons that I enjoy programming so much is that there is a
+creative element to it. Programming is a nice mix of finding creative solutions and solving tough logical problems. A
+problem can be solved with more than one correct answer. The sky is the limit. If the solution works then, how bad can
 it be? I being facetious, there can be _terrible_ correct answers. Terrible in the fact that they are unmaintainable or
 unmodifiable, and cost a lot of effort to fix. This is a can of worms that I do not feel like opening, so I will leave
 it here.
@@ -51,24 +57,28 @@ to stimulus, it needs a break, and it gets stronger after recovery. This fact wa
 do more _creative_ work in programming. In this leg of my journey, I had already had a few years of hyper-focused career
 study and plenty of work experience on programming problems. Meaning that I was fairly good at spending many short and
 focused intervals solving these "left-brained" problems. It was not until I started expecting myself to perform with the
-same focus patterns and durations on "right-brained" problems, that I found out there can be mind muscle imbalances.
+same way with "right-brained" problems, that I found out there can be mind imbalances. Working on artistic endeavours
+would drain almost every last bit of my mental energy.
 
 Reflecting, it might just because I have gotten to the point where I did not have to think as hard to accomplish
-programming problems as I did to make art. At the time, it just felt like I could only work artistic challenges for
-shorter durations of times. In addition to needing a longer hiatus before starting the next artistic epic.
+programming problems as I did to make art. At the time it felt like I could only work artistic challenges for shorter
+durations of times. While also needing a longer hiatus before starting the next artistic venture.
 
-One of my favorite creative expressions is art vectorization, which is just a fancy term for, "Alex trace art good."
-Vectorization is the most time-consuming and artistically challenging part of building my themes. There is a fair amount
-that goes into the process:
+One of my favorite forms creative expressions is art vectorization, which is just a fancy term for, "Alex trace art
+good." Vectorization is the most time-consuming and artistically challenging part of building my themes. There is a fair
+amount that goes into the process:
 
 - Decomposing the subject into layers that stack to the final product.
-- Interpolating shape outlines using Bézier curves in each stack.
-- Filling in gaps while maintaining perspective.
+- Interpolating shape outlines using Bézier curves.
+- Filling in missing parts character's outline, while maintaining correct perspective.
 - Choosing the right colors that contrast just well enough to detect outlines.
 
 Just converting one subject required a tremendous amount of effort. Something I learned when staring at other peoples
-art at a micro-level detail, is that nobody is perfect. I have learned that nobody draws in perfect Bézier curves, and
+art, at a micro-level detail, is that nobody is perfect. I have learned that nobody draws in perfect Bézier curves, and
 getting perspective right is also hard for other artists. They just do a better job at hiding the inconsistencies.
+
+If you are curious about what I am actually referring to. Feel free to take a peek at my progression of various pieces I
+have completed over time.
 
 <details>
 <summary>Vectorization Progression (click to expand)</summary>
@@ -88,6 +98,8 @@ release they appear in. I thought it might be interesting to see the progression
 ![v16_girls.png](../images/doki/v16_girls.png)
 ![v17_girls.png](../images/doki/v17_girls.png)
 ![v18_girls.png](../images/doki/v18_girls.png)
+![v19_girls.png](https://doki.assets.unthrottled.io/misc/v19_girls.png)
+![v20_girls.png](https://doki.assets.unthrottled.io/misc/v20_girls.png)
 
 </details>
 
