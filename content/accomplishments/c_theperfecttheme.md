@@ -19,52 +19,52 @@ bunch of other people's code". Though these are all true statements, I want to l
 Anything else would just be covering up this fact.
 
 For starters, I am not the kind of person that always has the "next hot idea". I have difficulty creating from a blank
-slate. Give me a problem, I will find a creative way to bridge the gap. One day I thought that it would be cool if I
-could write code in an editor that is themed to a specific anime girl. Needless to say, when I came up with the idea, I
-held onto it with an iron grip.
+slate. Give me a problem, I will find a creative way to bridge the gap. That being said, one day I thought that it would
+be cool if I could write code in an editor that is themed to a specific anime girl. Since then, I have held onto this
+idea with an iron grip.
 
 Feel free to take a peek at https://doki-theme.unthrottled.io/ if you need some context.
 
 # Right & Left Brain Problems
 
 This is the accomplishment that gives me the most satisfaction out of everything. Not just because I can code with anime
-girls now, but I also feel like I can make art now.
+girls now, but I also feel like I can be artistic now.
 
 I have an extremely active and vivid visual imagination. Meaning that I solve problems by visualizing solutions in my
 head. Working towards a vision is my primary form of getting things done. Take for instance, this project, the _
 ultramarathon_. I know what I want to accomplish, I have vision of what it messages should relay. Now, I am working
 towards that goal that I have in mind.
 
-For clarity, when I say that I can "visualize solutions", I cannot literally _see_ the problems with my optical senses.
-The closest experience I can relate this to is if I asked you to remember a dream that you had. If you can see things in
-your dreams, then think back to a place you have been in a dream. It could be a building, landscape, next to a person,
-scary thing, or whatever else. If you have the ability to recall or remember what anything in a dream you have had, then
-that is the same "visualization" I am referring to. You probably have never seen the object with your eyes in real life,
-but you still know what it looks like in your head. That is the experience I relate to when somebody else says have a
-photographic memory. Not saying that I have a photographic memory, that would be nice though. No, the images in my head
-are not clear enough that I can see small details, I only can only see a large vague concept. I can see the forest, but
-not the trees.
+For clarity, when I say that I can "visualize solutions", I cannot literally _see_ the problems with my optical senses (
+eg: with my eyeballs). The closest experience I can relate this to rememberng somithing a dream that you had. If you can
+see things in your dreams, then think back to a place you have been in a dream. It could be a building, landscape, next
+to a person, scary thing, or whatever else. If you have the ability to recall or remember what anything in a dream you
+have had, then that is the same "visualization" I am referring to. You probably have never seen the object with your
+eyes in real life, but you still know what it looks like in your head. That is the experience I relate to when somebody
+else says have a photographic memory. Not saying that I have a photographic memory, that would be nice though. No, the
+images in my head are not clear enough that I can see small details, I only can only see a large vague concept. I can
+see the forest, but not the trees.
 
 Anyway, back to the topic at hand. I believe that one of the reasons that I enjoy programming so much is that there is a
 creative element to it. Programming is a nice mix of finding creative solutions and solving tough logical problems. A
 problem can be solved with more than one correct answer. The sky is the limit. If the solution works then, how bad can
-it be? I being facetious, there can be _terrible_ correct answers. Terrible in the fact that they are unmaintainable or
-unmodifiable, and cost a lot of effort to fix. This is a can of worms that I do not feel like opening, so I will leave
-it here.
+it be? I am being facetious, there can be _terrible_ correct answers. Terrible in the fact that they are unmaintainable
+or unmodifiable, and cost a lot of effort to fix. This is a can of worms that I do not feel like opening, so I will
+leave it here.
 
-Time has taught me that the mind is a muscle. It needs blood to function, it runs on sugar, it has the ability respond
-to stimulus, it needs a break, and it gets stronger after recovery. This fact was immediately apparent when I started to
-do more _creative_ work in programming. In this leg of my journey, I had already had a few years of hyper-focused career
+Time has taught me that the mind is a muscle. It needs blood to function, runs on sugar, has the ability respond to
+stimulus, needs a break, and gets stronger after recovery. These facts were immediately apparent when I started to do
+more _creative_ work in programming. In this leg of my journey, I had already had a few years of hyper-focused career
 study and plenty of work experience on programming problems. Meaning that I was fairly good at spending many short and
-focused intervals solving these "left-brained" problems. It was not until I started expecting myself to perform with the
-same way with "right-brained" problems, that I found out there can be mind imbalances. Working on artistic endeavours
-would drain almost every last bit of my mental energy.
+focused intervals solving these "left-brained" problems. It was not until I started expecting myself to perform the same
+way with "right-brained" problems, that I found out there can be mind imbalances. Working on artistic endeavours would
+drain almost every last bit of my mental energy.
 
 Reflecting, it might just because I have gotten to the point where I did not have to think as hard to accomplish
 programming problems as I did to make art. At the time it felt like I could only work artistic challenges for shorter
 durations of times. While also needing a longer hiatus before starting the next artistic venture.
 
-One of my favorite forms creative expressions is art vectorization, which is just a fancy term for, "Alex trace art
+One of my favorite forms of creative expression is art vectorization, which is just a fancy term for, "Alex trace art
 good." Vectorization is the most time-consuming and artistically challenging part of building my themes. There is a fair
 amount that goes into the process:
 
@@ -73,9 +73,10 @@ amount that goes into the process:
 - Filling in missing parts character's outline, while maintaining correct perspective.
 - Choosing the right colors that contrast just well enough to detect outlines.
 
-Just converting one subject required a tremendous amount of effort. Something I learned when staring at other peoples
-art, at a micro-level detail, is that nobody is perfect. I have learned that nobody draws in perfect Bézier curves, and
-getting perspective right is also hard for other artists. They just do a better job at hiding the inconsistencies.
+Just converting one subject required a tremendous amount of effort. Another thing I picked up while staring at other
+peoples art, at a micro detail level, is that nobody is perfect. I have learned that nobody draws in perfect Bézier
+curves, and getting perspective right is also hard for other artists. They just do a better job at hiding the
+inconsistencies.
 
 If you are curious about what I am actually referring to. Feel free to take a peek at my progression of various pieces I
 have completed over time.
@@ -103,20 +104,21 @@ release they appear in. I thought it might be interesting to see the progression
 
 </details>
 
-My skills have gotten to the point where creating the art pieces needed for each theme no longer tax me as much.
-Producing each caricature also takes less time than before, probably because I avoid complicated and highly detailed
-art. It has gotten to the point, where I think I could produce a new batch of themes one after another. Unfortunately, I
-have to weigh that with the scalability of maintaining another theme while keeping the existing themes special. At the
-time of writing this, I have curated 61 unique color themes, paired with assets of the character they are modeled after.
-Which is a nice segue into the next section where I talk about the technical hurdles need to be overcome for such a
-ridiculous number of themes.
+My skills have gotten to the point where creating the art necessary for each theme no longer tax me as much. Producing
+each caricature also takes less time than before, probably because I avoid complicated and highly detailed art. I am at
+a place where think I could produce a new batch of themes one after another. Unfortunately, I have to weigh that with
+the scalability of maintaining another theme. I also want to make each theme special as well. At the time of writing
+this, I have curated 61 unique colored themes (66 at the time of revision), paired with assets of the character they are
+modeled after. Which is a nice segue into the next section where I talk about the technical hurdles need to be overcome
+for such a ridiculous number of themes.
 
 # Seriously?
 
 For serious. I credit _Anime Girls_ as the reason my current skill level is as sharp as it is. College was a great
 experience for me, however, the time I spent studying Computer Science pales to the shear amount of exposure of "put _
 Anime Girls_ on every piece of software" has given me. In addition, a large portion of my professional career has
-greatly benefited from past problems solved building out the Doki Theme across various platforms.
+greatly benefited from past problems solved building out the [Doki Theme](https://github.com/doki-theme) across various
+platforms.
 
 Join me friend as I reflect on all the problems and solutions of building tooling to support _anime girls_ on all the
 important pieces of software.
@@ -124,23 +126,23 @@ important pieces of software.
 ### Hide-n-Seek Boss
 
 My journey began developing the Doki Theme as
-a [JetBrains product plugin](https://github.com/doki-theme/doki-theme-jetbrains). Therefore, this project holds a
+a [JetBrains product plugin](https://github.com/doki-theme/doki-theme-jetbrains). Meaning that this project holds a
 special place in my heart. For the first year or so, when I was building out my themes, I had no idea how to figure out
 how things where styled. I also did not know that there
 was [documentation on how to build a theme](https://plugins.jetbrains.com/docs/intellij/themes.html). Looking back, that
-probably did not exist when I first started. I also missed out, early on, on the game
+probably did not exist when I first started. I also missed out on the game
 changing [UI Inspector](https://plugins.jetbrains.com/docs/intellij/internal-ui-inspector.html#enabling-the-ui-inspector)
 . On top of that, I do not (and still do not) understand how Java Swing works fully.
 
-Hindsight is 20-20, though I could have used those tools at the time. Not having them probably gave me one of my best
-skills: Being able to find functionality in other people's code. If this whole programming thing does not work out,
-being a detective might be an viable alternative.
+Hindsight is 20-20, though I could have used those tools at the time to make my life easier. Not having them probably
+gave me one of my best skills: Being able to find functionality in other people's code. If this whole programming thing
+does not work out, being a detective might be a viable alternative.
 
 [IntelliJ Idea's opensource codebase](https://github.com/JetBrains/intellij-community) is where I leveled up: being able
 to find something, reading other peoples code, and guessing how things work. The code base currently consists of **
 361,181** of files. If you are not aware, this presents many challenges. Most problems boil down to, "Holy Cow! There is
-a lot of stuff and things are slow." Thankfully, JetBrains has there stuff together, and made an amazing tool. Meaning
-that I could use IntelliJ to browse IntelliJ's code, without wanting to die.
+a lot of stuff and things work slowly." Thankfully, JetBrains has their stuff together, and made an amazing tool.
+Meaning that I could use IntelliJ to browse IntelliJ's code (without wanting to die).
 
 I have picked up various methods of where to start looking for an object of interest. Most of which are unique to my
 experiences and will not probably be useful for others. That being said, it does translate well when to find a bug in
@@ -153,7 +155,7 @@ Such as: [IntelliJ](https://github.com/JetBrains/intellij-community), [VSCode](h
 , [Hyper.js](https://github.com/vercel/hyper),
 and [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/extensibility/visual-studio-sdk?view=vs-2019). While
 those codebases are unique to my _plugin developer_ path, there are other large opensource projects that are waiting to
-be explored. The real challenge is, what is the reason you are needing to read and work with this codebase? I already
+be explored. The real challenge is, what is the reason you are needing to read and work with these codebases? I already
 have mine.
 
 ### The JVM & Black Magic
@@ -165,7 +167,7 @@ valuable experience.
 
 As I have been developing my themes, I have been trying to find unique color palettes that make pleasant themes.
 Essentially pushing the boundaries of what should and should not be tolerable. Which presents its own unique set of
-challenges. Mainly, what I want to make the IDE do, is not what the IDE developers anticipated when building out there
+challenges. Mainly, what I want to make the IDE do is not what the IDE developers anticipated when building out there
 look and feel. The platform belongs to them, and they can do what they like. However, hard coding colorings and not
 letting things be customizable is _frustrating_.
 
@@ -186,15 +188,15 @@ However, I am less excited to tell this tale, because I also had to develop
 an [Eclipse plugin](https://github.com/doki-theme/doki-theme-eclipse). The experience, as compared to JetBrains, was
 much more dis-heartening. None of the documentation was current, up to date, or easy to find. Tutorials or examples
 where ancient and not helpful. In addition, I also got to learn about [OSGi](https://en.wikipedia.org/wiki/OSGi) and
-other various classloading problem of Eclipse builds. I got to learn that it is very important where complied classes go
+other various classloading things of Eclipse builds. I got to learn that it is very important where complied classes go
 within a Java Archive (jar), and the significance of the [_
 jar_ manifest file](https://docs.oracle.com/javase/tutorial/deployment/jar/downman.html). Yay, classpath issues!
 
 ### Globally Distributed Cache
 
-There was a problem that I discovered in my early hoarding phase of anime girls. That problem was, I will eventually
-mess up a tiny detail in one of the assets. Once I have noticed this inconsistency, it will be the only thing that I can
-see when looking at the asset. The process of fixing the issue would be:
+There was a problem that I discovered in my early anime girl hoarding phase. That problem was, I will eventually mess up
+a tiny detail in one of the assets. Once I have noticed this inconsistency, it will be the only thing that I can see
+when looking at the asset. The process of fixing the issue would be:
 
 - Correct the asset.
 - Update the codebase with corrected asset.
@@ -211,18 +213,19 @@ said asset.
 
 The solution that I wanted should be able to:
 
-- Take new updates without the user knowing.
+- The plugin will take new updates without the user knowing.
 - Be able to push new updates and have them take effect quickly.
 
 What I settled for was Amazon's [CloudFront](https://aws.amazon.com/cloudfront/) to globally host all the assets
-at https://doki.assets.unthrottled.io/. Once the plugin is downloaded and a theme is set, assets will be downloaded from
-the content delivery network (CDN). Once the assets have been downloaded, the next phase of asset management begins. To
-detect if the asset changes, once a day, the plugin will calculate the [MD5](https://en.wikipedia.org/wiki/MD5) of the
-asset locally, and compare it to the pre-calculated MD5 hash available on the CDN. This way users are only downloading
-32 bytes of information, instead of the much larger asset. That fact is important, because bandwidth costs money, so
-fewer data sent, means lower costs! I am currently providing my themes as a free product, so I would like to keep my
-expenses to a minimum. If the locally computed hash is different from the remote hash, then the new asset is downloaded
-and replaced on the user's machine. That way they can still use the plugin offline.
+at https://doki.assets.unthrottled.io/. Once the plugin is downloaded and a relevant theme is set, assets will be
+downloaded from the content delivery network (CDN). Once the assets have been downloaded, the next phase of asset
+management begins. To detect if the asset changes, once a day, the plugin will calculate
+the [MD5](https://en.wikipedia.org/wiki/MD5) of the asset locally, and compare it to the pre-calculated MD5 hash
+available on the CDN. This way users are only downloading 32 bytes of information, instead of the much larger asset.
+That fact is important, because bandwidth costs money, so fewer data sent, means lower costs! I am currently providing
+my themes as a free product, so I would like to keep my expenses to a minimum. If the locally computed hash is different
+from the remote hash, then the new asset is downloaded and replaced on the user's machine. That way they can still use
+the plugin offline.
 
 Here is an example of an asset and checksum combination
 
@@ -236,8 +239,8 @@ security pre-cautions".
 
 I think it is really neat that there are almost 1,500 nodes of my cache that are distributed around the world and that
 self-managing themselves. Providing a seamless and pleasant user experience. While giving me the peace of mind that I
-can change assets if need be. Thankfully, as time has gone on, I have gotten better at building assets and most of the
-assets are created by me.
+can change assets if need be. Thankfully, as time has gone on, I have gotten better at building assets (meaning less
+frequent changes) and most of the assets are created by me.
 
 ### Composable Build Structure
 
@@ -251,7 +254,7 @@ updates and keep track of all the things. There were a couple of options that I 
 - Make it easier to maintain a large number of themes.
 
 One is heresy and the other is a lot of work. I am up to **61** themes now, that number might be _64_ if I decide I need
-a break from writing my memoir.
+a break from writing my memoir. <sup>(edit: that number is actually _66_)</sup>
 
 So how does one make maintaining a large amount of themes easy?
 
@@ -281,10 +284,10 @@ changes to color palettes. Take
 this [change request for example](https://github.com/doki-theme/doki-master-theme/pull/107/files), I needed to add a new
 color to all of my color palettes to support usability. Being optimistic, it would take me about 5 minutes to find a
 good color that works for each theme. That means it roughly required 5 hours of my time, which translates into roughly 2
-days to complete, considering I have 2.5 hours a day dedicated to project. That duration will go up every time I need to
-make a change like that. Thankfully, those types of tasks seldom occur, and each time that they happen it expands the
-color palette such that I can be more creative with fixes. For the most part, if there is an issue, there is already a
-color available in the definition that would work well to solve the theme issue.
+days to complete, considering I have 2.5 hours a day dedicated to this project. That duration will go up every time I
+need to make a change like that. Thankfully, those types of tasks seldom occur, and each time that they happen it
+expands the color palette such that I can be more creative with fixes. For the most part, if there is an issue, there is
+already a color available in the definition that would work well to solve the theme issue.
 
 I am fairly confident that the issues I have just outlined are not going to prevent me from adding more themes. I will
 explain my reasoning in the next section.
@@ -339,8 +342,9 @@ If you asked me if I could only keep 10, I would ask you for one more and give y
 **Maple**
 ![Maple](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/nekoPara/maple_light_code.png)
 
-**Emilia**
-![Emilia](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/reZero/emilia_light_code.png)
+**Shigure**
+![Shigure](https://raw.githubusercontent.com/doki-theme/doki-theme-jetbrains/master/assets/screenshots/nekoPara/shigure_light_code.png)
+
 </details>
 
 I think one of the reasons that dark themes are so prevalent, is not because are light themes are blinding, but because
