@@ -4,9 +4,9 @@ metaTitle: "What do I want?"
 metaDescription: "This is the meta description"
 ---
 
-This is the exciting part of this adventure is that there is nothing set in stone at the moment. Everything is subject
-to change, and I get to choose where go. Sure, I may not have complete control over what happens around me. However, I
-have complete and absolute control as to how I handle it.
+This is the exciting part of my adventure. Nothing is set in stone at the moment. Everything is subject to change, and I
+get to choose where go. Sure, I may not have complete control over what happens around me. However, I have complete and
+absolute control as to how I handle it.
 
 Though I may not know explicitly how my next coming years are going to fold out. There is something that should be not
 in the future. Which is the feeling like I need to prove something every day by committing and pushing code to source
@@ -14,7 +14,7 @@ code repositories. Not to saying that writing code in my free time is something 
 want it to be seated with the level of importance it has right now.
 
 The idea that I can grow as a person, without needing to be in-front of a computer or documenting it so others know I am
-self-improve improving, is not far fetched, right? Convincing myself this is the case is another feat in of itself. I
+self-improve improving, is not far fetched, right? Convincing myself this is the case, is another feat in of itself. I
 have a ton of momentum and inertia built up at the moment. There are projects that I _do_ want to be spending my time
 on, however, they are not the only things that I should be working on.
 
@@ -24,7 +24,7 @@ invigorating.
 
 # Foreign Experiences
 
-I have been leading a fairly white-bread life so far. Do not get me wrong, being plain is great and not experiencing
+I have been leading a fairly white-bread life so far. Do not get me wrong, being plain is great. Not experiencing
 adversity is the only thing I have known. However, I feel like I am missing out on various character building exercises.
 Being a white late-twenties middle-class male living in America, basically means that I am invisible. Nothing really
 spectacular jumps out on paper. Yes, my qualifications are good, and I am grateful for that, but I do not stand out.
@@ -51,7 +51,7 @@ Russian Federation. The argument for learning Russian was strong, there are a to
 appears to be in different league of its own. Learning Hindi was also very appealing. It was also very foreign as
 compared to English. Another big plus (and this might because of the availability bias) but going to school and starting
 my professional career, I have been around a bunch of Indian folk. In fact, at the time that I was deciding what
-language, both of my co-workers where originally from India.
+language to learn, both of my co-workers where originally from India.
 
 Ihe end, I decided that learning Mandarin was the best choice. Not only is the language visually nothing like English,
 it is also spoken by a large mass of people. Granted, that mass is not anywhere near the center of America, but still.
@@ -73,18 +73,18 @@ studying before I get a chance to visit.
 My social life is also another area of my life that has been neglected . While I have spent most of my time building
 myself up alone and in my free time, that does not mean that I am completely introverted. I would like to think I have
 these things called "social skills". I can hold a conversation on interesting topics, and am generally articulate with
-my thoughts. While I do not explicitly seek out social interactions, it is not I am not worn down by or scared of it
-either. Social preferences is something that I believe can be adjusted with the right attitude. Meaning that I feel like
-I am not stuck on one end of the spectrum or the other.
+my thoughts. While I do not explicitly seek out social interactions, I am not worn down by or scared of these activities
+either. Social preferences is something that I believe can be adjusted, with the right attitude. Meaning that I feel
+like I am not stuck on one end of the spectrum or the other.
 
 Right now, my current goal in life is to be the best version I can possibly be, and other people cannot do that for me.
 They can give me the opportunity to allow myself to go to the next level, but I am the one who has to: eat right, stay
 disciplined, lift heavy things, and so forth. Therefore, involving others seemed like unnecessary overhead. Becoming
 great was something I thought only I could give myself.
 
-My goal of self-actualization does not have a clearly defined end-state. Meaning, I have no idea if I will ever finish
-what I started. There will always be something else to improve on, and settling for _good enough_ will not cut it. There
-is a tricky balancing act of trying to find the right reason which will allow me to change my life's direction.
+My goal of self-actualization does not have a clearly defined end-state. I have no idea if I will ever finish what I
+started. There will always be something else to improve on, and settling for _good enough_ will not cut it. There is a
+tricky balancing act in trying to find the right reason. Which will allow me to change my life's direction.
 
 Meeting new people has a lot of new challenges to overcome. Forming relationships is not a one-sided endeavour. Whereas,
 if I am working on just myself, I can bend reality in my favor. Such that no matter what I do, I can feel always like I
@@ -104,7 +104,7 @@ be resisted.
 
 The purpose for starting and continuing to grow this new aspect of my life needs to be stronger than everything else.
 Much like everything else that I do is an attempt to give my life purpose and meaning (I guess everybody else does this
-too). As of today, most of the actions that I have taken up to know, has been directed towards growing my career and
+too). As of today, most of the actions that I have taken uptil now, has been directed towards growing my career and
 setting myself up for financial success in the future. Most of those boxes have been checked at the moment, and I will
 continue to be diligent with these as time passes. Though I may never be at a satisfactory level, I need to accept where
 I am now to be acceptable.
@@ -157,10 +157,10 @@ wanting to stop until I feel like I have reached a level I am satisfied with. Kn
 come.
 
 What I have hoped to have gotten out of this exercise, is the piece of mind needed to let go and take the next steps. My
-focus needs to be directed towards the next challenges ahead, and not back to what is now comfortable.
+focus needs to be directed towards the next challenges ahead, and not back to what is comfortable.
 
 I also hope that you found some new nuggets of information. Something that might be helpful for use later in life. If
-nothing else, you managed to kill sometime though!
+nothing else, you managed to kill sometime though.
 
 Here's to the future!
 

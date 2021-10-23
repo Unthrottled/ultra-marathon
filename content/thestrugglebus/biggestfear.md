@@ -7,15 +7,15 @@ metaDescription: "This is the meta description"
 Being scared has its place in life. It is a normal emotion to feel. If it was not normal, then why was it added to our
 portfolio of feelings? There are many categories that the emotion fear can fit into. There is the flavor of fear that
 protects you from a painful death. Another one is makes it difficult to perform various social activities, such as
-talking to one or many people. There are some that are rational while others are not. However, the brand of fear that I
+talking to one or many people. There are some that are rational, while others are not. However, the brand of fear that I
 will be talking about is the fear of something unknown.
 
 There are many things that I still do not understand about myself. For the most part, I can find the various motives for
 most of my actions. Most of these just feel like rationalizations to things that might inherently have no meaning.
 Though it makes me feel good, so how bad can it be?
 
-What bothers me the moste is the uncertainty of not knowing when a specific inevitable action is going to occur. This
-may be fear or anxiety. Whatever label is put on it does not change the fact it is not pleasant.
+What bothers me the most is the uncertainty of not knowing when a specific and inevitable action is going to occur. This
+may be fear or even anxiety. Whatever label is given does not change the fact it is not pleasant.
 
 # Setting the Stage
 
@@ -37,27 +37,27 @@ next gadget to buy or video game to play, lost its meaning some time in the past
 satisfy my need for purpose.
 
 Another thing that I also wanted to keep more to myself, was my head-space. Having a clear mindset where I can be
-present and not constantly needing to be stimulated, is something I deserve. However, I live in a world where everything
-is buying for my attention. One of the first things that I dropped like a hot potato, was paying attention to things
-that are out of my control. Why do I need to know about the news or what people are doing around me, if there is not
-anything I can do about it? The only thing that I can control, in that respect, is my attention to it. Sure this may be
-a close-minded approach to life, but I have found the things that a _really_ important find another way to reveal
+present and not having the constant need to be stimulated, is something I deserve. However, I live in a world where
+everything is buying for my attention. One of the first things that I dropped like a hot potato, was paying attention to
+things that are out of my control. Why do I need to know about the news or what people are doing around me, if there is
+not anything I can do about it? The only thing that I can control, in that respect, is my attention to it. Sure this may
+be a close-minded approach to life, but I have found the things that a _really_ important find another way to reveal
 themselves outside of media.
 
 # When Will I Stop Caring?
 
 I am quite aware that all of my eggs are currently placed in a select few baskets. Each of these proverbial baskets
-combine to give me a sense of value, purpose, and meaning. What bothers me the most is the lack of diversity in my "
-purpose portfolio".
+combine to give me a sense of value, purpose, and meaning. What bothers me the most is the lack of diversity in my
+"purpose portfolio".
 
 There is this ever lingering feeling of "when will I stop caring about this so much?". Over the course of my life, I
 have never really been able to stick to one thing for a long period of time. The most recent example of losing interest
-is my relationship with video games. All throughout my school life, before higher education, I have always had video
+is: my relationship with video games. All throughout my school life, before higher education, I have always had video
 games. That was the only thing that could fill in the hours of the day. Anything else seemed auxiliary. However, once I
 reached college, my interest in video games start to fade.
 
 Picking up the controller felt like it was losing its meaning as a fulfilling pastime. Once I entered junior year of
-university, almost all interest was lost in playing video games. Playing video games became a hollow task, like I was
+university, almost all interest was lost in playing video games. Playing video games became an empty task, like I was
 just playing for the sake of doing it. How could something that I spent so much time on over the years, not be
 interesting anymore?
 
@@ -65,8 +65,8 @@ Looking back, I think it was more that I enjoyed playing with friends than I did
 started to fade as high-school started to come to an end, and everybody was starting the next journey in their lives.
 People moved on and my circle of video game friends started to disperse.
 
-The uncertainty when my interests will change, and I might be left with nothing, unsettling. It has happened before,
-something I held close to me and invested so much time into, suddenly lost all meaning.
+The uncertainty when my interests will change, and I might be left with nothing, is unsettling. It has happened before,
+to something I once held close to me and invested so much time into, became a pointless activity.
 
 # There is Hope.
 
@@ -74,7 +74,7 @@ Thankfully, after a fair amount of reflection, have been able to find a bastion 
 has remained constant throughout the majority of my life.
 
 My constant has been, **being the best version of myself as I can be**. This goal has manifested itself in many ways,
-but the underlying concept remains the same. It helps settle some unknowns about the future, with the reassurance that
+but the underlying concept remains the same. It helps settle some of the unknowns about the future, with the reassurance that
 this will remain constant.
 
 I can say this because, the memory, of when I first started playing video games, is so vivid. The amazement of the
@@ -86,8 +86,8 @@ scrub. The best word that I could use to describe myself is that I was "Try-Hard
 
 Thankfully, right as I was losing my interest in video games, found interest in programming during university.
 Currently, my interest in programming has not waned yet. The difficult part of programming is figuring out what should
-be worked on next. I have a special set of skills, that allow me to build anything I desire on the web. I have a blank
-canvas, and seldom have a good idea. I stumble across some good ideas, but for the most part, I am just searching for
+be worked on next. I have a special set of skills, that allow me to build anything I desire on a computer. I have a blank
+canvas, and seldom have a good idea. I stumble across some good ones, but for the most part, I am just searching for
 the next interesting problem to work on.
 
 # Face meets grindstone
@@ -111,9 +111,9 @@ performance was declining.
 
 In all honesty, I did see my declining performance, but I chose to ignore it. It was something that I thought I could
 fix, by just getting tougher. That is what happens when you work out, you get stronger, right? What I had not learned
-the full importance of rest. I would have heard the fact and refused to believe.
+the full importance of rest. I would have heard the fact and refused to believe it.
 
-You cannot expect your body to adapt, if you do not give it a chance to take a break. The mindset that rest was "an
+You cannot expect your body to adapt, if you do not give it a chance to recover. The mindset that rest was "an
 opportunity to get weak", "a form of giving up", or "possibility becoming dis-interested in working out", taught me a
 valuable lesson. I was insecure about any sense recovery, because it might make me want to _give up_, _stop_, or _
 become a quitter_. Never stopping means giving up is impossible, a body in motion stays in motion, right?
@@ -131,8 +131,8 @@ which required me to move. This was done to prevent a large part of my life from
 resulted in a major change. I was put in a foreign area, and I could no longer cling to my safe cycling routes. I also
 was in a gym that did not have any spinning equipment (stationary bikes).
 
-What do I do? I picked up running, in place of my previous obsession. Instead of cycling myself into the ground, I ran
-myself into the ground. At the time, I still was not wise about recovery, but knew that it should be considered. So I
+What did I do? I picked up running, in place of my previous obsession. Instead of cycling myself into the ground, I ran
+myself into the ground. At the time, I still was not wise about recovery, but knew that it should be considered though. So I
 compromised, and ran 3 miles 3 times a week, with a goal of finishing below 30 minutes each time. This would happen in
 between strength training sessions.
 
@@ -146,10 +146,10 @@ some weights around, get some cardio in, and call it done.
 There was no purpose or goal, other than busting my butt. Eventually I got wise, and decided, _I should find somebody
 who knows what they are doing_. Finding https://athleanx.com was the start to the ideal path to actualizing my full
 potential. Though I did not know much, I did know that wanted to be like Jeff. He acted like he knew what he was talking
-about. He has a lot of fancy medical letters at the end of his name so that seems legit.
+about. He put a lot of fancy letters at the end of his name, so that seems legit.
 
 One of the things that he emphasizes on in his training programs, is recovery. It took me trusting Jeff, that I will not
-spontaneously combust, die, or give up, if I do not take a break. I think it was the fact that the program _had_
+spontaneously combust, die, or give up, if I take a break. I think it was the fact that the program _had_
 scheduled breaks, and easy weeks, is what helped a ton. I could get over the uneasiness of resting, because I trusted my
 instructor.
 

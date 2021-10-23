@@ -9,15 +9,17 @@ probably the main driving force pushing me to stop what I am currently doing. In
 to do with my time.
 
 The deciding factor was when I took a moment to examine my life as an outsider looking in. Watching a stranger tote
-around their consecutive days and _years_ of experience like it was the medal of honor, is a bit silly in my opinion. "
-Look at me, and how many days I have spent consecutively working projects. Bet you did not know that I did that all in
+around their consecutive days and _years_ of experience like it was the medal of honor, is a bit silly in my opinion.
+"Look at me, and how many days I have spent consecutively working projects. Bet you did not know that I did that all in
 my free time, did you? Spending every waking day of my life for almost the last 5 years, needing to make sure I devoted
 more than 2 hours a day to checking this little box that says I did something. I have got almost 8 years of experience,
 just so you know."
 
-Those words feel hollow, like they have no substance backing them. What I have come to realize, that fact that your past
-is not that important. It is about who you are today. The past is just a trail of pictures leading up to the present
-version of you. It will always exist, and everybody has
+Those words feel hollow, like they have no substance backing them. What I have come to realize, fact that your past is
+not that important. It is about who you are today. The past is just a trail of pictures leading up to the present
+version of you. It will always exist, and everybody has one. This is good news for people who want to start fresh, and
+leave there past behind. Though it stings for people, including myself, who expect to have gotten something out of their
+past.
 
 The biggest problem that I currently have, at the moment, is trying to answer this following question.
 **So what?**
@@ -36,22 +38,22 @@ If I did not give any of that backstory, it would almost be the same wheelhouse 
 drinking liquids." However, I would also neglect to mention, that even with all my experience, I still manage to breath
 in fluids from time to time. I have not put as much deliberate effort into become drinking water that I have been
 developing my career skills. Effort such as, increasing my throughput by: rejecting social media, internet, and the
-news. Training myself to not pick up my phone and check for updates every five
+news. Sharpening my focus by training to not pick up my phone and check for updates every five
 minutes. [Trying to get the most sleep, so I can come back the next day and knock it out of the park.](../thestrugglebus/a_greatestchallenge)
 Also, a bunch of other things, but I think you get the point.
 
 Yet, the best I can hope from any mention of duration as merit, would be skepticism. Sure, I might have done what I said
 I have accomplished. However, you will not know that fact until you find yourself in my presence. Then I can prove to
-you that the activities I have done in that duration, greatly increased my value.
+you that the activities, which I accomplished in that time frame, greatly increased my value.
 
 I have been searching for the meaning behind performing arduous tasks. At least with exercise the answer for that is
 easy. The more I work out, the better I feel as time goes on. Since I have been on both sides of the spectrum, sedentary
 and active, being active feels _leagues_ better. I still have not bought into getting ridiculously large muscles, or
-becoming super lean. The point seems to be lost when seeing what those goals cost. All that gets you is the ability to
-lift heavy things and to get more attention from others. All for the low price of draining the satisfaction of workouts
-and/or health. "Me make big weight go up and down. Me need attention from others to validate many time spent doing most
-difficult task." I say this as though I do not flex in the mirror or walk around shirtless. "Me big hypocrite, me try
-make excuse for why muscles not big or defined as others."
+becoming super lean. The point achieving those feats, seems to be lost when seeing what they cost. All that gets you is
+the ability to lift heavy things and to get more attention from others. All for the low price of draining the
+satisfaction of workouts and/or health. "Me make big weight go up and down. Me need attention from others to validate
+many times spent doing most difficult task." I say this as though I do not flex in the mirror or walk around
+shirtless. "Me big hypocrite, me try make excuse for why muscles not big or defined as others."
 
 # Sunk Cost
 
@@ -90,20 +92,21 @@ Almost all the projects that I started, I have completed. They all go through th
 - Repeat.
 
 It is the middle phases that require the most effort to get through, and where giving up is most appealing. I found that
-success comes more often if, before starting, I make sure that this is something I _really_ want to do. Does this bring
+success comes more often if before starting, I make sure that this is something I _really_ want to do. Does this bring
 great meaning? That answer has to be really strong and convincing, because that will remain the answer to, "Why am I
-abusing myself to get this done?" This is where adopting essentialism helps, because I mainly start doing something to
-make something I already enjoy, better. I am not chasing 10 things at once, and my mission statement is clear.
+abusing myself to get this done?" This is where adopting essentialism helps, because I mainly start making something I
+already enjoy, better. I am not chasing 10 things at once, and my mission statement is clear.
 
 In fact, I specifically saved this post for a later time in the project, because I knew that motivation bastard would
-leave me. Here I am, I have spent a solid 3 of doing nothing but writing posts about my life, ignoring other tasks.
-Currently, I want to ignore this entire project, and procrastinate
-by  [adding more Anime Girls to my software tools](../accomplishments/c_theperfecttheme) (_which I already did after my
-first draft of this project_). However, I _will not_ allow myself to do that. Accomplishing this task, of documenting my
-ultramarathon, will offer me something even better. The freedom to move onto the next chapter in my life. I want to move
-on, but I will not let myself do that. I have invested too much at this point to just give up, hope for the best, and
-not tell this story. See were this sounds like to be an argument for sunk costs? While, I cannot relax until I have put
-a nice little bow on my project, that does not mean there is not any value in what I am doing currently. I am currently:
+leave me. Here I am, I have spent a solid 3 weeks of doing nothing but writing posts about my life, ignoring other
+interesting tasks. Currently, I want to ignore this entire project, and procrastinate
+by  [adding more Anime Girls to my software tools](../accomplishments/c_theperfecttheme) (_which I already did after
+completing my first draft of this project_). However, I _will not_ allow myself to do that. Accomplishing this task, of
+documenting my ultramarathon, will offer me something even better. The freedom to move onto the next chapter in my life.
+I want to move on, but I will not let myself do that. I have invested too much at this point to just give up, hope for
+the best, and not tell this story. See were this sounds like to be an argument for sunk costs? While, I cannot relax
+until I have put a nice little bow on my project, that does not mean there is not any value in what I am doing
+currently. I am currently:
 
 - Getting better at writing and communicating.
 - Learning more about myself.
@@ -117,7 +120,7 @@ There has only ever been one project that I started to work on, and continued to
 and sense of purpose. In the end, it was done just to say, "I did it." I had no desire for the expected outcome, and
 ended up despising the whole thing in the end.
 
-Most of this is because of the attitude I had adopted and explained in the last section. Not saying that the attitude is
+Most of this was due to the attitude I had adopted and explained in the last section. Not saying that the attitude is
 bad, more that it is **really** important to figure out the goal and the answer to **"So what?"** before starting. I
 fell into this trap, because the _so what_ answer was lost and the project continued.
 
@@ -142,7 +145,7 @@ started to work out, I would let the app know, "hey I am working out now." When 
 the transitioning task.
 
 This process continued, and I got to see what my life looked like at a glance. Every small detail was categorized. I am
-a creature of routine, and have very strong habits. Therefore, my life's timeline looks the same week in and week out.
+a creature of routine, and have very strong habits. Essentially making my life's timeline looks the same week in and week out.
 Sure, there are some deviations between the points of inflection, but overall it remains the same.
 
 I remember feeling underwhelmed when was looking through almost 7 months of continuous data about my life. There was not
@@ -188,7 +191,7 @@ for the past years. It has gotten to the point where I am feeling complacent. No
 
 The hunger to feed my curiosity still exists, but I cannot find anything interesting to consume. I want the chance to be
 able to look for a new opportunity to come across. However, the way things are right now, when I get free time, I
-quickly fill it up with work that I am either familiar with or wanted to work on beforehand.
+quickly fill it up with work that I am either familiar with or wanted to complete beforehand.
 
 This is comfortable, but the margins for growth are shrinking. Sure, I am getting better at the things I am already good
 at, however [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) is coming into play. The increases

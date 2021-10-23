@@ -4,7 +4,7 @@ metaTitle: "Mirror, Mirror, on the wall."
 metaDescription: "This is the meta description"
 ---
 
-I spent a bunch of time with myself whether it be: meditating, walking long distances, lifting heavy things, or a
+I have spent a bunch of time with myself whether it be: meditating, walking long distances, lifting heavy things, or a
 plethora of other activities. They have given me the opportunity to be able to look back at the past, begin to piece
 together who I am. In hopes to find a shape or an outline of my yet undefined future.
 
@@ -18,8 +18,8 @@ a potluck of music.
 
 I enjoy this so much, I do not let anything stop me once I have set my mind to it. I have walked through snow storms,
 massive rain downpours, and ridiculous heat waves. Almost nothing will prevent me from participating in one of my
-favorite activities. Something that will stop me will be if I had a long walk the day before. I eventually learned I
-need another hobby, because I cannot walk long distances every day and expect not to abuse my body.
+favorite activities. Something that will stop me will be if I had a long walk the day before. I eventually learned is
+that I need another hobby, because I cannot walk long distances every day and expect not to abuse my body.
 
 That is one of the many reflections I have come across in my journey seeking self actualization. Join me as I dive
 deeper into the more significant findings of my ultramarathon.

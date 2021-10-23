@@ -4,7 +4,7 @@ metaTitle: "Falling asleep is tough."
 metaDescription: "This is the meta description"
 ---
 
-There are many long-running set of tasks that I have performed over my the entirety of my life. Many of which occurred
+There have been many long-running tasks that I have performed over my the entirety of my life. Many of which occurred
 during my ultramarathon. They range from: [learning how to communicate well](../accomplishments/a_thecommunicator),
 to [re-learning mathematics](../accomplishments/b_machinelearning), or even my journey as high performing athlete.
 
@@ -14,23 +14,23 @@ you might have already been able to tell, I have _very_ strongly set routines by
 If you had asked me what my hardest challenge was, 7 years ago, I might have answered, giving up https://reddit.com.
 Reddit was engraved into my daily life, such that it would need to be checked at any moment of downtime. There was a
 need for constant stimulation, and Reddit solved that for me. However, I did not like being put in a head-space that
-needed to be constantly stimulated by interesting things. Therefore, quitting cold turkey seemed like a good choice.
-After that, I soon realized that site was the only reason I browsed the internet. Meaning there was an empty pit that
-Reddit left behind. There has not been one specific replacement for Reddit, somehow my life went on, and I found better
-things to work on. Breaking the muscle memory of constantly checking to see if people said interesting things, was
-really tough. Not as tough as the thing that I struggled the most to accomplish.
+needed to be constantly stimulated by interesting things. Making quitting cold turkey seem like a good choice. I soon
+realized the only reason I browsed the internet was to visit that site. Meaning there was an empty pit that Reddit left
+behind. There has not been one specific replacement for Reddit. Somehow my life went on, and I found better things to
+work on. Breaking the muscle memory of constantly checking to see if people said interesting things, was really tough.
+Not as tough as the thing that I struggled the most to accomplish.
 
 **Getting enough sleep** is my current hardest challenge I have yet to overcome. The years of trying to become Alex 2.0,
 required me to adopt a new mindset, outlook on life, and various other habits. This turned me into a tightly wound
-machine that was capable of accomplishing many great things. Unfortunately, this also lead to problems of not being able
-to wind down.
+machine that was capable of accomplishing many great things. Unfortunately, this also leads to problems of not being
+able to wind down.
 
-Driving myself into the ground, honestly, is the easiest part of my day. Even after countless reflections, I still do
-not know where my endless internal drive forward is sourced. I would fill my days to the brim with character building
-activities, with very few moments to relax. Then at the end of the day, I would wonder, "why I am having such a hard
-time getting enough sleep?"
+Driving myself into the ground is the easiest part of my day. Even after countless reflections, I still do not know
+where my endless internal drive forward is sourced. I would fill my days to the brim with character building activities
+and very few moments to relax. Then at the end of the day, I would wonder, "why I am having such a hard time getting
+enough sleep?"
 
-Well, I eventually figured out what my problem was, and it only took me up until the time of writing this to figure it
+Well, I eventually figured out what my problem was and it only took me up until the time of writing this, to figure it
 out (and I am still working at it).
 
 # How it started
@@ -43,16 +43,17 @@ however it was also dark. This meant that I had to be tricked out in lighting ge
 
 Another big problem about riding the dark is when autumn and winter roll around. I learned early on that most weather
 conditions were not going to stop me from getting a ride in. If it was raining, then I got soaked. When the temperature
-dropped below freezing, then more cold weather gear got put on. The sun keep things warm, as you might have guessed, and
-when It's not up it gets _really_ cold. It gets to a level of cold where I need to wrap my feet (that already have two
-socks) in aluminium foil to avoid loosing heat during the ride. The only thing that would bring a halt to cycling would
-be snow/ice or fog. Though you may not know it, fog is terrible. It shows up around my part of America around
-mid-autumn. Where the ground is still warm from yesterday, but the air is significantly cooler. Visibility is essential
+dropped below freezing, then more cold weather gear got put on. Unsurprisingly, the sun keep things warm and when It's
+not up it gets _really_ cold. It gets to a level of cold where I need to wrap my feet (that already have two socks) in
+aluminium foil to avoid loosing heat during the ride. The only thing that would bring a halt to cycling would be
+snow/ice or fog. Though you may not know it, fog is terrible. It shows up around my part of America around mid-autumn.
+Where the ground is still warm from yesterday, but the air is significantly cooler. Visibility is essentially
 non-existent (
 have you tried driving in fog at night?), plus everything gets wet. At the time, I had a rim-braking bike, the rims
-getting wet would cause my stopping distance to drastically increase. Plus, I wear glasses so that makes it even worse.
-Anytime anybody says that the Fall or Winter is their favorite season, automatically tells me they like staying warm
-indoors or there hobbies winter based. _The cold season can spare me the pleasure of its company._ `/rant`
+getting wet and would cause my stopping distance to drastically increase. Pair that with not being able to see further
+than it takes to stop, to make it really hard to react to anything ahead. Plus, I wear glasses so that makes it even
+worse. Anytime anybody says that the Fall or Winter is their favorite season, automatically tells me they like staying
+warm indoors or there hobbies winter based. _The cold season can spare me the pleasure of its company._ `/rant`
 
 Anyway, the point that I am trying to get at, is that I had to wake up early in order to ride safely. Waking up at 04:30
 and heading out the door and hitting the roads by 05:00. This habit of rising early would continue even after my
@@ -92,7 +93,8 @@ also_ applied to me as well. I possessed many habits that exacerbated my sleep d
 it.
 
 The lie that I told myself was, "I am strong-willed, therefore I have habits. Because my habits are hurting me, I can
-change my habits." It was not until reaching a really tough point in my life, that the previous statement _was a lie_.
+change my habits." It was not until reaching a really tough point in my life, that the previous statement turned out to
+_be a lie_.
 
 Over the years of my self-improvement journey, there was one goal to be held sacred, "Though shalt not lie to thyself."
 Lying is only good in attempts to impress/persuade others, and it _does not_ help get one stronger. Just because you
@@ -100,13 +102,13 @@ might be impressed, does not change the fact that I am not capable of doing it.
 
 The one of prevalent places where this come into play is: athleticism. You can lie to yourself about being capable, but
 that does not make you stronger. Sure, I also could throw around a heavy weight and pretend like I am strong. However,
-that just makes me prone to injury and the feeling of a hollow victory. What is the point of doing something, just to
-impress other people? I am the one that has to live with myself at the end of the day. I am the one that has to give my
-life meaning, I have to fight my battles. Just because other people think that I am cool, does not solve my problems.
-Sure it might help, but in the end, I am the one that has to put up with my hardships. Yes, others can support me, but I
-am the one that has to pull myself out of the hole.
+that just makes me prone to injury and leaves me with the feeling of a hollow victory. What is the point of doing
+something, just to impress other people? I am the one that has to live with myself at the end of the day. I am the one
+that has to give my life meaning, I have to fight my battles. Just because other people think that I am cool, does not
+solve my problems. Sure it might help, but in the end, I am the one that has to put up with my hardships. Yes, others
+can support me, but I am the one that has to pull myself out of the hole.
 
-Overtime, I have learned that my actions that are taken when I feel the worst defines the limits of what I am capable of
+Overtime, I have learned that my actions taken when I feel the worst defines the limits of what I am capable of
 accomplishing in the future. I cannot achieve self actualization by building it up on false accomplishments. Lies do not
 help when you feel like crap and want to give up. What I am trying to get as is, I do not want to lie to myself.
 
@@ -114,13 +116,13 @@ help when you feel like crap and want to give up. What I am trying to get as is,
 
 ### Getting to Sleep on Time
 
-What I had been telling myself previously was a lie, though it was slightly mis-worded. Most of the correct word where
+What I had been telling myself previously was a lie, though it was slightly mis-worded. Most of the correct words where
 present, just put in the wrong order. Instead of, "I am strong-willed, therefore I have habits, and because my habits
 are hurting me, I can change my habits." What it actually was "I am strong-willed, because I have habits. My current
 habits are hurting me, I can use my habits to change myself." This was realized only after I went through a spout of an
 existential crisis. A time when nothing really mattered, and there was no real point in doing anything. I felt hollow,
 and nothing I did would make the feeling go away. My current life philosophy, is that there is no point in life, so that
-means there is no reason to not make the most out of it. The only meaning in life is the meaning I give it. When things
+means there is no reason not to make the most out of it. The only meaning in life is the meaning I give it. When things
 start to feel pointless, I just dig into the things that I gave meaning before, and just wade through hollowness. It is
 because I have such strong habits, that I am able to be resilient. I have normally exited these bouts stronger than
 before and knowing myself better.
@@ -134,7 +136,7 @@ The first thing that I would attempt to do, was set an alarm that tells me to pu
 for bed. An important factor that I learned after the fact was: I needed to respect this alarm to go to sleep like I do
 the waking up alarm. Waking up in the morning was never a problem, in-fact I am almost always ready to go the moment the
 alarm goes off. Which is another habit that needed to be controlled carefully. That shutdown alarm did not get the same
-respect as the wakeup alarm. Eventually it started to be ignored causing a slip back into sleep my deprivation habits.
+respect as the wakeup alarm. Eventually it started to be ignored, causing a slip back into sleep my deprivation habits.
 
 There was nothing at the time that would get me to respect that alarm. I always felt like there needed to be more time
 to relax. The thought of, "I have an entire hour to wind down and get to sleep, I can get this to work" did not help
@@ -161,12 +163,12 @@ to tackle the next ones.
 
 ### Respecting the Magic Brick
 
-**The smartphone** is amazing an amazing tool at destroying any semblance of good nights sleep. I would browse the phone
-in bed and leave it charging right next to me overnight. Every book that I had read about getting to sleep, stated that
-the phone should live on the other side of the room or in another room. Again, these words where heard but not
-understood. This was because I was different, I am strong-willed, therefore I should be able to ignore my phone, put it
-down when necessary, or stop at anytime. You can probably guess, that that did not happen and nights where spent
-clinging to a phone. Why does everything have to be so darn interesting before going to sleep?
+**The smartphone** is an amazing tool at destroying any semblance of good nights sleep. I would browse the phone in bed
+and leave it charging right next to me overnight. Every book that I had read about getting to sleep, stated that the
+phone should live on the other side of the room or in another room. Again, these words where heard but not understood.
+This was because I was different, I am strong-willed, therefore I should be able to ignore my phone, put it down when
+necessary, or stop at anytime. You can probably guess, that that did not happen and nights where spent clinging to a
+phone. Why does everything have to be so darn interesting before going to sleep?
 
 Another non-productive habit that formed in the same vein, was the need to constantly check email. If I woke up from a
 sleep cycle, that was prime time to reach for the phone and check emails/notifications. An epiphany happened right after
@@ -190,8 +192,8 @@ You might be aware, but our brains are built with a _really_ good internal clock
 bit scary. I adopted the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) a long time ago. My
 working sets are 27 minutes, and the resting intervals are 3 minutes. When a rest interval comes up, I get up and take a
 break, mostly looking out a window or something. Well, it has gotten to the point where I feel like there was enough of
-a break, and I could go back to what I was doing. By the time my rear hits is in the chair, the bell, to start the next
-working set, rings. Almost as if I felt the passage of exacly 2 minutes and 45 seconds without actually keeping track.
+a break, and I could go back to what I was doing. By the time my rear hits is in the chair, the bell to start the next
+working set, rings. Almost as if I felt the passage of exactly 2 minutes and 45 seconds without actually keeping track.
 
 This also means that it applies to sleep durations as well. The amount of times that I have woken up 3-5, minutes before
 04:00, gave even more merit to the concept of an internal clock. Combine waking up 5 minute before the alarm and not
@@ -199,7 +201,7 @@ wanting to fall back asleep in fear of breaking a sleep cycle, will result in ge
 
 I had a strong conviction that I _needed_ to know what time it is during the night, because I might need to wake up
 really soon. That would be enough for me to crawl to the other side of the room, to check the phone for the time. It
-would also happen when I needed to make a light night pit-stop.
+would also happen when I needed to make a late night pit-stop.
 
 ### Wait, what time is it?
 
@@ -216,10 +218,10 @@ I would frequently find that during the time it took to take a leak, my mind wou
 just woken up, therefore it means that I should start firing on all cylinders so that today's task can start. By the
 time I would get back into bed, my mind would be racing on trivial stuff that would prevent me from getting to sleep.
 
-This would happen almost everytime I needed to get up out of bed. This was happening in tandem with weening myself off
-knowing the time after waking up. I had no good solution to this, because I would almost instantly start thinking about
-things as soon as I got up. I wish there was a better solution to this. The way that I fixed this was, just hold it in
-and take care of it when 04:00 rolls around. It could wait until that unknown point in time is reached.
+This would happen almost everytime I needed to get up out of bed. Happening in tandem with weening myself off knowing
+the time after waking up. I had no good solution to this, because I would almost instantly start thinking about things
+as soon as I got up. I wish there was a better solution to this. The way that I fixed this was, just hold it in and take
+care of it when 04:00 rolls around. It could wait until that unknown point in time is reached.
 
 Sleep is such a difficult task to work with. It is not available on-demand, the best that can be done is to set the
 conditions for sleeping. Then hope that it eventually works. Being high-strung is the source of all my issues. I know
@@ -234,10 +236,10 @@ lost in connectivity with the world became replaced with a clear head-space. Tha
 satisfaction overall.
 
 I wish I could say that all my sleeping problems have been solved. The reality is that I am moving in the right
-direction. I find desire the know the time at night, to be manageable. It still sometimes happens, and I will figure out
-hour of night. Though is not the end of the world, I still need to be mindful about regression. With time mostly under
-control, the alarm clock is really the only thing that pulls me from dreamland now days. To my surprise, even if I get
-woken up by the alarm, my mind quickly gets to a clear and active state.
+direction. I find the desire the know the time at night to be manageable. It still sometimes happens, and I will figure
+out hour of night. Though is not the end of the world, I still need to be mindful about regression. With time mostly
+under control, the alarm clock is really the only thing that pulls me from dreamland now days. To my surprise, even if I
+get woken up by the alarm, my mind quickly gets to a clear and active state.
 
 While I am still working on managing all the poor sleeping habits. The reward so far has made it worth it, for the most
 part. The best thing that has come out of this is that I can actually sleep in on both nights of the weekend now.
@@ -252,5 +254,5 @@ need to get up, I can return to sleep faster.
 The giant pool of willpower and effort needed to fix my poor sleeping habits marks this as the greatest challenge I have
 faced so far. My biggest problem is, that I cannot relax or get comfortable. While it may be a side effect of neglect
 during my ultramarathon, it is something I _can_ fix. I just have to be ever vigilant to set the right conditions, and
-not slide down the slope of regression. Thankfully, I have the confidence in knowing that habits that I form, once set
+not slide down the slope of regression. Thankfully, I have the confidence in knowing that the habits I form, once set,
 are almost there to stay. I have the ability to change something that feels unchangeable.
