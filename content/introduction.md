@@ -14,7 +14,7 @@ issues were tolerable. Being called an honor's student, never happened to me. Tr
 concept. Nothing about me was remarkable at the time, and that was okay, I just existed. I had things, at the time, that
 made me happy. Having a personal little bubble meant that life was easy and care-free.
 
-The future was something that had no weight to care and had very little of my concern. Not knowing what to expect from
+The future was something that had no pressing weight and had very little of my concern. Not knowing what to expect from
 life or even what my college major should be, was not a source of stress. Why figure it out now, when it can be solved
 later? Most problems get an answer once you wait long enough. Besides, everybody else has the same problem, right?
 
@@ -31,9 +31,9 @@ In addition, remaining employed as a fast-food clerk/cook at KFC or a janitor at
 my long-term life goals either.
 
 There have been plenty of stories from my various shift managers which relayed things like: "Stay in school" or "keep
-good grades". Those words never really resonated at the time, though understood the meaning, I was not listening. Once
-my school performance started to dip, those messages began to have more impact. Everything was adding up to a need for
-change.
+good grades". Those words never really resonated at the time. Even though I understood the meaning, I was not listening.
+Once my school performance started to dip, those messages began to have more impact. Everything was adding up, and I was
+in need of a change.
 
 ### Actually applying myself
 
@@ -42,7 +42,7 @@ and effort into understanding the material and completing assignments.
 
 Thankfully, the semester ended with good marks and even a place onto the Dean's list. Looking back now, the thought of
 both putting the time and effort, and still failing, is a scary prospect. Knowing that no matter how hard I tried, not
-being able to succeed would be life crushing. If this was the case, most of the stories about to be told would have
+being able to succeed, would be life crushing. If this was the case, most of the stories about to be told would have
 never happened. Knowing that I am fortunate enough to be able to apply myself and see results, has been something I have
 taken for granted.
 
@@ -52,7 +52,7 @@ accomplishment. For all I knew, I was avoiding having a mediocre life. Being giv
 pleasant experience.
 
 This trend continued for the rest of my stay at community college. With time at university quickly moving into the
-scope. Thankfully, I eventually had an epiphany as to what I wanted to study. The decision was something to do with
+scope. I was grateful that I eventually figured out what I wanted to study. The decision was something to do with
 computers or related to computers.
 
 At the time, my folks where still doing a fair amount of the "grown-up leg-work" for me. Meaning that my mother did all
@@ -63,9 +63,9 @@ That being said, going into this experience, I knew university was the _real dea
 scholarships or being a model student, started to feel really heavy.
 
 > To re-iterate, reflecting now as an adult, this was something that I should have not felt as bad as I should have.
-> Yes, trying and getting a partial ride with scholarships would have been nice, but they did not make out as a big deal.
+> Yes, trying and getting a partial ride with scholarships would have been nice. However, my folks did not make out as a big deal.
 > In fact, they never really said anything about it, or gave me a really hard time about it.
-> Going to college was just something I took for granted and something that was provided for me, and am grateful for that.
+> Going to college was just something that was provided for me, and am grateful for that.
 
 This was the big leagues, not just the "extended high-school program" 2-year college felt like. I entered university
 with my newly forming work ethic and a desire to succeed. I was no longer working hard for material things or a
@@ -79,9 +79,9 @@ life was blooming social life to start off with. In turn, the first two semester
 grateful that I can apply time and effort can yield positive results. The cherry on top was, I enjoyed the major I was
 given.
 
-Since this was university, I did not have summer classes like I did back in college. By the time 3rd year of higher
-education strolled, I had the late realization of, "I should get an internship." The technical folks at Dad's workplace
-were nice enough to take me in for the summer to learn. I even got paid for the experience!
+Since this was university, I did not have summer classes like I did back in college. By the time the 3rd year of higher
+education strolled in, I had the late realization of, "I should get an internship." The technical folks at Dad's
+workplace were nice enough to take me in for the summer to learn. I even got paid for the experience!
 
 I discovered a vast amount the vast of unknown topics. The entire summer was spent picking up new concepts that I have
 never even heard of before or was taught. I would like to think that I also did a good job in the process, because they
@@ -92,13 +92,13 @@ life (the one I am in as I write this) started to appear from behind the horizon
 
 ### The Point of Inflection
 
-By this time, the past few years of actually applying myself got me hooked on performance. The feeling of being
-fulfilled was strong and _very_ desirable. Becoming great was driven by what felt like an insatiable appetite. By this
-time, I already subconsciously knew that I needed to change who I was if I wanted to make up for my unremarkable past
-life. Therefore, I guess past me thought that part of that was loosing 140lbs (63kilos). There really was not a specific
-day or reason for the change. It just happened. Over the course of a year, I just barely ate enough food to get by.
-Learning first-hand that weight can be lost without exercising. Though the weight was lost, there was also a gain of a
-very unhealthy relationship with food. Which took me a solid 5 years afterwords to overcome. I went from:
+By this time, the past few years of actually applying myself got me hooked on performance. Being fulfilled was strong
+and _very_ desirable feeling. Becoming great was driven by what felt like an insatiable appetite. By this time, I
+already subconsciously knew that I needed to change who I was if I wanted to make up for my unremarkable past life.
+Therefore, I guess past me thought that part of that was loosing 140lbs (63kilos). There really was not a specific day
+or reason for the change. It just happened. Over the course of a year, I just barely ate enough food to get by. Learning
+first-hand that weight can be lost without exercising. Though the weight was lost, there was also a gain of a very
+unhealthy relationship with food. Which took me a solid 5 years afterwords to overcome. I went from:
 
 - Eating until I was more than full, because I was hungry.
 - Not eating anything enough.
@@ -106,8 +106,8 @@ very unhealthy relationship with food. Which took me a solid 5 years afterwords 
 - Not caring because I know my body now and how it behaves (for the most part).
 
 That is a story for another day, and I will leave it as such. The important point is that Fall 2013 became the precursor
-to the unknowing start of my "High-Octane" life chapter. At the endd of the semester, I was a now skinny-fat 160lb (
-73kg). I changed myself enough to where I felt like I could actually work out. So Fall 2014, my last semester of
+to the unknowing start of my "High-Octane" life chapter. At the end of the Summer 2014, I was a now skinny-fat 160lb
+(73kg). I changed myself enough to where I felt like I could actually work out. So Fall 2014, my last semester of
 university (the fifth one if you are counting), marked the start of my athletic phase. There was a singular goal, which
 was to be able to do one chin-up.
 
@@ -124,11 +124,11 @@ to perform one chin-up.
 
 The completion of the fall semester 2014 cemented how I wanted to (and am still) currently living my life. I was able to
 complete university with my head held high. In fact, I remember feeling super confident about my last test that I ever
-took at university. Not having to cram at the last minute like some my other classmates, because I already spent the
+took at university. Not having to cram at the last minute like some my other classmates. I already spent the
 time and knew the material. That feeling of being in control and knowing I aced my last exam of my educational career,
 was a savory memory. In addition, I was working out and be able to accomplish things I never thought possible.
 
-Life satisfaction is amazing, and I yearned for more. The feeling of accomplishment and knowing what I can do anything,
+Life satisfaction is amazing, and I yearned for more. That feeling of accomplishment and knowing what I can do anything,
 if I have a purpose. It validated the past 3 years of hard labor to complete higher level education. I was hooked, and I
 knew how the next significant portion of my life should be spent. The desire to know what I am fully capable of
 accomplishing, drove that decision. An attempt to make up for the previous 7 years I never really tried at anything
