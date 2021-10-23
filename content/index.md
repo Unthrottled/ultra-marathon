@@ -5,9 +5,9 @@ metaDescription: "This is the meta description"
 
 # Preface
 
-Although I did not know it at the time, April 2017 marked the start of a big chapter in my life. These past 4 years of
-diligent work have been fueled by a mix of discipline and stubbornness. The chapters of this book will tell a few
-stories behind a ridiculous open-source software contribution streak.
+April 2017 marked the start of a big chapter in my life, though I did not know it at that point in time. These past 4
+years of diligent work have been fueled by a mix of discipline and stubbornness. The pages in this virtual book will
+give you a glimpse at the stories behind a ridiculous open-source software contribution streak.
 
 ![Contributions Graph](./images/contributions.png)
 
@@ -50,8 +50,8 @@ amount of time outside of work, to get better at doing _work_.
 That does not mean you should not at least try to find your ultimate version, the pinnacle of your performance, self
 actualization. Work hard and smart, while avoiding getting stuck in the time sink you fell into a long time ago.
 
-Please keep in mind, that most of these words are directed towards me. This is an effort in helping me let go of something
-that is starting to no longer deliver expected results.
+Please keep in mind, that most of these words are directed towards me. This is an effort in helping me let go of
+something that is starting to no longer deliver expected results.
 
 I would like to think this is for others who are like me, however I know that is wishful thinking. Those who are _
 really_

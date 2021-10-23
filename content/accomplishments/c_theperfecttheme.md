@@ -19,7 +19,7 @@ bunch of other people's code". Though these are all true statements, I want to l
 Anything else would just be covering up this fact.
 
 For starters, I am not the kind of person that always has the "next hot idea". I have difficulty creating from a blank
-slate. Give me a problem, I will find a creative way to bridge the gap. That being said, one day I thought that it would
+slate. Give me a problem, I will find a creative way to bridge the gap. Out of the blue, one day I thought that it would
 be cool if I could write code in an editor that is themed to a specific anime girl. Since then, I have held onto this
 idea with an iron grip.
 
@@ -32,18 +32,18 @@ girls now, but I also feel like I can be artistic now.
 
 I have an extremely active and vivid visual imagination. Meaning that I solve problems by visualizing solutions in my
 head. Working towards a vision is my primary form of getting things done. Take for instance, this project, the _
-ultramarathon_. I know what I want to accomplish, I have vision of what it messages should relay. Now, I am working
+ultramarathon_. I know what I want to accomplish, I have vision of what its messages should relay. Now, I am working
 towards that goal that I have in mind.
 
-For clarity, when I say that I can "visualize solutions", I cannot literally _see_ the problems with my optical senses (
-eg: with my eyeballs). The closest experience I can relate this to rememberng somithing a dream that you had. If you can
-see things in your dreams, then think back to a place you have been in a dream. It could be a building, landscape, next
-to a person, scary thing, or whatever else. If you have the ability to recall or remember what anything in a dream you
-have had, then that is the same "visualization" I am referring to. You probably have never seen the object with your
-eyes in real life, but you still know what it looks like in your head. That is the experience I relate to when somebody
-else says have a photographic memory. Not saying that I have a photographic memory, that would be nice though. No, the
-images in my head are not clear enough that I can see small details, I only can only see a large vague concept. I can
-see the forest, but not the trees.
+For clarity, when I say that I can "visualize solutions", I cannot literally _see_ the problems with my optical senses
+(eg: with my eyeballs). The closest experience I can relate this to is remembering something a dream. If you can see
+things in your dreams, then think back to a place you have been in a dream. It could be a building, landscape, next to a
+person, scary thing, or whatever else. If you have the ability to recall or remember what anything in a dream you have
+had, then that is the same "visualization" I am referring to. You probably have never seen the object with your eyes in
+real life, but you still know what it looks like in your head. That is the experience I relate to when somebody else
+says have a photographic memory. Not saying that I have a photographic memory, that would be nice though. No, the images
+in my head are not clear enough that I can see small details, I only can only see a large vague concept. I can see the
+forest, but not the trees.
 
 Anyway, back to the topic at hand. I believe that one of the reasons that I enjoy programming so much is that there is a
 creative element to it. Programming is a nice mix of finding creative solutions and solving tough logical problems. A
@@ -120,19 +120,19 @@ Anime Girls_ on every piece of software" has given me. In addition, a large port
 greatly benefited from past problems solved building out the [Doki Theme](https://github.com/doki-theme) across various
 platforms.
 
-Join me friend as I reflect on all the problems and solutions of building tooling to support _anime girls_ on all the
+Join me friend, as I reflect on all the problems and solutions of building tooling to support _anime girls_ on all the
 important pieces of software.
 
 ### Hide-n-Seek Boss
 
 My journey began developing the Doki Theme as
-a [JetBrains product plugin](https://github.com/doki-theme/doki-theme-jetbrains). Meaning that this project holds a
-special place in my heart. For the first year or so, when I was building out my themes, I had no idea how to figure out
-how things where styled. I also did not know that there
+a [JetBrains product plugin](https://github.com/doki-theme/doki-theme-jetbrains). This project holds a special place in
+my heart. For the first year or so, when I was building out my themes, I had no idea how to figure out how things where
+styled. I also did not know that there
 was [documentation on how to build a theme](https://plugins.jetbrains.com/docs/intellij/themes.html). Looking back, that
 probably did not exist when I first started. I also missed out on the game
 changing [UI Inspector](https://plugins.jetbrains.com/docs/intellij/internal-ui-inspector.html#enabling-the-ui-inspector)
-. On top of that, I do not (and still do not) understand how Java Swing works fully.
+. On top of that, I do not (and still do not) understand how Java Swing works.
 
 Hindsight is 20-20, though I could have used those tools at the time to make my life easier. Not having them probably
 gave me one of my best skills: Being able to find functionality in other people's code. If this whole programming thing
@@ -167,9 +167,9 @@ valuable experience.
 
 As I have been developing my themes, I have been trying to find unique color palettes that make pleasant themes.
 Essentially pushing the boundaries of what should and should not be tolerable. Which presents its own unique set of
-challenges. Mainly, what I want to make the IDE do is not what the IDE developers anticipated when building out there
+challenges. Mainly, what I want to make the IDE do is not what the IDE developers anticipated when building out their
 look and feel. The platform belongs to them, and they can do what they like. However, hard coding colorings and not
-letting things be customizable is _frustrating_.
+letting things be customizable, is _frustrating_.
 
 One of the things that bothers me a bunch is inconsistencies in styling. I want my themes to be a buttery smooth
 experience, and I will not let that one gray border in the obscure window in the settings, ruin that. So I have a couple
@@ -213,15 +213,15 @@ said asset.
 
 The solution that I wanted should be able to:
 
-- The plugin will take new updates without the user knowing.
-- Be able to push new updates and have them take effect quickly.
+- Take new updates without the user knowing.
+- Be pushed new updates and have them take effect quickly.
 
 What I settled for was Amazon's [CloudFront](https://aws.amazon.com/cloudfront/) to globally host all the assets
 at https://doki.assets.unthrottled.io/. Once the plugin is downloaded and a relevant theme is set, assets will be
 downloaded from the content delivery network (CDN). Once the assets have been downloaded, the next phase of asset
 management begins. To detect if the asset changes, once a day, the plugin will calculate
 the [MD5](https://en.wikipedia.org/wiki/MD5) of the asset locally, and compare it to the pre-calculated MD5 hash
-available on the CDN. This way users are only downloading 32 bytes of information, instead of the much larger asset.
+available on the CDN. This way users are only downloading 32 bytes of information, instead of the (much larger) asset.
 That fact is important, because bandwidth costs money, so fewer data sent, means lower costs! I am currently providing
 my themes as a free product, so I would like to keep my expenses to a minimum. If the locally computed hash is different
 from the remote hash, then the new asset is downloaded and replaced on the user's machine. That way they can still use
@@ -244,11 +244,11 @@ frequent changes) and most of the assets are created by me.
 
 ### Composable Build Structure
 
-Another nice problem that revealed itself in the beginning stages of my collection was _maintaining themes is difficult_
-. As platforms evolve, so do the themes. New elements get added, removed, deprecated, and the such. Handling these
-issues was not really a problem when I first started off with 4 themes. Then 4 Grew into 8, then into 14. By the time I
-had reached 14, it was immediately apparent that this was not a scalable operation. It was really difficult to make
-updates and keep track of all the things. There were a couple of options that I had available to me:
+_Maintaining a large amount of themes is difficult_. As platforms evolve, so do the themes. New elements get added,
+removed, deprecated, and the such. Handling these issues was not really a problem when I first started off with 4
+themes. Then 4 Grew into 8, then into 14. By the time I had reached 14, it was immediately apparent that this was not a
+scalable operation. It was really difficult to make updates and keep track of all the things. There were a couple of
+options that I had available to me:
 
 - Get rid of themes and only keep the important ones.
 - Make it easier to maintain a large number of themes.
@@ -347,22 +347,23 @@ If you asked me if I could only keep 10, I would ask you for one more and give y
 
 </details>
 
-I think one of the reasons that dark themes are so prevalent, is not because are light themes are blinding, but because
+I think one of the reasons that dark themes are so prevalent, is not because are light themes are awful, but because
 they can be colorful. White, by definition, reflects all wavelengths of light, therefore is all colors. I re-learned
-that fact, because it is hard to make any light theme _colorful_. Text is hard to read if it is not dark and dark text
-is cannot be as vibrant. However, that is not the case for dark themes, because the base lacks color. So it allows for
-the lexical syntax highlighting to really _pop_ against the background. You might have picked up that most of my
-favorite themes have either a neon blue, green, or teal. I like the contrast and have noticed that trend in my most
-recent themes. It looks good in my opinion.
+that fact, because it is hard to make any light theme _colorful_. Text is hard to read if it is not dark. Dark text
+cannot be vibrant shades. However, that is not the case for dark themes, since the base lacks color. It allows for the
+lexical syntax highlighting to really _pop_ against the backdrop. You might have picked up that most of my favorite
+themes have either a neon blue, green, or teal. I like the contrast and have noticed that trend in my most recent
+themes. It looks good in my opinion.
 
 Another thing that I am aware of, is that I will always be subject to
-the [recency bias](https://en.wikipedia.org/wiki/Recency_bias). Mostly because my more recent themes where created by an
-author with more skills, that those of the Alex that made the past themes. My skill get better over time, therefore the
-more recent themes will be more pleasant.
+the [recency bias](https://en.wikipedia.org/wiki/Recency_bias). Mostly because the more recent themes where created by
+an author with more skills, than those made by distant past Alex. My skills get better over time, making the more
+recent themes will be more pleasant.
 
-Anyways, I do not see myself stopping making themes anytime soon. I normally am satisfied for about a month, then I want
-to get back into the creative process again. This project has gotten to a point, where I will refuse any opportunity
-that will not allow me to use any JetBrains products to develop software. However, I am doing my best to cover all of my
-bases. My waifus should not be all put in a single basket. Which is why I have expanded my themes
+I do not see myself stopping theme creation anytime soon. I normally am satisfied for about a month, then I want to get
+back into the creative process again. This project has gotten to a point, where I will refuse any opportunity that will
+not allow me to use any JetBrains products to develop software. However, I am doing my best to cover all of my bases.
+Just wanting to avoid putting all my eggs in a single basket. Which is why I have expanded my themes
 across [many platforms](https://doki-theme.unthrottled.io/products). Just in case I ever find myself in a position where
 I have to use foreign tools, I still have my anime girls.
+
