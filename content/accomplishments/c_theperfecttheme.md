@@ -231,7 +231,7 @@ Here is an example of an asset and checksum combination
 
 | Asset | Checksum |
 | --- | --- |
-| <img src="https://doki.assets.unthrottled.io/stickers/jetbrains/v2/nekoPara/cinnamon/dark/cinnamon_dark.png" style="min-height: 250px; min-width: 164px;"/> | https://doki.assets.unthrottled.io/stickers/jetbrains/v2/nekoPara/cinnamon/dark/cinnamon_dark.png.checksum.txt |
+| <img src="https://doki.assets.unthrottled.io/stickers/jetbrains/v2/nekoPara/cinnamon/dark/cinnamon_dark.png" style="min-height: 250px; min-width: 164px;"/> | <span style="word-break: break-word">https://doki.assets.unthrottled.io/stickers/jetbrains/v2/nekoPara/cinnamon/dark/cinnamon_dark.png.checksum.txt</span> |
 
 Essentially, almost all the plugins that use any assets follow the aforementioned process of managing assets. Looking at
 you, [GitHub themes](https://github.com/doki-theme/doki-theme-github), you non-conformist plugin and your "user safety
