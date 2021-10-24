@@ -1,145 +1,67 @@
-# gatsby-gitbook-starter
-
-Kick off your project with this starter to create a powerful/flexible docs/tutorial web apps.
-
-![gatsby-gitbook-starter](https://graphql-engine-cdn.hasura.io/learn-hasura/gatsby-gitbook-starter/assets/documentation_app_blog.png)
-
-## Motivation
-
-We wanted to create a [GraphQL tutorial](https://learn.hasura.io) series. The content would be written by developers for various languages/frameworks and what better than writing it in Markdown! And since this is a tutorial series we also needed rich embeds, syntax highlighting and more customisations.
-
-We also wanted to serve these tutorials in sub paths of [learn.hasura.io](https://learn.hasura.io). To serve all these requirements, we decided to use Gatsby + MDX (Markdown + JSX) to extend markdown and used a neat consistent theme like the one at [GitBook](https://www.gitbook.com) and deployed as docker containers.
-
-## 🔥 Features
-- Write using Markdown / [MDX](https://github.com/mdx-js/mdx)
-- GitBook style theme
-- Syntax Highlighting using Prism [`Bonus`: Code diff highlighting]
-- Search Integration with Algolia
-- Progressive Web App, Works Offline
-- Google Analytics Integration
-- Automatically generated sidebar navigation, table of contents, previous/next
-- Dark Mode toggle
-- Edit on Github
-- Fully customisable
-- Rich embeds and live code editor using MDX
-- Easy deployment: Deploy on Netlify / Now.sh / Docker
-
-## 🔗 Live Demo
-
-Here's a [live demo](https://learn.hasura.io/graphql/react)
-
-## 🚀 Quickstart
-
-Get started by running the following commands:
-
-```
-$ git clone git@github.com:hasura/gatsby-gitbook-starter.git
-$ cd gatsby-gitbook-starter
-$ npm install
-$ npm start
-```
-
-Visit `http://localhost:8000/` to view the app.
-
-## 🔧 Configure
-
-Write markdown files in `content` folder.
-
-Open `config.js` for templating variables. Broadly configuration is available for `gatsby`, `header`, `sidebar` and `siteMetadata`.
-
-- `gatsby` config for global configuration like
-    - `pathPrefix` - Gatsby Path Prefix
-    - `siteUrl` - Gatsby Site URL
-    - `gaTrackingId` - Google Analytics Tracking ID
-
-- `header` config for site header configuration like
-    - `title` - The title that appears on the top left
-    - `githubUrl` - The Github URL for the docs website
-    - `helpUrl` - Help URL for pointing to resources
-    - `tweetText` - Tweet text
-    - `links` - Links on the top right
-    - `search` - Enable search and [configure Algolia](https://www.gatsbyjs.org/docs/adding-search-with-algolia/)
-
-- `sidebar` config for navigation links configuration
-    - `forcedNavOrder` for left sidebar navigation order. It should be in the format "/\<filename>"
-    - `frontLine` - whether to show a front line at the beginning of a nested menu.(Collapsing capability would be turned of if this option is set to true)
-    - `links` - Links on the bottom left of the sidebar
-    - `ignoreIndex` - Set this to true if the index.md file shouldn't appear on the left sidebar navigation. Typically this can be used for landing pages.
-
-- `siteMetadata` config for website related configuration
-    - `title` - Title of the website
-    - `description` - Description of the website
-    - `ogImage` - Social Media share og:image tag
-
-- For sub nesting in left sidebar, create a folder with the same name as the top level `.md` filename and the sub navigation is auto-generated. The sub navigation is alphabetically ordered.
-
-### Algolia Configuration
-
-To setup Algolia, go to `config.js` and update the `search` object to look like the one below:
-
-```...,
-	"search": {
-		"enabled": true,
-		"indexName": "MY_INDEX_NAME",
-		"algoliaAppId": process.env.GATSBY_ALGOLIA_APP_ID,
-		"algoliaSearchKey": process.env.GATSBY_ALGOLIA_SEARCH_KEY,
-		"algoliaAdminKey": process.env.ALGOLIA_ADMIN_KEY
-	},
-```
-
-Values for Algolia App ID, Search Key, and Admin Key can be obtained from Algolia Dashboard with the right set of permissions. Replace `MY_INDEX_NAME` with the Algolia Index name of your choice. To build the Algolia index, you need to run `npm run build` which will do a gatsby build along with content indexing in Algolia.
-
-### Progressive Web App, Offline
-
-To enable PWA, go to `config.js` and update the `pwa` object to look like the one below:
-
-```
-   "pwa": {
-        "enabled": false, // disabling this will also remove the existing service worker.
-        "manifest": {
-            "name": "Gatsby Gitbook Starter",
-            "short_name": "GitbookStarter",
-            "start_url": "/",
-            "background_color": "#6b37bf",
-            "theme_color": "#6b37bf",
-            "display": "standalone",
-            "crossOrigin": "use-credentials",
-            icons: [
-                {
-                    src: "src/pwa-512.png",
-                    sizes: `512x512`,
-                    type: `image/png`,
-                },
-            ],
-        },
-    }
-```
-
-## Live Code Editor
-
-To render react components for live editing, add the `react-live=true` to the code section. For example:
-
-```javascript react-live=true
-<button>Edit my text</button>
-```
-
-In the above code, just add `javascript react-live=true` after the triple quote ``` to start rendering react components that can be edited by users.
-
-## 🤖 SEO friendly
-
-This is a static site and comes with all the SEO benefits. Configure meta tags like title and description for each markdown file using MDX Frontmatter
-
-```markdown
+The Ultramarathon
 ---
-title: "Title of the page"
-metaTitle: "Meta Title Tag for this page"
-metaDescription: "Meta Description Tag for this page"
----
-```
 
-Canonical URLs are generated automatically.
+# Preface
 
-## ☁️ Deploy
+April 2017 marked the start of a big chapter in my life, though I did not know it at that point in time. These past 4
+years of diligent work have been fueled by a mix of discipline and stubbornness. The pages in this virtual book will
+give you a glimpse at the stories behind a ridiculous open-source software contribution streak.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hasura/gatsby-gitbook-starter)
+![Contributions Graph](./content/images/contributions.png)
 
+Since starting as a _professional_ software developer back in 2015, I have never worked a job that contributes to open
+source. What you see above, is small window into my world that exists outside developing software to put food on my
+plate. This contribution streak only paints a vague picture, which is open for any interpretation of how my time was
+spent.
+
+In fact, here is a list of some true statements and rhetorical questions I think you can derive _only_ from observing my
+contribution graph:
+
+- "He is dedicated to working on something."
+- "The discipline is strong in this one."
+- "Doesn't he know how to give up?"
+- "He probably has nothing better to do."
+
+A picture is worth a thousand more words, right? Leaving my entire story to be told only by a bunch of green squares on
+some website (which only has meaning to my peers) is unacceptable. Moving on without saying anything, feels wrong.
+
+What I am going to do instead, is catalog all the important lessons learned from shoving my face into the grindstone
+over the past 7 years. In hopes of giving myself the ability to _let go_ of past habits and reforming how my life
+currently exists today. An attempt to find greater meaning and purpose.
+
+Yes, I am aware that it is the same thing as _giving up_. However, now the message comes wrapped with a pretty bow.
+
+I want to start the next chapter in my life, but first, let me tell you where I have been to so far.
+
+# What to expect
+
+As you might have already guessed, most of these posts are going to be really personal. Nothing crazy intimate, but you
+are going to get a good idea of who I am. While I do feel a bit uneasy about sharing these posts, I also have to think
+about the other side of the coin. Reading or listening to stories about someone's life is something I find interesting.
+Therefore, it should be acceptable for others to take a glimpse into mine.
+
+Maybe you will spend less time figuring out lessons I learned the hard way. That you _do not_ need to spend a ridiculous
+amount of time outside of work, to get better at doing _work_.
+
+That does not mean you should not at least try to find your ultimate version, the pinnacle of your performance, self
+actualization. Work hard and smart, while avoiding getting stuck in the time sink you fell into a long time ago.
+
+Please keep in mind, that most of these words are directed towards me. This is an effort in helping me let go of
+something that is starting to no longer deliver expected results.
+
+I would like to think this is for others who are like me, however I know that is wishful thinking. Those who are _
+really_
+like who I am now, are not going to read this, because they are not looking for it. They are pre-occupied creating their
+own treasures, and are not actively searching this type of content.
+
+# How to Consume
+
+This is essentially a memoir of the past 7 years of my life. At the time of writing this, I am not currently into
+sitting down and reading large blocks of text. Therefore, I do not expect you to do the same.
+
+Each post is broken down such that they can be read independently of each other. It is the combination of all these
+independent stories that paints the bigger picture of my journey. Something that the contribution graph cannot fully
+accomplish by itself.
+
+Feel free to visit https://ultramarathon.unthrottled.io to pick and choose what seems to be the most interesting. I tried to make the titles, in the left-hand
+navigation bar, seem to lead to something interesting and not misleading.
